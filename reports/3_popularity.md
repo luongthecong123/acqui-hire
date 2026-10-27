@@ -1,0 +1,101 @@
+# Company popularity before the deal
+
+- **Fintool** (Microsoft): Traction with hedge funds, asset managers and investment banks; V5 agentic mode generating Excel DCF models, PowerPoint decks and Word memos. Team of ~6 per YC.
+- **Osmos** (Microsoft): Products (Uploaders, Pipelines, Datasets, AI data wrangler, agents for Databricks and Fabric) already integrated with Microsoft Fabric. No usage metrics found.
+- **Pi Labs** (Microsoft): unknown
+- **Fungible** (Microsoft): Pioneer of data processing units (DPUs) for data centers; raised >$300M. No customer metrics found.
+- **Lumenisity** (Microsoft): Won Best Fibre Component Product at ECOC Exhibition Industry Awards 2021 and 2022 for its NANF CoreSmart hollow core fibre cable. Founders not named in sources found (spun out of Southampton ORC in 2017).
+- **Samplab** (Apple): Swiss AI audio-to-MIDI tool with polyphonic note editing, chord detection, stem separation. Subscribers existed (refunded on shutdown Sept 17, 2026). No user counts found.
+- **Sonera** (Apple): Electrode-free biomagnetic chip (S1) for muscle/neural sensing; emerged from stealth 2023. No customer metrics found.
+- **PlasmaSolve** (Apple): Founded 2016 in Brno; MatSight plasma/vapor-deposition simulation suite launched 2023; early customers reportedly Kolzer, Von Ardenne, Danish Technological Institute. Apple reportedly already used its technology for years (iPhone thin-film coatings).
+- **MotionVFX** (Apple): ~70 employees; ~PLN 29M (EUR 6.8M) revenue in a recent year; products (mFilmLook, mO2) popular with YouTubers, filmmakers and TV studios.
+- **SigScalr (ledger name 'SigScaler'; correct spelling SigScalr)** (Apple): Open-source SigLens observability platform; GitHub star count not found. Repo archived after deal.
+- **Huxe** (Apple): Invite-only launch June 2025, public Sept 2025; service shut down May 28, 2026. No user numbers found.
+- **Wiz** (Alphabet / Google): ~$350M ARR (May 2024), over 40% of Fortune 100 as customers; rejected Google's $23B offer in 2024.
+- **Intersect (Intersect Power)** (Alphabet / Google): Developer of co-located clean power and data-center parks; Google anchor tenant; first site in Haskell County, Texas under construction.
+- **ProducerAI (formerly Riffusion)** (Alphabet / Google): Riffusion went viral Dec 2022 as open-source project; Producer.ai reportedly reached 1M users before acquisition.
+- **Common Sense Machines** (Alphabet / Google): Cube platform converts sketches/images/text to textured 3D meshes for game engines; no user metrics found.
+- **Atlantic Quantum** (Alphabet / Google): MIT spin-out working on fluxonium superconducting qubits; no commercial traction metrics found.
+- **Windsurf (Codeium)** (Alphabet / Google): Estimated ~$82M ARR (Sacra, July 2025), 350+ enterprise customers; ~40 R&D staff reportedly joined Google.
+- **Hume AI** (Alphabet / Google): Empathic Voice Interface product; new CEO Andrew Ettinger says Hume is on track for $100M revenue in 2026 (company claim).
+- **DuckLabs (DuckDB Labs)** (Amazon): DuckDB passed 40,000 GitHub stars (Aug 2026), 50M+ monthly PyPI downloads; 25k stars Dec 2024, 30k Jun 2025.
+- **Globalstar** (Amazon): Operates ~31 satellites; provides satellite emergency connectivity for iPhone since 2022.
+- **Fauna Robotics** (Amazon): Launched Sprout (~$50k, 3.5ft humanoid) <2 months before deal; shipped to R&D partners; one report mentions Disney as customer (single source).
+- **Rivr** (Amazon): Rivr Two stair-climbing delivery robot (60+ lb payload, 8.7 mph); prior Swiss-Mile name; Bezos personally engaged.
+- **Bee** (Amazon): $49.99 wristband + $19/mo subscription plus Apple Watch app; user counts not found.
+- **Reflection AI** (Nvidia): Open-weight frontier model lab; ~60 researchers at time of 2025 round; first model release reported but secondhand.
+- **Hugging Face** (Nvidia): Dominant open-model hub; founders ~$1.8B each after deal (Bloomberg index).
+- **Poolside** (Nvidia): Laguna family of open-weight coding models; Model Factory training system.
+- **Essential AI** (Nvidia): Founded by Transformer paper authors; no usage metrics found.
+- **Kumo AI** (Nvidia): KumoRFM relational foundation model; customers DoorDash, Reddit, Sainsbury's.
+- **Illumex** (Nvidia): Generative Semantic Fabric platform; no traction metrics found.
+- **Groq** (Nvidia): GroqCloud continues independently under CEO Simon Edwards; no metrics collected.
+- **SchedMD** (Nvidia): Slurm used in over half of top 10 and top 100 TOP500 systems (Nvidia).
+- **Enfabrica** (Nvidia): Chips for linking up to 100,000 AI chips; no customer metrics found.
+- **Solver (formerly Laredo Labs)** (Nvidia): No traction data found.
+- **CentML** (Nvidia): No metrics found.
+- **Lepton AI** (Nvidia): GPU rental platform; relaunched as DGX Cloud Lepton June 2025.
+- **Gretel** (Nvidia): No metrics collected.
+- **OctoAI (OctoML)** (Nvidia): Commercialised open-source Apache TVM; ~$900M 2021 valuation.
+- **Deci AI** (Nvidia): No metrics collected.
+- **Run:ai** (Nvidia): No metrics collected.
+- **Sundial** (Meta): Customers reportedly included OpenAI; will stop serving external customers.
+- **Stilla.ai** (Meta): Emerged from stealth Jan 2026; customers reportedly include Spotify and Ramp; connects to 3,000+ tools. No revenue/user metrics disclosed.
+- **Assured Robot Intelligence** (Meta): Small research startup (~20 staff, San Diego/NY); no product traction reported.
+- **Moltbook** (Meta): Launched late Jan 2026 and went viral as a Reddit-style social network for AI agents; studies later suggested far fewer real agents than claimed and little genuine interaction.
+- **Manus** (Meta): Company-claimed ~$100M ARR (~$125M run rate) ~8 months after Mar 2025 launch; 'millions of users'; 147T tokens processed, 80M+ virtual computers.
+- **Manz assets** (Tesla): Manz AG (Reutlingen) was an established listed automation/battery-equipment maker (~1,200 staff globally Dec 2024) that filed for insolvency.
+- **Wiferion** (Tesla): Freiburg wireless charging firm founded 2016 for industrial robots/AGVs; specific customer metrics not found.
+- **SiILion** (Tesla): Small research-stage startup; government grants; went dark in 2018.
+- **Springpower International** (Tesla): Small Toronto/Mississauga firm founded 2010 as offshoot of Highpower International; CEO reportedly Michael Wang (unconfirmed role).
+- **ATW Automation** (Tesla): German battery module/pack assembly line builder, ~120 employees, 20+ lines for automakers; facing sales decline and possible liquidation.
+- **InterPositive** (Netflix): Pre-deal traction not documented; 16-person team of engineers, researchers, creatives; tools for post-production on real footage.
+- **Ready Player Me** (Netflix): Cross-game avatar platform used by thousands of developers/apps (count not verified here); Series B $56M in 2022.
+- **Spry Fox** (Netflix): Hit titles like Triple Town and Alphabear; building MMO Spirit Crossing for Netflix.
+- **Animal Logic** (Netflix): Award-winning studio (The Lego Movie, Happy Feet, Moulin Rouge, Great Gatsby).
+- **Boss Fight Entertainment** (Netflix): Known for mobile RPG Dungeon Boss; founded 2013; offices in Allen, Austin, Seattle.
+- **Orchestra Bio** (OpenAI): Exited stealth Aug 2025 with ~$20M; team ~12 people at that time; no customer metrics found.
+- **Glass Imaging** (OpenAI): GlassAI neural ISP reportedly shipped in Honor smartphones.
+- **NextSlide** (OpenAI): No traction metrics found; product shut down, site shows farewell note.
+- **Ona / Gitpod** (OpenAI): OpenAI cites ~2 million developers helped; Gitpod widely used open-source cloud IDE; one unverified estimate ~$7M 2025 revenue, ~79 staff.
+- **Tomoro** (OpenAI): Founded 2023; ~150 engineers; clients include Tesco, Virgin Atlantic, Supercell, Fidelity International.
+- **Notch** (OpenAI): No user/revenue metrics found; AI agents to create/test ads.
+- **Hiro Finance** (OpenAI): Early: founded 2023, AI planner launched ~5 months pre-deal; Bloch claimed platform helped manage >$1B in assets (self-reported). No user/revenue figures. ~10 employees.
+- **Opaque Systems** (Anthropic): Spun out of Berkeley RISELab (MC2 open source project); Anthropic was already an Opaque customer. No other metrics found.
+- **Stainless** (Anthropic): SDK generator behind official SDKs of Anthropic, OpenAI, Google, Cloudflare; customers incl. Replicate, Runway.
+- **Runhouse** (Anthropic): Small (~10 people, founded 2023); product Kubetorch for ML on Kubernetes. No traction metrics found.
+- **Coefficient Bio** (Anthropic): Stealth; no public product or revenue; <10 employees, founded ~Aug 2025.
+- **Vercept** (Anthropic): Product Vy (cloud computer-use agent); Etzioni cited 'so much traction' but no metrics. Co-founder Matt Deitke left for Meta.
+- **Bun** (Anthropic): >7M monthly downloads, >82k GitHub stars; users incl. Midjourney, Lovable; already core to Claude Code (native installer).
+- **World Labs** (AMD): Marble world-model product; no user/revenue figures found. Prior AMD partnership on inference and training.
+- **Taalas** (AMD): HC1 test chip claimed ~17k tokens/s on Llama 3.1 8B (company claim); raised $169M Feb 2026.
+- **MEXT** (AMD): Out of stealth only April 2026; claims 2-4x memory expansion, 50% infra cost cut (company claims); partnered with AMD since 2024.
+- **MK1** (AMD): Flywheel engine serving >1 trillion tokens/day; ~9 employees; optimized for AMD Instinct.
+- **Brium** (AMD): Small compiler/AI software team; contributes to OpenAI Triton, WAVE DSL, SHARK/IREE. No usage metrics found.
+- **Akeana** (Qualcomm): Samsung Foundry partner; Alpine server test chip design completed Dec 2025. No customer commitments disclosed.
+- **PickNik Robotics** (Qualcomm): Maintainer of MoveIt open-source manipulation framework (very widely used in ROS); MoveIt Pro commercial product. No numeric stats retrieved.
+- **Modular** (Qualcomm): Mojo/MAX/Modular Cloud; no usage numbers retrieved.
+- **Augentix** (Qualcomm): Taiwan (Hsinchu) fabless ISP/multimedia SoC maker founded 2014; MeitY endorsed as trusted supply chain option for India.
+- **Alphawave IP** (Qualcomm): Established public connectivity IP company.
+- **Ventana Micro Systems** (Qualcomm): RISC-V server CPU designer (2018); Veryon products delayed per press.
+- **Arduino** (Qualcomm): ~33M users/community members (TechRadar).
+- **Mentee Robotics** (Intel (including Mobileye)): Humanoid robot demos (e.g. packing crates); series production targeted 2028. No revenue found.
+- **InAccel** (Intel (including Mobileye)): Greek startup (founded 2018) offering FPGA accelerators-as-a-service and a framework integrating with Spark/Jupyter; no quantitative traction (stars, ARR, customers) found.
+- **Silicon Mobility** (Intel (including Mobileye)): French fabless company (Sophia Antipolis) with OLEA SoC family for EV powertrain/energy management and software modules; customer or revenue figures not found.
+- **Codeplay Software** (Intel (including Mobileye)): Long-standing (20 years) SYCL/oneAPI contributor; implemented SYCL used by oneAPI ecosystem; Intel was an existing partner. No numeric metrics collected.
+- **Siru Innovations** (Intel (including Mobileye)): Finnish GPU IP/software firm (Ulvila), ~30 employees, <$10M sales from IP and NRE; AMD and Samsung reportedly used its designs; team roots in Bitboys.
+- **VMware** (Broadcom (including predecessor Avago)): Dominant enterprise virtualization vendor, public (NYSE: VMW).
+- **Symantec Enterprise Security** (Broadcom (including predecessor Avago)): Large enterprise security business (Symantec brand, Norton consumer retained by Symantec/NortonLifeLock).
+- **CA Technologies** (Broadcom (including predecessor Avago)): Established enterprise/mainframe software vendor (public, NASDAQ: CA).
+- **Brocade** (Broadcom (including predecessor Avago)): Leading Fibre Channel SAN and networking vendor, public.
+- **Broadcom Corporation** (Broadcom (including predecessor Avago)): Major public communications semiconductor company.
+- **X (Twitter)** (xAI / SpaceXAI): Major social network; real-time data stream used to train Grok (per press framing).
+- **Hotshot** (xAI / SpaceXAI): Released three video models (Hotshot-XL open weights, Act One, Hotshot); no user numbers found. Service stopped new creation Mar 14, 2025.
+- **xAI** (SpaceX): xAI Q rev ~$107M and net loss $1.46B in last quarter per one analysis; Grok chatbot.
+- **Cursor (Anysphere)** (SpaceX): Reported ~$2.6B annualized B2B revenue (Reuters-based) or >$4B ARR (Forbes-based) around June 2026.
+- **MuJoCo** (Google DeepMind): Widely used in RL/robotics research; DeepMind made it free then open-sourced under Apache 2.0 (May 2022).
+- **Hark Health Solutions** (Google DeepMind): Clinical task management app co-developed with Imperial/NIHR; used in NHS hospital pilots; no figures.
+- **Dark Blue Labs** (Google DeepMind): Early-stage research startup; no traction metrics.
+- **Vision Factory** (Google DeepMind): Academic-origin team; no commercial metrics.
+- **Mechanize** (Google DeepMind): Founded ~April 2025; builds RL environments and evals for frontier coding agents sold to AI labs; no public traction numbers.
+- **Contextual AI** (Google DeepMind): Enterprise RAG/agent platform; no usage metrics found.

@@ -1,0 +1,1320 @@
+// Acquisitions and acqui-hires gathered exclusively from the preceding chat.
+// This text file contains valid JavaScript (ES module). No founder/engineer profiles.
+// Import as JavaScript after renaming .txt to .js, or extract the JSON object after "= ".
+
+export const acquisitionDataset = {
+  "datasetName": "Big Tech / Frontier AI / Semiconductor Acquisition and Acqui-hire Tracker",
+  "asOf": "2026-10-27",
+  "sourceScope": "Only claims stated in this chat prior to file creation; no fresh independent verification for this export.",
+  "caveats": [
+    "Treat this as a working research ledger, not verified M&A due diligence. Prior messages may contain inaccurate, incomplete or later-corrected reports.",
+    "Deal dates have mixed meaning: announcement, closing, disclosure or reported month. Inspect dateBasis and notes.",
+    "A licence-and-hiring deal, asset purchase, investment, pending agreement or rumour is not a completed full-company acquisition.",
+    "Reported valuations and licence prices are not necessarily company acquisition consideration; company-level payouts do not establish employee equity proceeds.",
+    "Amounts are reported or approximate unless explicitly described otherwise.",
+    "No founder or engineer personal profiles are included.",
+    "Common Sense Machines and Hume AI are listed under Alphabet with relatedDivision=deepmind rather than duplicated; SpaceX is an additional parent buyer."
+  ],
+  "buyerOrganizations": [
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "group": "Magnificent Seven"
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "group": "Magnificent Seven"
+    },
+    {
+      "id": "alphabet",
+      "name": "Alphabet / Google",
+      "group": "Magnificent Seven"
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "group": "Magnificent Seven"
+    },
+    {
+      "id": "nvidia",
+      "name": "Nvidia",
+      "group": "Magnificent Seven; semiconductor"
+    },
+    {
+      "id": "meta",
+      "name": "Meta",
+      "group": "Magnificent Seven"
+    },
+    {
+      "id": "tesla",
+      "name": "Tesla",
+      "group": "Magnificent Seven"
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "group": "FAANG"
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "group": "frontier AI"
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "group": "frontier AI"
+    },
+    {
+      "id": "amd",
+      "name": "AMD",
+      "group": "semiconductor"
+    },
+    {
+      "id": "qualcomm",
+      "name": "Qualcomm",
+      "group": "semiconductor"
+    },
+    {
+      "id": "intel",
+      "name": "Intel (including Mobileye)",
+      "group": "semiconductor"
+    },
+    {
+      "id": "broadcom",
+      "name": "Broadcom (including predecessor Avago)",
+      "group": "semiconductor"
+    },
+    {
+      "id": "xai",
+      "name": "xAI / SpaceXAI",
+      "group": "frontier AI"
+    },
+    {
+      "id": "deepmind",
+      "name": "Google DeepMind",
+      "group": "AI research division"
+    },
+    {
+      "id": "spacex",
+      "name": "SpaceX",
+      "group": "xAI parent; ancillary buyer"
+    }
+  ],
+  "count": 99,
+  "countsByBuyer": {
+    "alphabet": 7,
+    "amazon": 5,
+    "amd": 5,
+    "anthropic": 6,
+    "apple": 6,
+    "broadcom": 5,
+    "deepmind": 6,
+    "intel": 5,
+    "meta": 5,
+    "microsoft": 5,
+    "netflix": 5,
+    "nvidia": 16,
+    "openai": 7,
+    "qualcomm": 7,
+    "spacex": 2,
+    "tesla": 5,
+    "xai": 2
+  },
+  "countsByStatus": {
+    "announced_pending": 7,
+    "closed": 10,
+    "integration_pending": 1,
+    "reported_completed": 80,
+    "rumoured": 1
+  },
+  "transactions": [
+    {
+      "id": "microsoft_fintool_202604",
+      "buyerId": "microsoft",
+      "target": "Fintool",
+      "date": "2026-04",
+      "technology": "AI financial research",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "microsoft_osmos_202601",
+      "buyerId": "microsoft",
+      "target": "Osmos",
+      "date": "2026-01",
+      "technology": "Agentic data engineering",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "microsoft_pi_labs_202512",
+      "buyerId": "microsoft",
+      "target": "Pi Labs",
+      "date": "2025-12",
+      "technology": "AI and computer vision",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "microsoft_fungible_202301",
+      "buyerId": "microsoft",
+      "target": "Fungible",
+      "date": "2023-01",
+      "technology": "Data-centre processing units",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "microsoft_lumenisity_202212",
+      "buyerId": "microsoft",
+      "target": "Lumenisity",
+      "date": "2022-12",
+      "technology": "Hollow-core optical fibre",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "apple_samplab_202606",
+      "buyerId": "apple",
+      "target": "Samplab",
+      "date": "2026-06",
+      "technology": "AI music editing",
+      "dealType": "assets_and_staff",
+      "status": "reported_completed",
+      "notes": "Disclosed October 2026.",
+      "disclosed": "2026-10",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "apple_sonera_202605",
+      "buyerId": "apple",
+      "target": "Sonera",
+      "date": "2026-05",
+      "technology": "Biomagnetic sensing",
+      "dealType": "assets_and_staff",
+      "status": "reported_completed",
+      "notes": "Disclosed September 2026.",
+      "disclosed": "2026-09",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "apple_plasmasolve_202604",
+      "buyerId": "apple",
+      "target": "PlasmaSolve",
+      "date": "2026-04",
+      "technology": "Semiconductor manufacturing simulation",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "apple_motionvfx_202603",
+      "buyerId": "apple",
+      "target": "MotionVFX",
+      "date": "2026-03",
+      "technology": "Video-editing plugins",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "apple_sigscaler_202603",
+      "buyerId": "apple",
+      "target": "SigScaler",
+      "date": "2026-03",
+      "technology": "Logging and observability",
+      "dealType": "assets_and_staff",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "apple_huxe_2026",
+      "buyerId": "apple",
+      "target": "Huxe",
+      "date": "2026",
+      "technology": "AI audio / briefing technology",
+      "dealType": "technology_license_and_hiring",
+      "status": "reported_completed",
+      "notes": "Non-exclusive technology licence and hiring rights; not a full-company acquisition.",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "alphabet_wiz_202603",
+      "buyerId": "alphabet",
+      "target": "Wiz",
+      "date": "2026-03",
+      "technology": "Multicloud security",
+      "dealType": "full_acquisition",
+      "status": "closed",
+      "notes": "Announced March 2025; closed March 2026.",
+      "announcementDate": "2025-03",
+      "closeDate": "2026-03",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "alphabet_intersect_202603",
+      "buyerId": "alphabet",
+      "target": "Intersect",
+      "date": "2026-03",
+      "technology": "Energy and data-centre development",
+      "dealType": "business_acquisition",
+      "status": "closed",
+      "notes": "Closed March 2026.",
+      "closeDate": "2026-03",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "alphabet_producerai_202602",
+      "buyerId": "alphabet",
+      "target": "ProducerAI",
+      "date": "2026-02",
+      "technology": "Generative music",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "alphabet_common_sense_machines_202601",
+      "buyerId": "alphabet",
+      "target": "Common Sense Machines",
+      "date": "2026-01",
+      "technology": "3D generative AI and world models",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "notes": "Approx. 12 employees; team joined Google DeepMind. Also discussed under DeepMind.",
+      "relatedDivision": "deepmind",
+      "approxTeamSizeAtDeal": 12,
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "alphabet_atlantic_quantum_202510",
+      "buyerId": "alphabet",
+      "target": "Atlantic Quantum",
+      "date": "2025-10",
+      "technology": "Quantum-computing hardware",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "alphabet_windsurf_202507",
+      "buyerId": "alphabet",
+      "target": "Windsurf",
+      "date": "2025-07",
+      "technology": "AI coding tools",
+      "dealType": "technology_license_and_hiring",
+      "status": "reported_completed",
+      "reportedValue": {
+        "amount": 2400000000,
+        "currency": "USD",
+        "basis": "reported licensing-and-hiring arrangement"
+      },
+      "notes": "Not an outright acquisition.",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "alphabet_hume_ai_202601",
+      "buyerId": "alphabet",
+      "target": "Hume AI",
+      "date": "2026-01",
+      "technology": "Voice AI / emotional intelligence",
+      "dealType": "technology_license_and_hiring",
+      "status": "reported_completed",
+      "notes": "CEO and several engineers joined Google DeepMind; not a full-company acquisition.",
+      "relatedDivision": "deepmind",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "amazon_ducklabs_202608",
+      "buyerId": "amazon",
+      "target": "DuckLabs",
+      "date": "2026-08",
+      "technology": "DuckDB analytical database",
+      "dealType": "acquisition_agreement",
+      "status": "announced_pending",
+      "notes": "DuckDB creators expected to continue leading project.",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "amazon_globalstar_202604",
+      "buyerId": "amazon",
+      "target": "Globalstar",
+      "date": "2026-04",
+      "technology": "Satellite communications",
+      "dealType": "merger_agreement",
+      "status": "announced_pending",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "amazon_fauna_robotics_202603",
+      "buyerId": "amazon",
+      "target": "Fauna Robotics",
+      "date": "2026-03",
+      "technology": "Humanoid robots",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "notes": "Team joined Amazon.",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "amazon_rivr_202603",
+      "buyerId": "amazon",
+      "target": "Rivr",
+      "date": "2026-03",
+      "technology": "Autonomous delivery robots",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "notes": "Robotics team joined Amazon.",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "amazon_bee_202507",
+      "buyerId": "amazon",
+      "target": "Bee",
+      "date": "2025-07",
+      "technology": "Personal AI wearable",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "nvidia_reflection_ai_202610",
+      "buyerId": "nvidia",
+      "target": "Reflection AI",
+      "date": "2026-10",
+      "technology": "Open-weight AI foundation models",
+      "dealType": "rumoured_acquisition",
+      "status": "rumoured",
+      "notes": "Financial Times reported discussions on 10 Oct 2026. No confirmed purchase agreement in prior research. Nvidia had reportedly invested ~$800M; Reflection reportedly valued at ~$25B.",
+      "rumourReportedDate": "2026-10-10",
+      "priorInvestmentReported": {
+        "amount": 800000000,
+        "currency": "USD",
+        "approximate": true
+      },
+      "reportedStartupValuation": {
+        "amount": 25000000000,
+        "currency": "USD",
+        "approximate": true
+      },
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "nvidia_hugging_face_202609",
+      "buyerId": "nvidia",
+      "target": "Hugging Face",
+      "date": "2026-09",
+      "technology": "Open model development and hosting platform",
+      "dealType": "acquisition_agreement",
+      "status": "announced_pending",
+      "reportedValue": {
+        "amount": 12930000000,
+        "currency": "USD",
+        "basis": "reported deal value including retention programme"
+      },
+      "notes": "Prior research said SEC filing projected closure in first half of 2027.",
+      "projectedClose": "2027-H1",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "nvidia_poolside_202608",
+      "buyerId": "nvidia",
+      "target": "Poolside",
+      "date": "2026-08",
+      "technology": "AI coding foundation models",
+      "dealType": "licensing_hiring_and_investment",
+      "status": "reported_completed",
+      "notes": "Reported $6B licence + $1B investment and job offers to 109 employees; three founders reportedly remained. Company investor letter characterised deal as neither an acquisition nor an acqui-hire; licence proceeds expected to go to investors.",
+      "componentValues": [
+        {
+          "amount": 6000000000,
+          "currency": "USD",
+          "basis": "reported licence"
+        },
+        {
+          "amount": 1000000000,
+          "currency": "USD",
+          "basis": "reported investment"
+        }
+      ],
+      "jobOffersReported": 109,
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "nvidia_essential_ai_202606",
+      "buyerId": "nvidia",
+      "target": "Essential AI",
+      "date": "2026-06",
+      "technology": "Foundation model research",
+      "dealType": "talent_transfer",
+      "status": "reported_completed",
+      "notes": "Reported movement of team members, not a confirmed whole-company purchase.",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "nvidia_kumo_ai_202606",
+      "buyerId": "nvidia",
+      "target": "Kumo AI",
+      "date": "2026-06",
+      "technology": "Predictive AI and foundation models",
+      "dealType": "reported_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "nvidia_illumex_202602",
+      "buyerId": "nvidia",
+      "target": "Illumex",
+      "date": "2026-02",
+      "technology": "Enterprise data semantics",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "reportedValue": {
+        "amount": 60000000,
+        "currency": "USD",
+        "approximate": true
+      },
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "nvidia_groq_202512",
+      "buyerId": "nvidia",
+      "target": "Groq",
+      "date": "2025-12",
+      "technology": "AI inference accelerator chips",
+      "dealType": "technology_license_and_hiring",
+      "status": "reported_completed",
+      "reportedValue": {
+        "amount": 20000000000,
+        "currency": "USD",
+        "approximate": true,
+        "basis": "reported licensing-and-hiring arrangement, not enterprise acquisition price"
+      },
+      "notes": "Groq as a company was not acquired, per prior discussion.",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "nvidia_schedmd_202512",
+      "buyerId": "nvidia",
+      "target": "SchedMD",
+      "date": "2025-12",
+      "technology": "Slurm cluster scheduling",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "nvidia_enfabrica_202509",
+      "buyerId": "nvidia",
+      "target": "Enfabrica",
+      "date": "2025-09",
+      "technology": "AI data-centre networking",
+      "dealType": "technology_license_and_hiring",
+      "status": "reported_completed",
+      "reportedValue": {
+        "amount": 900000000,
+        "currency": "USD",
+        "comparison": "greater_than",
+        "basis": "reported licence-and-hiring deal"
+      },
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "nvidia_solver_202509",
+      "buyerId": "nvidia",
+      "target": "Solver",
+      "date": "2025-09",
+      "technology": "AI coding agents",
+      "dealType": "reported_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "nvidia_centml_202506",
+      "buyerId": "nvidia",
+      "target": "CentML",
+      "date": "2025-06",
+      "technology": "GPU inference optimisation, ML compilation and cost reduction",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "notes": "Nvidia was previously an investor. Prior discussion reported at least 15 engineers and two interns transitioned.",
+      "transferredEngineersAtLeast": 15,
+      "transferredInternsReported": 2,
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "nvidia_lepton_ai_2025sp",
+      "buyerId": "nvidia",
+      "target": "Lepton AI",
+      "date": "2025-spring",
+      "technology": "GPU cloud infrastructure",
+      "dealType": "reported_acquisition",
+      "status": "reported_completed",
+      "notes": "Value previously described as hundreds of millions of USD, without a precise figure.",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "nvidia_gretel_202503",
+      "buyerId": "nvidia",
+      "target": "Gretel",
+      "date": "2025-03",
+      "technology": "Synthetic training data",
+      "dealType": "reported_acquisition",
+      "status": "reported_completed",
+      "notes": "Value previously described as nine figures USD, without a precise figure.",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "nvidia_octoai_202409",
+      "buyerId": "nvidia",
+      "target": "OctoAI",
+      "date": "2024-09",
+      "technology": "ML compilers and model serving",
+      "dealType": "reported_acquisition",
+      "status": "reported_completed",
+      "reportedValue": {
+        "amount": 165000000,
+        "currency": "USD",
+        "approximate": true,
+        "basis": "reported proposed value"
+      },
+      "notes": "Reported $132M funding raised; common shareholders reportedly received $0.02 per share.",
+      "fundingRaisedReported": {
+        "amount": 132000000,
+        "currency": "USD"
+      },
+      "commonSharePayoutReported": {
+        "amount": 0.02,
+        "currency": "USD",
+        "unit": "per share"
+      },
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "nvidia_deci_ai_202405",
+      "buyerId": "nvidia",
+      "target": "Deci AI",
+      "date": "2024-05",
+      "technology": "Neural architecture search and inference optimisation",
+      "dealType": "reported_acquisition",
+      "status": "reported_completed",
+      "reportedValue": {
+        "amount": 300000000,
+        "currency": "USD",
+        "approximate": true
+      },
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "nvidia_run_ai_202412",
+      "buyerId": "nvidia",
+      "target": "Run:ai",
+      "date": "2024-12",
+      "technology": "GPU scheduling, orchestration and resource management",
+      "dealType": "full_acquisition",
+      "status": "closed",
+      "reportedValue": {
+        "amount": 700000000,
+        "currency": "USD",
+        "approximate": true
+      },
+      "notes": "Date here denotes December 2024 closing.",
+      "closeDate": "2024-12",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "meta_sundial_202610",
+      "buyerId": "meta",
+      "target": "Sundial",
+      "date": "2026-10",
+      "technology": "AI data analytics",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "meta_stilla_ai_202609",
+      "buyerId": "meta",
+      "target": "Stilla.ai",
+      "date": "2026-09",
+      "technology": "Enterprise AI agents",
+      "dealType": "acquisition_agreement",
+      "status": "integration_pending",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "meta_assured_robot_intelligence_202605",
+      "buyerId": "meta",
+      "target": "Assured Robot Intelligence",
+      "date": "2026-05",
+      "technology": "Humanoid robotics AI",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "meta_moltbook_202603",
+      "buyerId": "meta",
+      "target": "Moltbook",
+      "date": "2026-03",
+      "technology": "AI-agent social network",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "meta_manus_202512",
+      "buyerId": "meta",
+      "target": "Manus",
+      "date": "2025-12",
+      "technology": "Autonomous AI agents",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "tesla_manz_assets_202502",
+      "buyerId": "tesla",
+      "target": "Manz assets",
+      "date": "2025-02",
+      "technology": "Industrial automation equipment",
+      "dealType": "assets_and_staff",
+      "status": "reported_completed",
+      "notes": "Facilities, equipment and hundreds of employees acquired from insolvent Manz, not full company.",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "tesla_wiferion_202306",
+      "buyerId": "tesla",
+      "target": "Wiferion",
+      "date": "2023-06",
+      "technology": "Wireless industrial charging",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "tesla_siilion_202111",
+      "buyerId": "tesla",
+      "target": "SiILion",
+      "date": "2021-11",
+      "technology": "Battery-anode technology",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "tesla_springpower_international_202105",
+      "buyerId": "tesla",
+      "target": "Springpower International",
+      "date": "2021-05",
+      "technology": "Battery manufacturing processes",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "tesla_atw_automation_202010",
+      "buyerId": "tesla",
+      "target": "ATW Automation",
+      "date": "2020-10",
+      "technology": "Battery production machinery",
+      "dealType": "reported_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "netflix_interpositive_202603",
+      "buyerId": "netflix",
+      "target": "InterPositive",
+      "date": "2026-03",
+      "technology": "AI filmmaking tools",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "netflix_ready_player_me_202512",
+      "buyerId": "netflix",
+      "target": "Ready Player Me",
+      "date": "2025-12",
+      "technology": "Gaming avatars",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "netflix_spry_fox_202210",
+      "buyerId": "netflix",
+      "target": "Spry Fox",
+      "date": "2022-10",
+      "technology": "Game development",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "netflix_animal_logic_202207",
+      "buyerId": "netflix",
+      "target": "Animal Logic",
+      "date": "2022-07",
+      "technology": "Animation production",
+      "dealType": "acquisition_agreement",
+      "status": "announced_pending",
+      "notes": "Prior discussion specified announcement, not a close date.",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "netflix_boss_fight_entertainment_202203",
+      "buyerId": "netflix",
+      "target": "Boss Fight Entertainment",
+      "date": "2022-03",
+      "technology": "Mobile game development",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "openai_orchestra_bio_202610",
+      "buyerId": "openai",
+      "target": "Orchestra Bio",
+      "date": "2026-10",
+      "technology": "AI drug-development workflows",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "openai_glass_imaging_202609",
+      "buyerId": "openai",
+      "target": "Glass Imaging",
+      "date": "2026-09",
+      "technology": "Computational photography and imaging AI",
+      "dealType": "reported_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "openai_nextslide_202608",
+      "buyerId": "openai",
+      "target": "NextSlide",
+      "date": "2026-08",
+      "technology": "AI presentation generation",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "notes": "Publicly disclosed August 2026; acquisition reportedly occurred months earlier.",
+      "disclosed": "2026-08",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "openai_ona___gitpod_202606",
+      "buyerId": "openai",
+      "target": "Ona / Gitpod",
+      "date": "2026-06",
+      "technology": "Persistent cloud development environments for AI agents",
+      "dealType": "full_acquisition",
+      "status": "closed",
+      "notes": "Acquisition announced June 2026 and closed August 10, 2026.",
+      "announcementDate": "2026-06",
+      "closeDate": "2026-08-10",
+      "foundedYearReported": 2020,
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "openai_tomoro_202605",
+      "buyerId": "openai",
+      "target": "Tomoro",
+      "date": "2026-05",
+      "technology": "Enterprise AI deployment engineering",
+      "dealType": "acquisition_agreement",
+      "status": "announced_pending",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "openai_notch_202610",
+      "buyerId": "openai",
+      "target": "Notch",
+      "date": "2026-10",
+      "technology": "AI engineering",
+      "dealType": "reported_acqui_hire",
+      "status": "reported_completed",
+      "notes": "Reported October 2026 acqui-hire.",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "openai_hiro_finance_202604",
+      "buyerId": "openai",
+      "target": "Hiro Finance",
+      "date": "2026-04",
+      "technology": "Financial AI",
+      "dealType": "talent_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "anthropic_opaque_systems_202610",
+      "buyerId": "anthropic",
+      "target": "Opaque Systems",
+      "date": "2026-10",
+      "technology": "Confidential computing and privacy for AI",
+      "dealType": "technology_license_and_hiring",
+      "status": "reported_completed",
+      "notes": "Licence-and-hire arrangement, not whole-company purchase.",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "anthropic_stainless_202605",
+      "buyerId": "anthropic",
+      "target": "Stainless",
+      "date": "2026-05",
+      "technology": "SDK, API and MCP developer tooling",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "anthropic_runhouse_202604",
+      "buyerId": "anthropic",
+      "target": "Runhouse",
+      "date": "2026-04",
+      "technology": "AI compute orchestration",
+      "dealType": "acqui_hire_or_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "anthropic_coefficient_bio_202604",
+      "buyerId": "anthropic",
+      "target": "Coefficient Bio",
+      "date": "2026-04",
+      "technology": "AI biotechnology",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "reportedValue": {
+        "amount": 400000000,
+        "currency": "USD",
+        "approximate": true,
+        "basis": "reported stock transaction"
+      },
+      "notes": "Prior discussion indicated approximately 10 team members.",
+      "approxTeamSizeAtDeal": 10,
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "anthropic_vercept_202602",
+      "buyerId": "anthropic",
+      "target": "Vercept",
+      "date": "2026-02",
+      "technology": "Computer-use agents and embodied AI",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "notes": "Startup was founded in 2024; some founders and researchers joined Anthropic.",
+      "foundedYearReported": 2024,
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "anthropic_bun_202512",
+      "buyerId": "anthropic",
+      "target": "Bun",
+      "date": "2025-12",
+      "technology": "High-performance JavaScript runtime and tooling",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "notes": "Founder stated ~$26M raised and $0 revenue at acquisition; Bun technology was already used by Claude Code.",
+      "fundingRaisedReported": {
+        "amount": 26000000,
+        "currency": "USD",
+        "approximate": true
+      },
+      "revenueAtAcquisitionReported": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "amd_world_labs_202609",
+      "buyerId": "amd",
+      "target": "World Labs",
+      "date": "2026-09",
+      "technology": "Spatial and world-model AI",
+      "dealType": "acquisition_agreement",
+      "status": "announced_pending",
+      "reportedValue": {
+        "amount": 8200000000,
+        "currency": "USD",
+        "approximate": true,
+        "basis": "reported deal value"
+      },
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "amd_taalas_202608",
+      "buyerId": "amd",
+      "target": "Taalas",
+      "date": "2026-08",
+      "technology": "Specialised AI inference hardware",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "amd_mext_202606",
+      "buyerId": "amd",
+      "target": "MEXT",
+      "date": "2026-06",
+      "technology": "Memory optimisation",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "amd_mk1_202511",
+      "buyerId": "amd",
+      "target": "MK1",
+      "date": "2025-11",
+      "technology": "AI inference optimisation",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "amd_brium_202506",
+      "buyerId": "amd",
+      "target": "Brium",
+      "date": "2025-06",
+      "technology": "AI software and framework compatibility",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "qualcomm_akeana_202610",
+      "buyerId": "qualcomm",
+      "target": "Akeana",
+      "date": "2026-10",
+      "technology": "RISC-V CPU intellectual property",
+      "dealType": "reported_acquisition",
+      "status": "reported_completed",
+      "notes": "Deal reportedly described October 21, 2026, team joining Qualcomm.",
+      "reportedDate": "2026-10-21",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "qualcomm_picknik_robotics_202609",
+      "buyerId": "qualcomm",
+      "target": "PickNik Robotics",
+      "date": "2026-09",
+      "technology": "Robotics and MoveIt",
+      "dealType": "acquisition_agreement",
+      "status": "announced_pending",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "qualcomm_modular_202607",
+      "buyerId": "qualcomm",
+      "target": "Modular",
+      "date": "2026-07",
+      "technology": "AI compilers, runtimes and inference",
+      "dealType": "full_acquisition",
+      "status": "closed",
+      "closeDate": "2026-07",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "qualcomm_augentix_202601",
+      "buyerId": "qualcomm",
+      "target": "Augentix",
+      "date": "2026-01",
+      "technology": "Vision-processing chips",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "notes": "Known to have been acquired by January 2026; exact acquisition date unspecified.",
+      "dateBasis": "reported_by"
+    },
+    {
+      "id": "qualcomm_alphawave_ip_202512",
+      "buyerId": "qualcomm",
+      "target": "Alphawave IP",
+      "date": "2025-12",
+      "technology": "High-speed interconnect and custom silicon",
+      "dealType": "full_acquisition",
+      "status": "closed",
+      "closeDate": "2025-12",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "qualcomm_ventana_micro_systems_202512",
+      "buyerId": "qualcomm",
+      "target": "Ventana Micro Systems",
+      "date": "2025-12",
+      "technology": "RISC-V CPU design",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "qualcomm_arduino_202510",
+      "buyerId": "qualcomm",
+      "target": "Arduino",
+      "date": "2025-10",
+      "technology": "Developer microcontroller ecosystem",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "intel_mentee_robotics_202602",
+      "buyerId": "intel",
+      "target": "Mentee Robotics",
+      "date": "2026-02",
+      "technology": "Humanoid robotics",
+      "dealType": "subsidiary_acquisition",
+      "status": "reported_completed",
+      "reportedValue": {
+        "amount": 637000000,
+        "currency": "USD",
+        "basis": "reported Mobileye purchase value"
+      },
+      "buyerUnit": "Mobileye (Intel subsidiary)",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "intel_inaccel_202403",
+      "buyerId": "intel",
+      "target": "InAccel",
+      "date": "2024-03",
+      "technology": "FPGA acceleration",
+      "dealType": "reported_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "intel_silicon_mobility_202401",
+      "buyerId": "intel",
+      "target": "Silicon Mobility",
+      "date": "2024-01",
+      "technology": "Automotive semiconductors",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "intel_codeplay_software_202206",
+      "buyerId": "intel",
+      "target": "Codeplay Software",
+      "date": "2022-06",
+      "technology": "Heterogeneous computing software",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "intel_siru_innovations_202205",
+      "buyerId": "intel",
+      "target": "Siru Innovations",
+      "date": "2022-05",
+      "technology": "Graphics IP and software expertise",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "broadcom_vmware_202311",
+      "buyerId": "broadcom",
+      "target": "VMware",
+      "date": "2023-11",
+      "technology": "Virtualisation and enterprise cloud software",
+      "dealType": "full_acquisition",
+      "status": "closed",
+      "closeDate": "2023-11",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "broadcom_symantec_enterprise_security_201911",
+      "buyerId": "broadcom",
+      "target": "Symantec Enterprise Security",
+      "date": "2019-11",
+      "technology": "Enterprise cybersecurity",
+      "dealType": "business_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "broadcom_ca_technologies_201811",
+      "buyerId": "broadcom",
+      "target": "CA Technologies",
+      "date": "2018-11",
+      "technology": "Enterprise infrastructure software",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "broadcom_brocade_201711",
+      "buyerId": "broadcom",
+      "target": "Brocade",
+      "date": "2017-11",
+      "technology": "Storage and networking infrastructure",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "broadcom_broadcom_corporation_201602",
+      "buyerId": "broadcom",
+      "target": "Broadcom Corporation",
+      "date": "2016-02",
+      "technology": "Communications semiconductors",
+      "dealType": "historical_predecessor_merger",
+      "status": "closed",
+      "notes": "Avago acquisition leading to creation of present-day Broadcom; not an acquisition made by current Broadcom in ordinary sense.",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "xai_x__twitter_202503",
+      "buyerId": "xai",
+      "target": "X (Twitter)",
+      "date": "2025-03",
+      "technology": "Social network, real-time data and distribution",
+      "dealType": "related_party_acquisition",
+      "status": "reported_completed",
+      "reportedValue": {
+        "amount": 33000000000,
+        "currency": "USD",
+        "basis": "reported equity value"
+      },
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "xai_hotshot_202503",
+      "buyerId": "xai",
+      "target": "Hotshot",
+      "date": "2025-03",
+      "technology": "Generative AI video foundation models",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "spacex_xai_202602",
+      "buyerId": "spacex",
+      "target": "xAI",
+      "date": "2026-02-02",
+      "technology": "Grok, models and AI research",
+      "dealType": "parent_company_acquisition",
+      "status": "closed",
+      "notes": "SpaceX acquired xAI; the combined operation described as SpaceXAI.",
+      "closeDate": "2026-02-02",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "spacex_cursor__anysphere_202608",
+      "buyerId": "spacex",
+      "target": "Cursor (Anysphere)",
+      "date": "2026-08-14",
+      "technology": "AI coding assistant and model development",
+      "dealType": "full_acquisition",
+      "status": "closed",
+      "reportedValue": {
+        "amount": 60000000000,
+        "currency": "USD",
+        "basis": "reported implied equity valuation"
+      },
+      "notes": "Prior discussion said acquired by SpaceX, under SpaceXAI integration strategy.",
+      "closeDate": "2026-08-14",
+      "relatedDivision": "xai",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "deepmind_mujoco_202110",
+      "buyerId": "deepmind",
+      "target": "MuJoCo",
+      "date": "2021-10",
+      "technology": "Physics simulation software and robotics",
+      "dealType": "software_ip_acquisition",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "deepmind_hark_health_solutions_201604",
+      "buyerId": "deepmind",
+      "target": "Hark Health Solutions",
+      "date": "2016-04",
+      "technology": "Healthcare workflow software",
+      "dealType": "full_acquisition",
+      "status": "reported_completed",
+      "reportedValue": {
+        "amount": 1400000,
+        "currency": "GBP",
+        "basis": "reported acquisition value"
+      },
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "deepmind_dark_blue_labs_201410",
+      "buyerId": "deepmind",
+      "target": "Dark Blue Labs",
+      "date": "2014-10",
+      "technology": "Deep learning and natural language processing",
+      "dealType": "acqui_hire",
+      "status": "reported_completed",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "deepmind_vision_factory_201410",
+      "buyerId": "deepmind",
+      "target": "Vision Factory",
+      "date": "2014-10",
+      "technology": "Computer vision",
+      "dealType": "acqui_hire",
+      "status": "reported_completed",
+      "notes": "Combined with Dark Blue Labs, the 2014 deals brought seven Oxford researchers per earlier discussion.",
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "deepmind_mechanize_202609",
+      "buyerId": "deepmind",
+      "target": "Mechanize",
+      "date": "2026-09",
+      "technology": "Coding-agent reinforcement learning environments and model training",
+      "dealType": "technology_license_and_hiring",
+      "status": "reported_completed",
+      "notes": "More than a dozen employees reportedly moved to DeepMind. More than $1.5B was discussed, but final value was undisclosed.",
+      "transferredTeamSizeReported": "more than 12",
+      "discussedValueNotFinal": {
+        "amount": 1500000000,
+        "currency": "USD",
+        "comparison": "greater_than"
+      },
+      "dateBasis": "as_described_in_prior_chat"
+    },
+    {
+      "id": "deepmind_contextual_ai_202605",
+      "buyerId": "deepmind",
+      "target": "Contextual AI",
+      "date": "2026-05",
+      "technology": "Enterprise AI agents and retrieval-augmented generation",
+      "dealType": "technology_license_and_hiring",
+      "status": "reported_completed",
+      "reportedValue": {
+        "amountMin": 80000000,
+        "amountMax": 90000000,
+        "currency": "USD",
+        "basis": "reported deal range"
+      },
+      "notes": "More than 20 researchers reportedly transferred.",
+      "transferredResearchersReported": "more than 20",
+      "dateBasis": "as_described_in_prior_chat"
+    }
+  ]
+};
+
+export default acquisitionDataset;

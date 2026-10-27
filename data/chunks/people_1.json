@@ -1,0 +1,290 @@
+[
+ {
+  "company": "Fintool",
+  "buyer": "microsoft",
+  "name": "Nicolas Bustamante",
+  "role": "Co-founder/CEO",
+  "background": "Spent ~7 years building an AI-driven legal search engine (Doctrine) that was acquired by Summit Partners, per Fintool press page",
+  "linkedin": null
+ },
+ {
+  "company": "Fintool",
+  "buyer": "microsoft",
+  "name": "Edouard Godfrey",
+  "role": "Co-founder",
+  "background": "Not found (name spelled Edward in some sources)",
+  "linkedin": null
+ },
+ {
+  "company": "Osmos",
+  "buyer": "microsoft",
+  "name": "Kirat Pandya",
+  "role": "Co-founder/CEO",
+  "background": "Former Google Cloud colleague of co-founder; reportedly spent time at Microsoft earlier",
+  "linkedin": null
+ },
+ {
+  "company": "Osmos",
+  "buyer": "microsoft",
+  "name": "Naresh Venkat",
+  "role": "Co-founder",
+  "background": "Former Google Cloud (single source: SDxCentral)",
+  "linkedin": null
+ },
+ {
+  "company": "Pi Labs",
+  "buyer": "microsoft",
+  "name": "David Karam",
+  "role": "Co-founder",
+  "background": "~10 years at Google as Product Director on Search AI systems; left ~a year earlier to start Pi Labs (speaker profile)",
+  "linkedin": null
+ },
+ {
+  "company": "Pi Labs",
+  "buyer": "microsoft",
+  "name": "Achint Srivastava",
+  "role": "Co-founder",
+  "background": "Not found",
+  "linkedin": null
+ },
+ {
+  "company": "Fungible",
+  "buyer": "microsoft",
+  "name": "Pradeep Sindhu",
+  "role": "Co-founder, CEO/chairman (sources differ)",
+  "background": "Former Juniper Networks founder/CEO",
+  "linkedin": null
+ },
+ {
+  "company": "Fungible",
+  "buyer": "microsoft",
+  "name": "Bertrand Serlet",
+  "role": "Co-founder",
+  "background": "Former Apple software engineering head",
+  "linkedin": null
+ },
+ {
+  "company": "Sonera",
+  "buyer": "apple",
+  "name": "Nishita Deka",
+  "role": "Co-founder/CEO",
+  "background": "PhD EE student at UC Berkeley",
+  "linkedin": null
+ },
+ {
+  "company": "Sonera",
+  "buyer": "apple",
+  "name": "Dominic Labanowski",
+  "role": "Co-founder/CTO",
+  "background": "PhD EE at UC Berkeley",
+  "linkedin": null
+ },
+ {
+  "company": "PlasmaSolve",
+  "buyer": "apple",
+  "name": "Adam Obrusnik",
+  "role": "Co-founder/CEO",
+  "background": "PhD, magnetron sputtering / PVD plasma modeling",
+  "linkedin": null
+ },
+ {
+  "company": "PlasmaSolve",
+  "buyer": "apple",
+  "name": "Petr Zikan",
+  "role": "Co-founder, head of software",
+  "background": "Proposed the original company idea",
+  "linkedin": null
+ },
+ {
+  "company": "MotionVFX",
+  "buyer": "apple",
+  "name": "Szymon Masiak",
+  "role": "Founder",
+  "background": "Founded 2009 in Bielsko-Biala, Poland; previously worked on VFX for films incl. Sin City and Pan's Labyrinth",
+  "linkedin": null
+ },
+ {
+  "company": "SigScalr (ledger name 'SigScaler'; correct spelling SigScalr)",
+  "buyer": "apple",
+  "name": "Kunal Nawale",
+  "role": "Founder/CEO",
+  "background": "Former Salesforce observability engineer; enterprise tech veteran",
+  "linkedin": null
+ },
+ {
+  "company": "Huxe",
+  "buyer": "apple",
+  "name": "Raiza Martin",
+  "role": "Co-founder",
+  "background": "Former Google NotebookLM team",
+  "linkedin": null
+ },
+ {
+  "company": "Huxe",
+  "buyer": "apple",
+  "name": "Jason Spielman",
+  "role": "Co-founder",
+  "background": "Former Google NotebookLM team",
+  "linkedin": null
+ },
+ {
+  "company": "Huxe",
+  "buyer": "apple",
+  "name": "Stephen Hughes",
+  "role": "Co-founder",
+  "background": "Former Google NotebookLM team",
+  "linkedin": null
+ },
+ {
+  "company": "Wiz",
+  "buyer": "alphabet",
+  "name": "Assaf Rappaport",
+  "role": "Co-founder/CEO",
+  "background": "Previously co-founded Adallom (sold to Microsoft)",
+  "linkedin": null
+ },
+ {
+  "company": "Wiz",
+  "buyer": "alphabet",
+  "name": "Ami Luttwak",
+  "role": "Co-founder/CTO",
+  "background": "Adallom co-founder",
+  "linkedin": null
+ },
+ {
+  "company": "Wiz",
+  "buyer": "alphabet",
+  "name": "Yinon Costica",
+  "role": "Co-founder/VP Product",
+  "background": "Adallom co-founder",
+  "linkedin": null
+ },
+ {
+  "company": "Wiz",
+  "buyer": "alphabet",
+  "name": "Roy Reznik",
+  "role": "Co-founder/VP R&D",
+  "background": "Adallom co-founder",
+  "linkedin": null
+ },
+ {
+  "company": "Intersect (Intersect Power)",
+  "buyer": "alphabet",
+  "name": "Sheldon Kimber",
+  "role": "Founder/CEO",
+  "background": "Continues to lead Intersect as a separate brand",
+  "linkedin": null
+ },
+ {
+  "company": "ProducerAI (formerly Riffusion)",
+  "buyer": "alphabet",
+  "name": "Seth Forsgren",
+  "role": "Co-founder",
+  "background": "Described as Hardline founder; musician",
+  "linkedin": null
+ },
+ {
+  "company": "ProducerAI (formerly Riffusion)",
+  "buyer": "alphabet",
+  "name": "Hayk Martiros",
+  "role": "Co-founder",
+  "background": "Longtime Skydio autonomy leader; musician",
+  "linkedin": null
+ },
+ {
+  "company": "Common Sense Machines",
+  "buyer": "alphabet",
+  "name": "Tejas Kulkarni",
+  "role": "Co-founder/CEO",
+  "background": "MIT PhD; senior research scientist at DeepMind 2016-2019",
+  "linkedin": null
+ },
+ {
+  "company": "Common Sense Machines",
+  "buyer": "alphabet",
+  "name": "Max Kleiman-Weiner",
+  "role": "Co-founder",
+  "background": "MIT PhD computational cognitive science (2018), Harvard postdoc, Marshall Scholar and Hertz Fellow; co-founded Diffeo",
+  "linkedin": null
+ },
+ {
+  "company": "Atlantic Quantum",
+  "buyer": "alphabet",
+  "name": "Bharath Kannan",
+  "role": "Co-founder/CEO",
+  "background": "MIT EQuS group",
+  "linkedin": null
+ },
+ {
+  "company": "Atlantic Quantum",
+  "buyer": "alphabet",
+  "name": "Simon Gustavsson",
+  "role": "Co-founder/President and CTO",
+  "background": "MIT Engineering Quantum Systems group",
+  "linkedin": null
+ },
+ {
+  "company": "Windsurf (Codeium)",
+  "buyer": "alphabet",
+  "name": "Varun Mohan",
+  "role": "Co-founder/CEO",
+  "background": "MIT graduate; founded Exafunction (GPU optimization), pivoted to Codeium",
+  "linkedin": null
+ },
+ {
+  "company": "Windsurf (Codeium)",
+  "buyer": "alphabet",
+  "name": "Douglas Chen",
+  "role": "Co-founder",
+  "background": "MIT graduate; Exafunction/Codeium co-founder",
+  "linkedin": null
+ },
+ {
+  "company": "Hume AI",
+  "buyer": "alphabet",
+  "name": "Alan Cowen",
+  "role": "Founder/CEO and chief scientist; joined Google DeepMind",
+  "background": "Former Google researcher; pioneer of semantic space theory of emotion",
+  "linkedin": null
+ },
+ {
+  "company": "Hume AI",
+  "buyer": "alphabet",
+  "name": "About seven other engineers (unnamed)",
+  "role": "Engineers",
+  "background": "Not named",
+  "linkedin": null
+ },
+ {
+  "company": "DuckLabs (DuckDB Labs)",
+  "buyer": "amazon",
+  "name": "Mark Raasveldt",
+  "role": "Co-founder; continues leading technical direction",
+  "background": "CWI database researcher; co-creator of DuckDB",
+  "linkedin": null
+ },
+ {
+  "company": "Fauna Robotics",
+  "buyer": "amazon",
+  "name": "Rob Cochran",
+  "role": "Co-founder & CEO; joined Amazon with team",
+  "background": "not verified in searches",
+  "linkedin": null
+ },
+ {
+  "company": "Fauna Robotics",
+  "buyer": "amazon",
+  "name": "Josh Merel",
+  "role": "Co-founder, technical director",
+  "background": "not verified in searches",
+  "linkedin": null
+ },
+ {
+  "company": "Rivr",
+  "buyer": "amazon",
+  "name": "Marko Bjelonic",
+  "role": "Co-founder & CEO",
+  "background": "ETH Zurich Robotic Systems Lab spin-out (Swiss-Mile, founded 2023)",
+  "linkedin": null
+ }
+]

@@ -1,0 +1,266 @@
+[
+ {
+  "company": "InAccel",
+  "name": "John Stamelos",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Codeplay Software",
+  "name": "Andrew Richards",
+  "linkedin": "https://uk.linkedin.com/in/andrewrichards",
+  "match_confidence": "medium",
+  "evidence": "Linked from sycl.tech/contributors/andrew (Andrew Richards page)",
+  "note": "Page not independently checked for Codeplay role on LinkedIn side"
+ },
+ {
+  "company": "VMware",
+  "name": "Hock Tan",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "VMware",
+  "name": "Raghu Raghuram",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Symantec Enterprise Security",
+  "name": "Hock Tan",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "CA Technologies",
+  "name": "Hock Tan",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Brocade",
+  "name": "Lloyd Carney",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Broadcom Corporation",
+  "name": "Henry Samueli",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Broadcom Corporation",
+  "name": "Hock Tan",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "X (Twitter)",
+  "name": "Elon Musk",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Hotshot",
+  "name": "Aakash Sastry",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Hotshot",
+  "name": "John Mullan",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "xAI",
+  "name": "Elon Musk",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Cursor (Anysphere)",
+  "name": "Michael Truell",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Cursor (Anysphere)",
+  "name": "Sualeh Asif",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Cursor (Anysphere)",
+  "name": "Arvid Lunnemark",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Cursor (Anysphere)",
+  "name": "Aman Sanger",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "MuJoCo",
+  "name": "Emo Todorov",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Hark Health Solutions",
+  "name": "Dominic King",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Hark Health Solutions",
+  "name": "Ara Darzi",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Dark Blue Labs",
+  "name": "Nando de Freitas",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Dark Blue Labs",
+  "name": "Phil Blunsom",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Dark Blue Labs",
+  "name": "Edward Grefenstette",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Dark Blue Labs",
+  "name": "Karl Moritz Hermann",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Vision Factory",
+  "name": "Karen Simonyan",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Vision Factory",
+  "name": "Max Jaderberg",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Vision Factory",
+  "name": "Andrew Zisserman",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Mechanize",
+  "name": "Tamay Besiroglu",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Mechanize",
+  "name": "Matthew Barnett",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Mechanize",
+  "name": "Ege Erdil",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Mechanize",
+  "name": "Guive Assadi",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ },
+ {
+  "company": "Contextual AI",
+  "name": "Douwe Kiela",
+  "linkedin": "https://www.linkedin.com/in/douwekiela/",
+  "match_confidence": "high",
+  "evidence": "Returned by fetch of douwekiela.github.io personal site",
+  "note": ""
+ },
+ {
+  "company": "Contextual AI",
+  "name": "Amanpreet Singh",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none found",
+  "note": "Web search budget exhausted; not searched/found. No URL guessed."
+ }
+]

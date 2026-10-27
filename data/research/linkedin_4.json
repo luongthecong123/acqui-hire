@@ -1,0 +1,290 @@
+[
+ {
+  "company": "Notch",
+  "name": "Vinay Jain",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "Notch",
+  "name": "Aman Jain",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "Hiro Finance",
+  "name": "Ethan Bloch",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "Hiro Finance",
+  "name": "Rushabh Doshi",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "Opaque Systems",
+  "name": "Aaron Fulkerson",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "Opaque Systems",
+  "name": "Rishabh Poddar",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "Stainless",
+  "name": "Alex Rattray",
+  "linkedin": "http://linkedin.com/in/alexrattray",
+  "match_confidence": "high",
+  "evidence": "Linked from alexrattray.com (page says building Stainless, ex-Stripe 2017-20)",
+  "note": "Own site"
+ },
+ {
+  "company": "Runhouse",
+  "name": "Donny Greenberg",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "Coefficient Bio",
+  "name": "Nathan C. Frey",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "Coefficient Bio",
+  "name": "Samuel Stanton",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "Coefficient Bio",
+  "name": "Aris Theologis",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "Vercept",
+  "name": "Kiana Ehsani",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "Vercept",
+  "name": "Luca Weihs",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "Vercept",
+  "name": "Ross Girshick",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "Bun",
+  "name": "Jarred Sumner",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "World Labs",
+  "name": "Fei-Fei Li",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "World Labs",
+  "name": "Justin Johnson",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "World Labs",
+  "name": "Ben Mildenhall",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "Taalas",
+  "name": "Ljubisa Bajic",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "MEXT",
+  "name": "Gary Smerdon",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "MEXT",
+  "name": "David Reed",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "MEXT",
+  "name": "Bobby Minnear",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "MK1",
+  "name": "Paul Merolla",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "MK1",
+  "name": "Thong Wei Koh",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "Akeana",
+  "name": "Rabin Sugumar",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "PickNik Robotics",
+  "name": "Dave Coleman",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "Modular",
+  "name": "Chris Lattner",
+  "linkedin": "https://www.linkedin.com/in/chris-lattner-5664498a/",
+  "match_confidence": "high",
+  "evidence": "Linked from Lattner's personal site nondot.org/sabre",
+  "note": "Own site, matches Modular/LLVM creator"
+ },
+ {
+  "company": "Augentix",
+  "name": "Hung-Chi Fan",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "Alphawave IP",
+  "name": "Tony Pialis",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "Ventana Micro Systems",
+  "name": "Balaji Baktha",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "Arduino",
+  "name": "Massimo Banzi",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "Arduino",
+  "name": "Fabio Violante",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "Mentee Robotics",
+  "name": "Amnon Shashua",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "Mentee Robotics",
+  "name": "Lior Wolf",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "InAccel",
+  "name": "Chris Kachris",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ },
+ {
+  "company": "InAccel",
+  "name": "Elias Koromilas",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "none",
+  "note": "No LinkedIn URL seen; web search budget was exhausted after ~7 searches, and checked personal sites had no LinkedIn link"
+ }
+]

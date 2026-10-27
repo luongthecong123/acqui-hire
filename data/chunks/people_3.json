@@ -1,0 +1,290 @@
+[
+ {
+  "company": "Deci AI",
+  "buyer": "nvidia",
+  "name": "Ran El-Yaniv",
+  "role": "Co-founder & Chief Scientist",
+  "background": "Technion professor (public knowledge)",
+  "linkedin": null
+ },
+ {
+  "company": "Deci AI",
+  "buyer": "nvidia",
+  "name": "Jonathan Elial",
+  "role": "Co-founder & COO",
+  "background": "unverified",
+  "linkedin": null
+ },
+ {
+  "company": "Run:ai",
+  "buyer": "nvidia",
+  "name": "Omri Geller",
+  "role": "Co-founder & CEO",
+  "background": "Tel Aviv University",
+  "linkedin": null
+ },
+ {
+  "company": "Run:ai",
+  "buyer": "nvidia",
+  "name": "Ronen Dar",
+  "role": "Co-founder & CTO",
+  "background": "Tel Aviv University",
+  "linkedin": null
+ },
+ {
+  "company": "Sundial",
+  "buyer": "meta",
+  "name": "Julie Zhuo",
+  "role": "Co-founder; returning to Meta",
+  "background": "Former Facebook VP Design; author of The Making of a Manager",
+  "linkedin": null
+ },
+ {
+  "company": "Sundial",
+  "buyer": "meta",
+  "name": "Chandra Narayanan",
+  "role": "Co-founder; will lead data analytics tooling/agents in Meta's new DATA unit under Alex Schultz",
+  "background": "Former Meta executive",
+  "linkedin": null
+ },
+ {
+  "company": "Stilla.ai",
+  "buyer": "meta",
+  "name": "Siavash Ghorbani",
+  "role": "Co-founder",
+  "background": "Co-founded Tictail (Swedish e-commerce, acquired by Shopify 2018); ex-Shopify",
+  "linkedin": null
+ },
+ {
+  "company": "Stilla.ai",
+  "buyer": "meta",
+  "name": "Kaj Drobin",
+  "role": "Co-founder",
+  "background": "Co-founded Tictail (acquired by Shopify 2018); ex-Shopify",
+  "linkedin": null
+ },
+ {
+  "company": "Assured Robot Intelligence",
+  "buyer": "meta",
+  "name": "Lerrel Pinto",
+  "role": "Co-founder; joins Meta Superintelligence Labs",
+  "background": "Former NYU faculty; previously co-founded Fauna Robotics (reportedly acquired by Amazon Mar 2026)",
+  "linkedin": null
+ },
+ {
+  "company": "Assured Robot Intelligence",
+  "buyer": "meta",
+  "name": "Xiaolong Wang",
+  "role": "Co-founder; joins Meta Superintelligence Labs",
+  "background": "Associate professor at UC San Diego; former NVIDIA researcher",
+  "linkedin": null
+ },
+ {
+  "company": "Moltbook",
+  "buyer": "meta",
+  "name": "Matt Schlicht",
+  "role": "Co-founder/creator; joined Meta Superintelligence Labs",
+  "background": "CEO of Octane AI (AI + commerce); working on autonomous agents since 2023",
+  "linkedin": null
+ },
+ {
+  "company": "Moltbook",
+  "buyer": "meta",
+  "name": "Ben Parr",
+  "role": "Co-founder/COO; joined MSL",
+  "background": "Octane AI; journalist (Mashable/CNET per one low-quality source), author, co-founded a VC fund",
+  "linkedin": null
+ },
+ {
+  "company": "Manus",
+  "buyer": "meta",
+  "name": "Xiao Hong",
+  "role": "Co-founder & CEO; to join Meta reporting to Javier Olivan",
+  "background": "Huazhong Univ. of Science and Technology (software engineering); serial entrepreneur (WeChat plugins, Monica.im/Butterfly Effect)",
+  "linkedin": null
+ },
+ {
+  "company": "Manus",
+  "buyer": "meta",
+  "name": "Ji Yichao (Peak)",
+  "role": "Co-founder & Chief Scientist",
+  "background": "Dropped out of high school; built Mammoth browser and Magi search engine",
+  "linkedin": null
+ },
+ {
+  "company": "Manus",
+  "buyer": "meta",
+  "name": "Zhang Tao",
+  "role": "Co-founder / product (CPO per one source)",
+  "background": "Reported ex-ByteDance, Light Year (Meituan), Sensors Data",
+  "linkedin": null
+ },
+ {
+  "company": "Wiferion",
+  "buyer": "tesla",
+  "name": "Florian Reiners",
+  "role": "Co-founder & CEO",
+  "background": "Previously led a battery-charging systems group at Fraunhofer ISE, Freiburg",
+  "linkedin": null
+ },
+ {
+  "company": "Wiferion",
+  "buyer": "tesla",
+  "name": "Johannes Mayer",
+  "role": "Co-founder & managing director",
+  "background": "Former project manager at Fraunhofer ISE",
+  "linkedin": null
+ },
+ {
+  "company": "SiILion",
+  "buyer": "tesla",
+  "name": "Tyler Evans",
+  "role": "Co-founder; named inventor on Tesla-applicant patent",
+  "background": "Co-founder of SiILion (Colorado silicon-anode startup); did NOT move to Tesla per reports",
+  "linkedin": null
+ },
+ {
+  "company": "SiILion",
+  "buyer": "tesla",
+  "name": "Daniela Molina Piper",
+  "role": "Co-founder; named inventor",
+  "background": "Co-founder of SiILion; did NOT join Tesla per reports",
+  "linkedin": null
+ },
+ {
+  "company": "InterPositive",
+  "buyer": "netflix",
+  "name": "Ben Affleck",
+  "role": "Founder (2022); becomes Netflix senior adviser",
+  "background": "Actor/director/producer",
+  "linkedin": null
+ },
+ {
+  "company": "Ready Player Me",
+  "buyer": "netflix",
+  "name": "Timmu Toke",
+  "role": "CEO/co-founder; not reported as joining Netflix",
+  "background": "Led Ready Player Me (spun out of Wolf3D, 2014)",
+  "linkedin": null
+ },
+ {
+  "company": "Ready Player Me",
+  "buyer": "netflix",
+  "name": "Selvet (full name not verified)",
+  "role": "CTO; only founder reported joining Netflix with ~20 staff",
+  "background": "unknown",
+  "linkedin": null
+ },
+ {
+  "company": "Spry Fox",
+  "buyer": "netflix",
+  "name": "Daniel Cook",
+  "role": "Co-founder",
+  "background": "Former game designer at Microsoft Game Studio",
+  "linkedin": null
+ },
+ {
+  "company": "Spry Fox",
+  "buyer": "netflix",
+  "name": "David Edery",
+  "role": "Co-founder",
+  "background": "Former worldwide games portfolio manager at Microsoft",
+  "linkedin": null
+ },
+ {
+  "company": "Animal Logic",
+  "buyer": "netflix",
+  "name": "Zareh Nalbandian",
+  "role": "Co-founder & CEO",
+  "background": "Animal Logic leader; studio behind The Lego Movie, Happy Feet",
+  "linkedin": null
+ },
+ {
+  "company": "Boss Fight Entertainment",
+  "buyer": "netflix",
+  "name": "David Rippy",
+  "role": "Co-founder",
+  "background": "Ex-Zynga Dallas studio / Ensemble Studios",
+  "linkedin": null
+ },
+ {
+  "company": "Boss Fight Entertainment",
+  "buyer": "netflix",
+  "name": "Bill Jackson",
+  "role": "Co-founder",
+  "background": "Ex-Zynga Dallas / Ensemble Studios",
+  "linkedin": null
+ },
+ {
+  "company": "Boss Fight Entertainment",
+  "buyer": "netflix",
+  "name": "Scott Winsett",
+  "role": "Co-founder",
+  "background": "Ex-Zynga Dallas / Ensemble Studios",
+  "linkedin": null
+ },
+ {
+  "company": "Orchestra Bio",
+  "buyer": "openai",
+  "name": "Ashoka Rajendra",
+  "role": "CEO (per single German-language report)",
+  "background": "Previously head of product management at Benchling",
+  "linkedin": null
+ },
+ {
+  "company": "Glass Imaging",
+  "buyer": "openai",
+  "name": "Ziv Attar",
+  "role": "Founder & CEO",
+  "background": "Former Apple engineer (camera)",
+  "linkedin": null
+ },
+ {
+  "company": "Glass Imaging",
+  "buyer": "openai",
+  "name": "Tom Bishop",
+  "role": "Founder & CTO",
+  "background": "Former Apple engineer (imaging)",
+  "linkedin": null
+ },
+ {
+  "company": "NextSlide",
+  "buyer": "openai",
+  "name": "Ahmed Beshry",
+  "role": "Founder",
+  "background": "Co-founded Caper AI (AI shopping carts), acquired by Instacart in Oct 2021 (~$350M reported)",
+  "linkedin": null
+ },
+ {
+  "company": "Ona / Gitpod",
+  "buyer": "openai",
+  "name": "Sven Efftinge",
+  "role": "Co-founder (original CEO), Kiel; TypeFox",
+  "background": "Founder of Gitpod and TypeFox",
+  "linkedin": null
+ },
+ {
+  "company": "Ona / Gitpod",
+  "buyer": "openai",
+  "name": "Johannes Landgraf",
+  "role": "Co-founder & CEO of Ona",
+  "background": "Led rebrand Gitpod to Ona (2025)",
+  "linkedin": null
+ },
+ {
+  "company": "Tomoro",
+  "buyer": "openai",
+  "name": "Ed Broussard",
+  "role": "Co-founder & Managing Director",
+  "background": "Co-founded Mudano (acquired by Accenture 2020); set up its Edinburgh AI R&D dept 2018",
+  "linkedin": null
+ },
+ {
+  "company": "Tomoro",
+  "buyer": "openai",
+  "name": "Albert Phelps",
+  "role": "Co-founder & Director of R&D",
+  "background": "Ex-Mudano (per context)",
+  "linkedin": null
+ }
+]

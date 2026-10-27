@@ -1,0 +1,224 @@
+[
+ {
+  "id": "microsoft_fintool_202604",
+  "buyerId": "microsoft",
+  "target": "Fintool",
+  "date": "2026-04",
+  "technology": "AI financial research",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "microsoft_osmos_202601",
+  "buyerId": "microsoft",
+  "target": "Osmos",
+  "date": "2026-01",
+  "technology": "Agentic data engineering",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "microsoft_pi_labs_202512",
+  "buyerId": "microsoft",
+  "target": "Pi Labs",
+  "date": "2025-12",
+  "technology": "AI and computer vision",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "microsoft_fungible_202301",
+  "buyerId": "microsoft",
+  "target": "Fungible",
+  "date": "2023-01",
+  "technology": "Data-centre processing units",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "microsoft_lumenisity_202212",
+  "buyerId": "microsoft",
+  "target": "Lumenisity",
+  "date": "2022-12",
+  "technology": "Hollow-core optical fibre",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "apple_samplab_202606",
+  "buyerId": "apple",
+  "target": "Samplab",
+  "date": "2026-06",
+  "technology": "AI music editing",
+  "dealType": "assets_and_staff",
+  "status": "reported_completed",
+  "notes": "Disclosed October 2026.",
+  "disclosed": "2026-10",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "apple_sonera_202605",
+  "buyerId": "apple",
+  "target": "Sonera",
+  "date": "2026-05",
+  "technology": "Biomagnetic sensing",
+  "dealType": "assets_and_staff",
+  "status": "reported_completed",
+  "notes": "Disclosed September 2026.",
+  "disclosed": "2026-09",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "apple_plasmasolve_202604",
+  "buyerId": "apple",
+  "target": "PlasmaSolve",
+  "date": "2026-04",
+  "technology": "Semiconductor manufacturing simulation",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "apple_motionvfx_202603",
+  "buyerId": "apple",
+  "target": "MotionVFX",
+  "date": "2026-03",
+  "technology": "Video-editing plugins",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "apple_sigscaler_202603",
+  "buyerId": "apple",
+  "target": "SigScaler",
+  "date": "2026-03",
+  "technology": "Logging and observability",
+  "dealType": "assets_and_staff",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "apple_huxe_2026",
+  "buyerId": "apple",
+  "target": "Huxe",
+  "date": "2026",
+  "technology": "AI audio / briefing technology",
+  "dealType": "technology_license_and_hiring",
+  "status": "reported_completed",
+  "notes": "Non-exclusive technology licence and hiring rights; not a full-company acquisition.",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "alphabet_wiz_202603",
+  "buyerId": "alphabet",
+  "target": "Wiz",
+  "date": "2026-03",
+  "technology": "Multicloud security",
+  "dealType": "full_acquisition",
+  "status": "closed",
+  "notes": "Announced March 2025; closed March 2026.",
+  "announcementDate": "2025-03",
+  "closeDate": "2026-03",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "alphabet_intersect_202603",
+  "buyerId": "alphabet",
+  "target": "Intersect",
+  "date": "2026-03",
+  "technology": "Energy and data-centre development",
+  "dealType": "business_acquisition",
+  "status": "closed",
+  "notes": "Closed March 2026.",
+  "closeDate": "2026-03",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "alphabet_producerai_202602",
+  "buyerId": "alphabet",
+  "target": "ProducerAI",
+  "date": "2026-02",
+  "technology": "Generative music",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "alphabet_common_sense_machines_202601",
+  "buyerId": "alphabet",
+  "target": "Common Sense Machines",
+  "date": "2026-01",
+  "technology": "3D generative AI and world models",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "notes": "Approx. 12 employees; team joined Google DeepMind. Also discussed under DeepMind.",
+  "relatedDivision": "deepmind",
+  "approxTeamSizeAtDeal": 12,
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "alphabet_atlantic_quantum_202510",
+  "buyerId": "alphabet",
+  "target": "Atlantic Quantum",
+  "date": "2025-10",
+  "technology": "Quantum-computing hardware",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "alphabet_windsurf_202507",
+  "buyerId": "alphabet",
+  "target": "Windsurf",
+  "date": "2025-07",
+  "technology": "AI coding tools",
+  "dealType": "technology_license_and_hiring",
+  "status": "reported_completed",
+  "reportedValue": {
+   "amount": 2400000000,
+   "currency": "USD",
+   "basis": "reported licensing-and-hiring arrangement"
+  },
+  "notes": "Not an outright acquisition.",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "alphabet_hume_ai_202601",
+  "buyerId": "alphabet",
+  "target": "Hume AI",
+  "date": "2026-01",
+  "technology": "Voice AI / emotional intelligence",
+  "dealType": "technology_license_and_hiring",
+  "status": "reported_completed",
+  "notes": "CEO and several engineers joined Google DeepMind; not a full-company acquisition.",
+  "relatedDivision": "deepmind",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "amazon_ducklabs_202608",
+  "buyerId": "amazon",
+  "target": "DuckLabs",
+  "date": "2026-08",
+  "technology": "DuckDB analytical database",
+  "dealType": "acquisition_agreement",
+  "status": "announced_pending",
+  "notes": "DuckDB creators expected to continue leading project.",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "amazon_globalstar_202604",
+  "buyerId": "amazon",
+  "target": "Globalstar",
+  "date": "2026-04",
+  "technology": "Satellite communications",
+  "dealType": "merger_agreement",
+  "status": "announced_pending",
+  "dateBasis": "as_described_in_prior_chat"
+ }
+]

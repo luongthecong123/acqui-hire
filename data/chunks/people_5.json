@@ -1,0 +1,266 @@
+[
+ {
+  "company": "InAccel",
+  "buyer": "intel",
+  "name": "John Stamelos",
+  "role": "Co-founder",
+  "background": "not verified",
+  "linkedin": null
+ },
+ {
+  "company": "Codeplay Software",
+  "buyer": "intel",
+  "name": "Andrew Richards",
+  "role": "Founder and CEO (founded 2002)",
+  "background": "Edinburgh-based GPU/heterogeneous compute software specialist; further detail not verified",
+  "linkedin": null
+ },
+ {
+  "company": "VMware",
+  "buyer": "broadcom",
+  "name": "Hock Tan",
+  "role": "Broadcom CEO (buyer exec)",
+  "background": "Led deal; framed as joining engineering teams",
+  "linkedin": null
+ },
+ {
+  "company": "VMware",
+  "buyer": "broadcom",
+  "name": "Raghu Raghuram",
+  "role": "VMware CEO at time of deal",
+  "background": "Long-time VMware executive",
+  "linkedin": null
+ },
+ {
+  "company": "Symantec Enterprise Security",
+  "buyer": "broadcom",
+  "name": "Hock Tan",
+  "role": "Broadcom CEO",
+  "background": "Buyer exec",
+  "linkedin": null
+ },
+ {
+  "company": "CA Technologies",
+  "buyer": "broadcom",
+  "name": "Hock Tan",
+  "role": "Broadcom CEO",
+  "background": "Buyer exec",
+  "linkedin": null
+ },
+ {
+  "company": "Brocade",
+  "buyer": "broadcom",
+  "name": "Lloyd Carney",
+  "role": "Brocade CEO at time of deal",
+  "background": "From my knowledge only; not verified in this session",
+  "linkedin": null
+ },
+ {
+  "company": "Broadcom Corporation",
+  "buyer": "broadcom",
+  "name": "Henry Samueli",
+  "role": "Broadcom Corp co-founder; became CTO of combined company",
+  "background": "Per StorageReview announcement",
+  "linkedin": null
+ },
+ {
+  "company": "Broadcom Corporation",
+  "buyer": "broadcom",
+  "name": "Hock Tan",
+  "role": "Avago CEO; CEO of combined company",
+  "background": "Buyer exec",
+  "linkedin": null
+ },
+ {
+  "company": "X (Twitter)",
+  "buyer": "xai",
+  "name": "Elon Musk",
+  "role": "Owner/CEO of both",
+  "background": "Acquired Twitter in 2022 for ~$44B",
+  "linkedin": null
+ },
+ {
+  "company": "Hotshot",
+  "buyer": "xai",
+  "name": "Aakash Sastry",
+  "role": "Co-founder and CEO",
+  "background": "Announced the deal on X; photo/video AI startup founder; more not verified",
+  "linkedin": null
+ },
+ {
+  "company": "Hotshot",
+  "buyer": "xai",
+  "name": "John Mullan",
+  "role": "Co-founder",
+  "background": "not verified",
+  "linkedin": null
+ },
+ {
+  "company": "xAI",
+  "buyer": "spacex",
+  "name": "Elon Musk",
+  "role": "Founder of xAI and SpaceX CEO",
+  "background": "Founder",
+  "linkedin": null
+ },
+ {
+  "company": "Cursor (Anysphere)",
+  "buyer": "spacex",
+  "name": "Michael Truell",
+  "role": "Co-founder and CEO",
+  "background": "MIT graduate",
+  "linkedin": null
+ },
+ {
+  "company": "Cursor (Anysphere)",
+  "buyer": "spacex",
+  "name": "Sualeh Asif",
+  "role": "Co-founder",
+  "background": "MIT graduate",
+  "linkedin": null
+ },
+ {
+  "company": "Cursor (Anysphere)",
+  "buyer": "spacex",
+  "name": "Arvid Lunnemark",
+  "role": "Co-founder",
+  "background": "MIT graduate",
+  "linkedin": null
+ },
+ {
+  "company": "Cursor (Anysphere)",
+  "buyer": "spacex",
+  "name": "Aman Sanger",
+  "role": "Co-founder",
+  "background": "MIT graduate",
+  "linkedin": null
+ },
+ {
+  "company": "MuJoCo",
+  "buyer": "deepmind",
+  "name": "Emo Todorov",
+  "role": "Creator of MuJoCo (University of Washington)",
+  "background": "Developed MuJoCo at UW Movement Control Laboratory; sold via Roboti since 2015; whether he joined DeepMind not confirmed",
+  "linkedin": null
+ },
+ {
+  "company": "Hark Health Solutions",
+  "buyer": "deepmind",
+  "name": "Dominic King",
+  "role": "Co-creator of Hark tech; joined DeepMind Health",
+  "background": "Clinician/researcher at Imperial College London",
+  "linkedin": null
+ },
+ {
+  "company": "Hark Health Solutions",
+  "buyer": "deepmind",
+  "name": "Ara Darzi",
+  "role": "Co-developer (Professor, Imperial College)",
+  "background": "Surgeon-scientist, Imperial; role at DeepMind not confirmed",
+  "linkedin": null
+ },
+ {
+  "company": "Dark Blue Labs",
+  "buyer": "deepmind",
+  "name": "Nando de Freitas",
+  "role": "Co-founder (Prof., Oxford)",
+  "background": "Machine learning professor; kept Oxford appointment",
+  "linkedin": null
+ },
+ {
+  "company": "Dark Blue Labs",
+  "buyer": "deepmind",
+  "name": "Phil Blunsom",
+  "role": "Co-founder (Prof., Oxford)",
+  "background": "NLP professor, Oxford",
+  "linkedin": null
+ },
+ {
+  "company": "Dark Blue Labs",
+  "buyer": "deepmind",
+  "name": "Edward Grefenstette",
+  "role": "Co-founder",
+  "background": "Oxford researcher",
+  "linkedin": null
+ },
+ {
+  "company": "Dark Blue Labs",
+  "buyer": "deepmind",
+  "name": "Karl Moritz Hermann",
+  "role": "Co-founder",
+  "background": "Oxford researcher",
+  "linkedin": null
+ },
+ {
+  "company": "Vision Factory",
+  "buyer": "deepmind",
+  "name": "Karen Simonyan",
+  "role": "Co-founder",
+  "background": "Oxford researcher in deep vision",
+  "linkedin": null
+ },
+ {
+  "company": "Vision Factory",
+  "buyer": "deepmind",
+  "name": "Max Jaderberg",
+  "role": "Co-founder",
+  "background": "Oxford researcher",
+  "linkedin": null
+ },
+ {
+  "company": "Vision Factory",
+  "buyer": "deepmind",
+  "name": "Andrew Zisserman",
+  "role": "Co-founder (Prof., Oxford)",
+  "background": "Computer vision professor; kept joint Oxford appointment",
+  "linkedin": null
+ },
+ {
+  "company": "Mechanize",
+  "buyer": "deepmind",
+  "name": "Tamay Besiroglu",
+  "role": "Co-founder/former CEO; now DeepMind research scientist",
+  "background": "Previously at Epoch AI (co-founder per aiweekly)",
+  "linkedin": null
+ },
+ {
+  "company": "Mechanize",
+  "buyer": "deepmind",
+  "name": "Matthew Barnett",
+  "role": "Co-founder",
+  "background": "not verified; whether he joined DeepMind unknown",
+  "linkedin": null
+ },
+ {
+  "company": "Mechanize",
+  "buyer": "deepmind",
+  "name": "Ege Erdil",
+  "role": "Co-founder",
+  "background": "not verified; whether he joined DeepMind unknown",
+  "linkedin": null
+ },
+ {
+  "company": "Mechanize",
+  "buyer": "deepmind",
+  "name": "Guive Assadi",
+  "role": "Former chief of staff, now Mechanize CEO (stayed)",
+  "background": "not verified",
+  "linkedin": null
+ },
+ {
+  "company": "Contextual AI",
+  "buyer": "deepmind",
+  "name": "Douwe Kiela",
+  "role": "Co-founder and CEO; joining DeepMind",
+  "background": "Previously led Meta (FAIR) team that developed retrieval augmented generation",
+  "linkedin": null
+ },
+ {
+  "company": "Contextual AI",
+  "buyer": "deepmind",
+  "name": "Amanpreet Singh",
+  "role": "Co-founder",
+  "background": "Former Hugging Face and Meta researcher; whether he joined DeepMind not confirmed",
+  "linkedin": null
+ }
+]

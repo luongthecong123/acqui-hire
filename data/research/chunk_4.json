@@ -1,0 +1,941 @@
+[
+ {
+  "id": "openai_hiro_finance_202604",
+  "target": "Hiro Finance",
+  "buyerId": "openai",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Ribbit Capital",
+    "type": "VC",
+    "note": "per TNW"
+   },
+   {
+    "name": "General Catalyst",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "Restive",
+    "type": "VC",
+    "note": null
+   }
+  ],
+  "total_funding": "undisclosed",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Ethan Bloch",
+    "role": "Founder/CEO; joined OpenAI",
+    "background": "Serial founder: Flowtown (sold ~$4.5-5M, 2009), Digit (acquired by Oportun 2021 for >$200M); Hiro was his 15th project",
+    "linkedin": null,
+    "source": "https://thenextweb.com/news/openai-acquires-hiro-finance"
+   },
+   {
+    "name": "Rushabh Doshi",
+    "role": "Co-founder (reported); joining status unconfirmed",
+    "background": "unknown",
+    "linkedin": null,
+    "source": "https://www.crowdfundinsider.com/tag/hiro/"
+   }
+  ],
+  "popularity": "Early: founded 2023, AI planner launched ~5 months pre-deal; Bloch claimed platform helped manage >$1B in assets (self-reported). No user/revenue figures. ~10 employees.",
+  "popularity_sources": [
+   "https://thenextweb.com/news/openai-acquires-hiro-finance",
+   "https://thepaypers.com/fintech/news/openai-acquires-ai-personal-finance-startup-hiro-finance"
+  ],
+  "other_factors": "Acqui-hire of ~10 staff to add consumer financial-planning product talent to ChatGPT; Hiro shut down Apr 20, 2026, data deleted by May 13. Press raised regulatory/data questions. Price undisclosed.",
+  "primary_motive": "talent",
+  "confidence": "high",
+  "notes": "Announced ~Apr 13, 2026. Funding amount never public.",
+  "valuation": "unknown"
+ },
+ {
+  "id": "anthropic_opaque_systems_202610",
+  "target": "Opaque Systems",
+  "buyerId": "anthropic",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Ion Stoica",
+    "type": "angel/co-founder",
+    "note": "named as backer"
+   },
+   {
+    "name": "Series A investors (2022, $22M)",
+    "type": "VC",
+    "note": "names not retrieved"
+   }
+  ],
+  "total_funding": "unknown (Series A $22M 2022 + $24M Series B 2026 reported)",
+  "valuation": "~$300M at Series B (reported by AI Weekly)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Aaron Fulkerson",
+    "role": "CEO (appointed, not founder); joined Anthropic",
+    "background": "Appointed Opaque CEO (CIO Influence press release); earlier background not verified here",
+    "linkedin": null,
+    "source": "https://aiweekly.co/alerts/anthropic-acquires-opaque-systems-hires-its-ceo-and-cto"
+   },
+   {
+    "name": "Rishabh Poddar",
+    "role": "Co-founder & CTO; joined Anthropic",
+    "background": "PhD UC Berkeley (RISELab, advisor Raluca Ada Popa); IIT Kharagpur; ex-IBM Research; BCG",
+    "linkedin": null,
+    "source": "https://people.eecs.berkeley.edu/~rishabhp"
+   }
+  ],
+  "popularity": "Spun out of Berkeley RISELab (MC2 open source project); Anthropic was already an Opaque customer. No other metrics found.",
+  "popularity_sources": [
+   "https://aiweekly.co/alerts/anthropic-acquires-opaque-systems-hires-its-ceo-and-cto",
+   "https://constellationr.com/insights/news/anthropic-licenses-releases-opaque-acquihire"
+  ],
+  "other_factors": "License-and-hire; Opaque winding down; Anthropic brings confidential computing/verifiable AI in-house, existing customer relationship, regulated/sovereign deployments. Reports conflict on whether all or only some staff moved.",
+  "primary_motive": "technology_ip",
+  "confidence": "medium",
+  "notes": "Announced ~Oct 13, 2026. Terms undisclosed; no Anthropic primary statement found in results. Investor list for Series A/B incomplete."
+ },
+ {
+  "id": "anthropic_stainless_202605",
+  "target": "Stainless",
+  "buyerId": "anthropic",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Sequoia Capital",
+    "type": "VC",
+    "note": "per TechCrunch"
+   },
+   {
+    "name": "Andreessen Horowitz",
+    "type": "VC",
+    "note": "per TechCrunch"
+   }
+  ],
+  "valuation": "~$150M prior (Dec 2025) per The Information; price reported >=$300M",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Alex Rattray",
+    "role": "Founder/CEO; joined Anthropic",
+    "background": "Former Stripe engineer on developer products",
+    "linkedin": null,
+    "source": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/"
+   }
+  ],
+  "popularity": "SDK generator behind official SDKs of Anthropic, OpenAI, Google, Cloudflare; customers incl. Replicate, Runway.",
+  "popularity_sources": [
+   "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+   "https://anthropic.com/news/anthropic-acquires-stainless"
+  ],
+  "other_factors": "Supply-chain/vertical integration and defensive: removes tooling from rival labs; hosted products wound down, existing customers keep generated SDKs. Anthropic was an existing customer.",
+  "primary_motive": "vertical_integration",
+  "confidence": "high",
+  "notes": "Announced May 18, 2026. Price is press-reported (The Information), not confirmed. Total funding not found.",
+  "total_funding": "unknown"
+ },
+ {
+  "id": "anthropic_runhouse_202604",
+  "target": "Runhouse",
+  "buyerId": "anthropic",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Work-Bench",
+    "type": "VC",
+    "note": "led $5M seed"
+   },
+   {
+    "name": "Hetz Ventures",
+    "type": "VC",
+    "note": "participated"
+   }
+  ],
+  "total_funding": "~$5M seed (Calcalist)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Donny Greenberg",
+    "role": "Co-founder/CEO, New York",
+    "background": "Background not verified in results",
+    "linkedin": null,
+    "source": "https://www.calcalistech.com/ctechnews/article/b1dsxqr6zl"
+   },
+   {
+    "name": "Josh Lewittes",
+    "role": "Co-founder/CTO, Israel",
+    "background": "Background not verified in results",
+    "linkedin": "https://il.linkedin.com/in/joshua-lewittes",
+    "source": "https://www.calcalistech.com/ctechnews/article/b1dsxqr6zl"
+   }
+  ],
+  "popularity": "Small (~10 people, founded 2023); product Kubetorch for ML on Kubernetes. No traction metrics found.",
+  "popularity_sources": [
+   "https://www.calcalistech.com/ctechnews/article/b1dsxqr6zl",
+   "https://www.trysignalbase.com/news/acquisitions/runhouse-acquired-by-anthropic-acquisition"
+  ],
+  "other_factors": "Acqui-hire, mostly in Anthropic stock at modest valuation; compute orchestration fits continuous model training; Anthropic interest in Israeli talent (per Hetz).",
+  "primary_motive": "talent",
+  "confidence": "medium",
+  "notes": "Late Apr 2026. No official Anthropic announcement found; relies on Calcalist. Whether all staff joined unconfirmed.",
+  "valuation": "unknown"
+ },
+ {
+  "id": "anthropic_coefficient_bio_202604",
+  "target": "Coefficient Bio",
+  "buyerId": "anthropic",
+  "verified": true,
+  "investors": [],
+  "total_funding": "no publicly disclosed funding",
+  "valuation": "~$400M all-stock deal value (press-reported; The Information)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Nathan C. Frey",
+    "role": "Co-founder & CTO",
+    "background": "Ex group leader/principal scientist at Prescient Design (Genentech), biological foundation models; PhD materials science, UPenn",
+    "linkedin": null,
+    "source": "https://substack.com/@ncfrey"
+   },
+   {
+    "name": "Samuel Stanton",
+    "role": "Co-founder",
+    "background": "Biological foundation models / ML for biomolecule design; ex-Prescient Design/Genentech (per press, not independently verified)",
+    "linkedin": null,
+    "source": "https://pulse2.com/anthropic-acquired-coefficient-bio-in-a-400-million-deal-report/amp/"
+   },
+   {
+    "name": "Aris Theologis",
+    "role": "CEO (single-source claim, conflicts with others)",
+    "background": "unknown",
+    "linkedin": null,
+    "source": "https://www.htworld.co.uk/?p=49171"
+   }
+  ],
+  "popularity": "Stealth; no public product or revenue; <10 employees, founded ~Aug 2025.",
+  "popularity_sources": [
+   "https://www.fiercebiotech.com/biotech/anthropic-acquires-stealth-ai-startup-coefficient-bio-400m-deal"
+  ],
+  "other_factors": "Team joins Anthropic healthcare & life sciences (Eric Kauderer-Abrams); extends Claude for Life Sciences/Healthcare; a bet on future potential. Price per head very high.",
+  "primary_motive": "talent",
+  "confidence": "medium",
+  "notes": "Not confirmed by Anthropic in sources found. Founder lists conflict across outlets (Theologis/Joyce Hong vs Stanton/Frey). No investors found."
+ },
+ {
+  "id": "anthropic_vercept_202602",
+  "target": "Vercept",
+  "buyerId": "anthropic",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Fifty Years (Seth Bannon)",
+    "type": "VC",
+    "note": "lead"
+   },
+   {
+    "name": "Eric Schmidt",
+    "type": "angel",
+    "note": null
+   },
+   {
+    "name": "Jeff Dean",
+    "type": "angel",
+    "note": null
+   },
+   {
+    "name": "Kyle Vogt",
+    "type": "angel",
+    "note": null
+   },
+   {
+    "name": "Arash Ferdowsi",
+    "type": "angel",
+    "note": null
+   },
+   {
+    "name": "Oren Etzioni",
+    "type": "co-founder/investor",
+    "note": null
+   }
+  ],
+  "total_funding": "~$50M (CEO Ehsani via LinkedIn)",
+  "valuation": "unknown (undisclosed price)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Kiana Ehsani",
+    "role": "Co-founder/CEO; joined Anthropic",
+    "background": "PhD Univ. of Washington ('21); senior researcher leading robotics/embodied AI at Ai2",
+    "linkedin": null,
+    "source": "https://www.cs.washington.edu/?p=62872"
+   },
+   {
+    "name": "Luca Weihs",
+    "role": "Co-founder; joined Anthropic",
+    "background": "Former Allen Institute for AI researcher",
+    "linkedin": null,
+    "source": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/"
+   },
+   {
+    "name": "Ross Girshick",
+    "role": "Co-founder; joined Anthropic",
+    "background": "Former Ai2 researcher (long-time computer vision researcher, R-CNN author; ex-FAIR - from general knowledge, not verified in fetched pages)",
+    "linkedin": null,
+    "source": "https://anthropic.com/news/acquires-vercept"
+   }
+  ],
+  "popularity": "Product Vy (cloud computer-use agent); Etzioni cited 'so much traction' but no metrics. Co-founder Matt Deitke left for Meta.",
+  "popularity_sources": [
+   "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/"
+  ],
+  "other_factors": "Perception/interaction research maps onto Anthropic computer-use hard problems; Vy shut down Mar 25; not all founders joined (Etzioni, Deitke).",
+  "primary_motive": "talent",
+  "confidence": "high",
+  "notes": "Announced Feb 25, 2026. Ledger says 'some founders joined' - consistent."
+ },
+ {
+  "id": "anthropic_bun_202512",
+  "target": "Bun",
+  "buyerId": "anthropic",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Y Combinator",
+    "type": "accelerator",
+    "note": "Bun listed on YC company page"
+   },
+   {
+    "name": "Other VCs",
+    "type": "VC",
+    "note": "not retrieved; unverified"
+   }
+  ],
+  "total_funding": "~$26M (founder statement per ledger; not independently re-verified)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Jarred Sumner",
+    "role": "Creator/founder of Bun (Oven); joined Anthropic",
+    "background": "Ex-Stripe; created Bun 2021; YC founder",
+    "linkedin": null,
+    "source": "https://ycombinator.com/companies/bun"
+   }
+  ],
+  "popularity": ">7M monthly downloads, >82k GitHub stars; users incl. Midjourney, Lovable; already core to Claude Code (native installer).",
+  "popularity_sources": [
+   "https://pulse2.com/anthropic-acquires-bun/",
+   "https://devops.com/anthropic-acquires-bun-to-accelerate-ai-coding-tools/"
+  ],
+  "other_factors": "Infrastructure for Claude Code ($1B run-rate) and Agent SDK; stays MIT open source; avoids VC monetization pressure; existing dependency.",
+  "primary_motive": "technology_ip",
+  "confidence": "high",
+  "notes": "Announced Dec 2, 2025. Revenue $0 claim from ledger, not re-verified.",
+  "valuation": "unknown"
+ },
+ {
+  "id": "amd_world_labs_202609",
+  "target": "World Labs",
+  "buyerId": "amd",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Andreessen Horowitz",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "Radical Ventures",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "AMD",
+    "type": "strategic",
+    "note": "listed by CB Insights as 2026 round investor"
+   },
+   {
+    "name": "NVIDIA",
+    "type": "strategic",
+    "note": null
+   },
+   {
+    "name": "Fidelity",
+    "type": "asset manager",
+    "note": null
+   },
+   {
+    "name": "Autodesk",
+    "type": "strategic",
+    "note": null
+   },
+   {
+    "name": "Emerson Collective",
+    "type": "investor",
+    "note": null
+   },
+   {
+    "name": "Sea",
+    "type": "strategic",
+    "note": null
+   }
+  ],
+  "total_funding": "~$1.2B (trackers)",
+  "valuation": "Deal ~$8.2B all-stock; prior valuations conflicting ($5-6.7B)",
+  "buyer_was_investor": true,
+  "founders": [
+   {
+    "name": "Fei-Fei Li",
+    "role": "Founder; becomes AMD EVP & Chief Scientist",
+    "background": "Stanford CS professor, ImageNet creator",
+    "linkedin": null,
+    "source": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
+   },
+   {
+    "name": "Justin Johnson",
+    "role": "Co-founder; leads team within AMD",
+    "background": "unknown in sources",
+    "linkedin": null,
+    "source": "https://aiweekly.co/alerts/amd-agrees-to-buy-fei-fei-lis-world-labs-for-82b-names-her-evp-and-chief"
+   },
+   {
+    "name": "Ben Mildenhall",
+    "role": "Co-founder; leads team within AMD",
+    "background": "unknown in sources (NeRF co-author from general knowledge)",
+    "linkedin": null,
+    "source": "https://aiweekly.co/alerts/amd-agrees-to-buy-fei-fei-lis-world-labs-for-82b-names-her-evp-and-chief"
+   }
+  ],
+  "popularity": "Marble world-model product; no user/revenue figures found. Prior AMD partnership on inference and training.",
+  "popularity_sources": [
+   "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
+  ],
+  "other_factors": "AMD says frontier workload insight shapes hardware/software roadmap; competitive response to Nvidia (Cosmos, Hugging Face buy); signed Sep 28, expected close end-2026 pending regulators.",
+  "primary_motive": "technology_ip",
+  "confidence": "medium",
+  "notes": "Pending, not closed. AMD investor status rests on CB Insights only; Li's role makes talent a strong secondary motive."
+ },
+ {
+  "id": "amd_taalas_202608",
+  "target": "Taalas",
+  "buyerId": "amd",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Quiet Capital",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "Pierre Lamond",
+    "type": "angel/VC",
+    "note": null
+   },
+   {
+    "name": "Fidelity",
+    "type": "asset manager",
+    "note": "single-source"
+   }
+  ],
+  "total_funding": "~$219M",
+  "valuation": "undisclosed (an estimate of ~$750M is unconfirmed)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Ljubisa Bajic",
+    "role": "Founder/CEO; team joins AMD Boppana's group at close",
+    "background": "Tenstorrent co-founder; ex-AMD and Nvidia architect",
+    "linkedin": null,
+    "source": "https://siliconangle.com/2026/08/06/amd-acquires-taalas-hardwire-ai-models-silicon/"
+   }
+  ],
+  "popularity": "HC1 test chip claimed ~17k tokens/s on Llama 3.1 8B (company claim); raised $169M Feb 2026.",
+  "popularity_sources": [
+   "https://www.sdxcentral.com/news/amd-acquires-ai-chip-startup-taalas-to-further-support-inference-workloads/",
+   "https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference"
+  ],
+  "other_factors": "Model-specific silicon to combine with Instinct GPUs; The Register: real acquisition not acquihire; third AMD AI deal in nine months.",
+  "primary_motive": "technology_ip",
+  "confidence": "high",
+  "notes": "Agreement announced Aug 6, 2026; subject to regulatory approval, close not confirmed; ledger 'completed' may be premature."
+ },
+ {
+  "id": "amd_mext_202606",
+  "target": "MEXT",
+  "buyerId": "amd",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Clear Ventures",
+    "type": "VC",
+    "note": "led first institutional round"
+   },
+   {
+    "name": "DN Capital",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "Uncorrelated Ventures",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "FJ Labs",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "Page One Ventures",
+    "type": "VC",
+    "note": null
+   }
+  ],
+  "total_funding": "~$8-10.6M (sources vary)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Gary Smerdon",
+    "role": "Co-founder/CEO",
+    "background": "Previously ran TidalScale (acquired by HPE 2022)",
+    "linkedin": null,
+    "source": "https://www.nextplatform.com/store/2026/06/29/amd-stretches-server-dram-with-flash-extended-memory/5263848"
+   },
+   {
+    "name": "David Reed",
+    "role": "Co-founder",
+    "background": "unknown",
+    "linkedin": null,
+    "source": "https://www.nextplatform.com/store/2026/06/29/amd-stretches-server-dram-with-flash-extended-memory/5263848"
+   },
+   {
+    "name": "Bobby Minnear",
+    "role": "Co-founder",
+    "background": "unknown",
+    "linkedin": null,
+    "source": "https://www.nextplatform.com/store/2026/06/29/amd-stretches-server-dram-with-flash-extended-memory/5263848"
+   }
+  ],
+  "popularity": "Out of stealth only April 2026; claims 2-4x memory expansion, 50% infra cost cut (company claims); partnered with AMD since 2024.",
+  "popularity_sources": [
+   "https://www.amd.com/en/blogs/2026/amd-acquires-mext-for-memory-optimization.html",
+   "https://www.datacenterdynamics.com/en/news/amd-acquires-storage-software-startup-mext/"
+  ],
+  "other_factors": "Memory a bottleneck for AI/HPC; integrate predictive memory across AMD data center portfolio; prior partnership.",
+  "primary_motive": "technology_ip",
+  "confidence": "high",
+  "notes": "AMD blog dated Jun 15, 2026; price undisclosed.",
+  "valuation": "unknown"
+ },
+ {
+  "id": "amd_mk1_202511",
+  "target": "MK1",
+  "buyerId": "amd",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Susa Ventures",
+    "type": "VC",
+    "note": "PitchBook"
+   },
+   {
+    "name": "Ascent Equity Partners",
+    "type": "investor",
+    "note": null
+   },
+   {
+    "name": "Interface Capital",
+    "type": "investor",
+    "note": null
+   },
+   {
+    "name": "Rsquared",
+    "type": "investor",
+    "note": null
+   }
+  ],
+  "total_funding": "unknown",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Paul Merolla",
+    "role": "Founder; joined AMD AI Group",
+    "background": "Neuralink co-founder; co-led chip design and neural decoding algorithms",
+    "linkedin": null,
+    "source": "https://www.crnasia.com/news-network/2025/amd-buys-ai-startup-led-by-neuralink-veterans-in-ongoing-acq"
+   },
+   {
+    "name": "Thong Wei Koh",
+    "role": "Founder",
+    "background": "Former Neuralink team lead (neural signal processing)",
+    "linkedin": null,
+    "source": "https://www.crnasia.com/news-network/2025/amd-buys-ai-startup-led-by-neuralink-veterans-in-ongoing-acq"
+   }
+  ],
+  "popularity": "Flywheel engine serving >1 trillion tokens/day; ~9 employees; optimized for AMD Instinct.",
+  "popularity_sources": [
+   "https://www.amd.com/en/blogs/2025/amd-acquires-mk1-to-advance-ai-inference-performance.html"
+  ],
+  "other_factors": "Strengthen enterprise AI stack and inference/reasoning on Instinct; part of AMD acquisition spree vs Nvidia.",
+  "primary_motive": "technology_ip",
+  "confidence": "high",
+  "notes": "Closed Nov 10, 2025. Team includes ex-Neuralink, Meta, Tesla, Apple engineers.",
+  "valuation": "unknown"
+ },
+ {
+  "id": "amd_brium_202506",
+  "target": "Brium",
+  "buyerId": "amd",
+  "verified": true,
+  "investors": [],
+  "founders": [],
+  "popularity": "Small compiler/AI software team; contributes to OpenAI Triton, WAVE DSL, SHARK/IREE. No usage metrics found.",
+  "popularity_sources": [
+   "https://www.amd.com/en/blogs/2025/amd-acquires-brium-to-strengthen-open-ai-software-ecosystem.html"
+  ],
+  "other_factors": "Open AI software ecosystem and inference-stack optimization for Instinct GPUs; reduces hardware-specific dependence; follows Silo AI, Nod.ai, Mipsology.",
+  "primary_motive": "talent",
+  "confidence": "medium",
+  "notes": "Announced Jun 4, 2025. Founder names, investors, funding not found in my searches.",
+  "buyer_was_investor": null,
+  "valuation": "unknown",
+  "total_funding": "unknown"
+ },
+ {
+  "id": "qualcomm_akeana_202610",
+  "target": "Akeana",
+  "buyerId": "qualcomm",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Kleiner Perkins",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "Mayfield",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "Fidelity",
+    "type": "asset manager",
+    "note": null
+   },
+   {
+    "name": "Clearstone Venture Partners",
+    "type": "VC",
+    "note": "per SoCalTech headline, unverified detail"
+   }
+  ],
+  "total_funding": ">$100M",
+  "buyer_was_investor": null,
+  "founders": [
+   {
+    "name": "Rabin Sugumar",
+    "role": "Founder/CEO; now Qualcomm VP of Engineering",
+    "background": "Founded by ex-Marvell server processor engineers",
+    "linkedin": null,
+    "source": "https://dealroom.co/news/164707-qualcomm-buys-risc-v-startup-akeana-to-push-into-ai-and-data-center-chip/"
+   }
+  ],
+  "popularity": "Samsung Foundry partner; Alpine server test chip design completed Dec 2025. No customer commitments disclosed.",
+  "popularity_sources": [
+   "https://www.sammyfans.com/2026/10/21/qualcomm-acquires-samsung-foundry-partner-akeana-to-expand-ai-chip-business/"
+  ],
+  "other_factors": "Expands RISC-V CPU/data-center push after Ventana; team joins Qualcomm.",
+  "primary_motive": "technology_ip",
+  "confidence": "medium",
+  "notes": "Reported ~Oct 21, 2026; terms undisclosed; no Qualcomm press release seen.",
+  "valuation": "unknown"
+ },
+ {
+  "id": "qualcomm_picknik_robotics_202609",
+  "target": "PickNik Robotics",
+  "buyerId": "qualcomm",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Stellar Ventures",
+    "type": "VC",
+    "note": "led $2M pre-seed 2023"
+   },
+   {
+    "name": "Cypress Growth Capital",
+    "type": "growth lender",
+    "note": null
+   }
+  ],
+  "total_funding": "$2M pre-seed + ~$5M non-dilutive SBIR (as of 2023)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Dave Coleman",
+    "role": "Founder/CEO",
+    "background": "Long-time MoveIt maintainer; bootstrapped PickNik",
+    "linkedin": null,
+    "source": "https://www.automate.org/news/stellar-ventures-and-cypress-growth-capital-commit-to-fueling-the-future-of-robotics-software"
+   }
+  ],
+  "popularity": "Maintainer of MoveIt open-source manipulation framework (very widely used in ROS); MoveIt Pro commercial product. No numeric stats retrieved.",
+  "popularity_sources": [
+   "https://www.therobotreport.com/qualcomm-acquires-picknik-robotics-keep-moveit-open-source/"
+  ],
+  "other_factors": "Physical AI/robotics push; integrate with Dragonwing and Arduino; pledges MoveIt stays open source; announced at ROSCon Toronto.",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "high",
+  "notes": "Announced Sep 23, 2026, pending close. Whether Coleman joins not confirmed.",
+  "valuation": "unknown"
+ },
+ {
+  "id": "qualcomm_modular_202607",
+  "target": "Modular",
+  "buyerId": "qualcomm",
+  "verified": true,
+  "investors": [
+   {
+    "name": "General Catalyst",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "GV",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "Greylock",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "SV Angel",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "US Innovative Technology Fund (Thomas Tull)",
+    "type": "VC",
+    "note": "led $250M round"
+   },
+   {
+    "name": "DFJ Growth",
+    "type": "VC",
+    "note": null
+   }
+  ],
+  "total_funding": "~$380M",
+  "valuation": "$1.6B (Sep 2025); deal ~$3.9B in stock (reported)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Chris Lattner",
+    "role": "Co-founder/CEO; now Qualcomm EVP Advanced AI Software & Platforms",
+    "background": "Creator of LLVM, Swift, MLIR; ex-Apple, Tesla, Google",
+    "linkedin": null,
+    "source": "https://aiweekly.co/alerts/qualcomm-closes-modular-deal-names-lattner-ai-software-evp"
+   }
+  ],
+  "popularity": "Mojo/MAX/Modular Cloud; no usage numbers retrieved.",
+  "popularity_sources": [
+   "https://www.unite.ai/qualcomm-closes-all-stock-acquisition-of-compiler-startup-modular/"
+  ],
+  "other_factors": "Challenge CUDA ecosystem; hardware-agnostic software layer for data center AI; stock deal up to 19.2M QCOM shares; brands retained.",
+  "primary_motive": "technology_ip",
+  "confidence": "high",
+  "notes": "Closed ~Jul 29, 2026; announcement date reported Jun 21-24. Valuation per aggregator (AIwire)."
+ },
+ {
+  "id": "qualcomm_augentix_202601",
+  "target": "Augentix",
+  "buyerId": "qualcomm",
+  "verified": true,
+  "investors": [],
+  "founders": [
+   {
+    "name": "Hung-Chi Fan",
+    "role": "CEO",
+    "background": "unknown",
+    "linkedin": null,
+    "source": "https://www.fonearena.com/blog/470687/qualcomm-acquires-augentix.html/amp"
+   }
+  ],
+  "popularity": "Taiwan (Hsinchu) fabless ISP/multimedia SoC maker founded 2014; MeitY endorsed as trusted supply chain option for India.",
+  "popularity_sources": [
+   "https://www.fonearena.com/blog/470687/qualcomm-acquires-augentix.html/amp",
+   "https://t2online.in/tech/tech-news/what-qualcomm-gains-from-its-acquisition-of-augentix/2002634"
+  ],
+  "other_factors": "Broaden Qualcomm Insight smart-camera portfolio with cost-efficient chips; India OEM/ODM access.",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "medium",
+  "notes": "Ledger date wrong: announced Dec 9, 2025. Investors/funding not found.",
+  "buyer_was_investor": null,
+  "valuation": "unknown",
+  "total_funding": "unknown"
+ },
+ {
+  "id": "qualcomm_alphawave_ip_202512",
+  "target": "Alphawave IP",
+  "buyerId": "qualcomm",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Public (LSE-listed)",
+    "type": "public",
+    "note": "no VC"
+   }
+  ],
+  "total_funding": "public company",
+  "valuation": "$2.3B per 10-Q (headline $2.4B)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Tony Pialis",
+    "role": "Co-founder & CEO; leads Qualcomm data center business",
+    "background": "Alphawave co-founder (prior background not verified here)",
+    "linkedin": null,
+    "source": "https://www.qualcomm.com/news/releases/2025/12/qualcomm-completes-acquisition-of-alphawave-semi"
+   }
+  ],
+  "popularity": "Established public connectivity IP company.",
+  "popularity_sources": [
+   "https://www.nasdaq.com/press-release/qualcomm-completes-acquisition-alphawave-semi-2025-12-18"
+  ],
+  "other_factors": "High-speed connectivity/custom silicon for Qualcomm data-center push; closed ~a quarter early.",
+  "primary_motive": "vertical_integration",
+  "confidence": "high",
+  "notes": "Closed Dec 18, 2025. Not a startup; no investors in VC sense."
+ },
+ {
+  "id": "qualcomm_ventana_micro_systems_202512",
+  "target": "Ventana Micro Systems",
+  "buyerId": "qualcomm",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Sehat Sutardja & Weili Dai",
+    "type": "angel",
+    "note": "led $38M Series B 2021"
+   },
+   {
+    "name": "Wise Road Capital",
+    "type": "investor",
+    "note": "Dealroom"
+   },
+   {
+    "name": "Qualcomm",
+    "type": "strategic",
+    "note": "CB Insights lists it in acquisition round, ambiguous"
+   }
+  ],
+  "total_funding": "~$98-99M",
+  "buyer_was_investor": null,
+  "founders": [
+   {
+    "name": "Balaji Baktha",
+    "role": "Founder/CEO",
+    "background": "unknown in sources",
+    "linkedin": null,
+    "source": "https://www.datacenterdynamics.com/en/news/qualcomm-buys-risc-v-server-chip-maker-ventana-microsystems/"
+   }
+  ],
+  "popularity": "RISC-V server CPU designer (2018); Veryon products delayed per press.",
+  "popularity_sources": [
+   "https://www.datacenterdynamics.com/en/news/qualcomm-buys-risc-v-server-chip-maker-ventana-microsystems/"
+  ],
+  "other_factors": "Deepen RISC-V CPU expertise for data center/Oryon; hedge vs Arm.",
+  "primary_motive": "technology_ip",
+  "confidence": "medium",
+  "notes": "Announced ~Dec 10, 2025; terms undisclosed. Prior Qualcomm investment not clearly established.",
+  "valuation": "unknown"
+ },
+ {
+  "id": "qualcomm_arduino_202510",
+  "target": "Arduino",
+  "buyerId": "qualcomm",
+  "verified": true,
+  "investors": [],
+  "founders": [
+   {
+    "name": "Massimo Banzi",
+    "role": "Co-founder; reportedly leaving after 20 years",
+    "background": "Arduino co-founder",
+    "linkedin": null,
+    "source": "https://en.ilsole24ore.com/art/qualcomm-buys-arduino-the-ivrea-company-celebrates-open-source-boards-AHg2DV2C"
+   },
+   {
+    "name": "Fabio Violante",
+    "role": "CEO",
+    "background": "unknown",
+    "linkedin": null,
+    "source": "https://en.ilsole24ore.com/art/qualcomm-buys-arduino-the-ivrea-company-celebrates-open-source-boards-AHg2DV2C"
+   }
+  ],
+  "popularity": "~33M users/community members (TechRadar).",
+  "popularity_sources": [
+   "https://www.techradar.com/pro/qualcomm-acquires-arduino-in-surprising-move-that-puts-it-right-on-the-edge-and-at-the-helm-of-a-33-million-strong-maker-community"
+  ],
+  "other_factors": "Developer ecosystem to democratize access to Qualcomm edge/AI (after Edge Impulse, Foundries.io); UNO Q on Dragonwing; Arduino keeps independent brand.",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "medium",
+  "notes": "Announced Oct 7, 2025 as agreement subject to regulatory approval; closing not verified. Investors not found.",
+  "buyer_was_investor": null,
+  "valuation": "unknown",
+  "total_funding": "unknown"
+ },
+ {
+  "id": "intel_mentee_robotics_202602",
+  "target": "Mentee Robotics",
+  "buyerId": "intel",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Ahren Innovation Capital",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "Cisco Investments",
+    "type": "corporate",
+    "note": null
+   },
+   {
+    "name": "Samsung NEXT",
+    "type": "corporate",
+    "note": null
+   },
+   {
+    "name": "Mobileye",
+    "type": "strategic",
+    "note": "listed by one tracker"
+   }
+  ],
+  "total_funding": "$17M-$50M (sources conflict)",
+  "valuation": "$900M deal ($612M cash + up to 26.2M Mobileye shares)",
+  "buyer_was_investor": null,
+  "founders": [
+   {
+    "name": "Amnon Shashua",
+    "role": "Co-founder/chairman; Mobileye CEO",
+    "background": "Hebrew University professor; co-founder Mobileye and OrCam",
+    "linkedin": null,
+    "source": "https://en.globes.co.il/en/article-1001531330"
+   },
+   {
+    "name": "Lior Wolf",
+    "role": "Co-founder",
+    "background": "Tel Aviv University professor, computer vision/ML",
+    "linkedin": null,
+    "source": "https://www.vcbacked.co/company/mentee-robotics"
+   }
+  ],
+  "popularity": "Humanoid robot demos (e.g. packing crates); series production targeted 2028. No revenue found.",
+  "popularity_sources": [
+   "https://techcrunch.com/2026/01/06/mobileye-acquires-humanoid-robot-startup-mentee-robotics-for-900m"
+  ],
+  "other_factors": "Related-party deal: Shashua (Mobileye CEO) co-founded Mentee and receives ~$341M; he recused; approved by Mobileye and Intel boards; physical AI 'Mobileye 3.0'.",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "high",
+  "notes": "LEDGER ERRORS: buyer is Mobileye (Intel ~85% owner), not Intel directly; announced Jan 6, 2026 at CES (expected Q1 close) not Feb; reported value $900M not $637M (the $637M figure not found). Closing not verified."
+ }
+]

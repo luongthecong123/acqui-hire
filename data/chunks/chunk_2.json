@@ -1,0 +1,289 @@
+[
+ {
+  "id": "amazon_fauna_robotics_202603",
+  "buyerId": "amazon",
+  "target": "Fauna Robotics",
+  "date": "2026-03",
+  "technology": "Humanoid robots",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "notes": "Team joined Amazon.",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "amazon_rivr_202603",
+  "buyerId": "amazon",
+  "target": "Rivr",
+  "date": "2026-03",
+  "technology": "Autonomous delivery robots",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "notes": "Robotics team joined Amazon.",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "amazon_bee_202507",
+  "buyerId": "amazon",
+  "target": "Bee",
+  "date": "2025-07",
+  "technology": "Personal AI wearable",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "nvidia_reflection_ai_202610",
+  "buyerId": "nvidia",
+  "target": "Reflection AI",
+  "date": "2026-10",
+  "technology": "Open-weight AI foundation models",
+  "dealType": "rumoured_acquisition",
+  "status": "rumoured",
+  "notes": "Financial Times reported discussions on 10 Oct 2026. No confirmed purchase agreement in prior research. Nvidia had reportedly invested ~$800M; Reflection reportedly valued at ~$25B.",
+  "rumourReportedDate": "2026-10-10",
+  "priorInvestmentReported": {
+   "amount": 800000000,
+   "currency": "USD",
+   "approximate": true
+  },
+  "reportedStartupValuation": {
+   "amount": 25000000000,
+   "currency": "USD",
+   "approximate": true
+  },
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "nvidia_hugging_face_202609",
+  "buyerId": "nvidia",
+  "target": "Hugging Face",
+  "date": "2026-09",
+  "technology": "Open model development and hosting platform",
+  "dealType": "acquisition_agreement",
+  "status": "announced_pending",
+  "reportedValue": {
+   "amount": 12930000000,
+   "currency": "USD",
+   "basis": "reported deal value including retention programme"
+  },
+  "notes": "Prior research said SEC filing projected closure in first half of 2027.",
+  "projectedClose": "2027-H1",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "nvidia_poolside_202608",
+  "buyerId": "nvidia",
+  "target": "Poolside",
+  "date": "2026-08",
+  "technology": "AI coding foundation models",
+  "dealType": "licensing_hiring_and_investment",
+  "status": "reported_completed",
+  "notes": "Reported $6B licence + $1B investment and job offers to 109 employees; three founders reportedly remained. Company investor letter characterised deal as neither an acquisition nor an acqui-hire; licence proceeds expected to go to investors.",
+  "componentValues": [
+   {
+    "amount": 6000000000,
+    "currency": "USD",
+    "basis": "reported licence"
+   },
+   {
+    "amount": 1000000000,
+    "currency": "USD",
+    "basis": "reported investment"
+   }
+  ],
+  "jobOffersReported": 109,
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "nvidia_essential_ai_202606",
+  "buyerId": "nvidia",
+  "target": "Essential AI",
+  "date": "2026-06",
+  "technology": "Foundation model research",
+  "dealType": "talent_transfer",
+  "status": "reported_completed",
+  "notes": "Reported movement of team members, not a confirmed whole-company purchase.",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "nvidia_kumo_ai_202606",
+  "buyerId": "nvidia",
+  "target": "Kumo AI",
+  "date": "2026-06",
+  "technology": "Predictive AI and foundation models",
+  "dealType": "reported_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "nvidia_illumex_202602",
+  "buyerId": "nvidia",
+  "target": "Illumex",
+  "date": "2026-02",
+  "technology": "Enterprise data semantics",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "reportedValue": {
+   "amount": 60000000,
+   "currency": "USD",
+   "approximate": true
+  },
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "nvidia_groq_202512",
+  "buyerId": "nvidia",
+  "target": "Groq",
+  "date": "2025-12",
+  "technology": "AI inference accelerator chips",
+  "dealType": "technology_license_and_hiring",
+  "status": "reported_completed",
+  "reportedValue": {
+   "amount": 20000000000,
+   "currency": "USD",
+   "approximate": true,
+   "basis": "reported licensing-and-hiring arrangement, not enterprise acquisition price"
+  },
+  "notes": "Groq as a company was not acquired, per prior discussion.",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "nvidia_schedmd_202512",
+  "buyerId": "nvidia",
+  "target": "SchedMD",
+  "date": "2025-12",
+  "technology": "Slurm cluster scheduling",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "nvidia_enfabrica_202509",
+  "buyerId": "nvidia",
+  "target": "Enfabrica",
+  "date": "2025-09",
+  "technology": "AI data-centre networking",
+  "dealType": "technology_license_and_hiring",
+  "status": "reported_completed",
+  "reportedValue": {
+   "amount": 900000000,
+   "currency": "USD",
+   "comparison": "greater_than",
+   "basis": "reported licence-and-hiring deal"
+  },
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "nvidia_solver_202509",
+  "buyerId": "nvidia",
+  "target": "Solver",
+  "date": "2025-09",
+  "technology": "AI coding agents",
+  "dealType": "reported_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "nvidia_centml_202506",
+  "buyerId": "nvidia",
+  "target": "CentML",
+  "date": "2025-06",
+  "technology": "GPU inference optimisation, ML compilation and cost reduction",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "notes": "Nvidia was previously an investor. Prior discussion reported at least 15 engineers and two interns transitioned.",
+  "transferredEngineersAtLeast": 15,
+  "transferredInternsReported": 2,
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "nvidia_lepton_ai_2025sp",
+  "buyerId": "nvidia",
+  "target": "Lepton AI",
+  "date": "2025-spring",
+  "technology": "GPU cloud infrastructure",
+  "dealType": "reported_acquisition",
+  "status": "reported_completed",
+  "notes": "Value previously described as hundreds of millions of USD, without a precise figure.",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "nvidia_gretel_202503",
+  "buyerId": "nvidia",
+  "target": "Gretel",
+  "date": "2025-03",
+  "technology": "Synthetic training data",
+  "dealType": "reported_acquisition",
+  "status": "reported_completed",
+  "notes": "Value previously described as nine figures USD, without a precise figure.",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "nvidia_octoai_202409",
+  "buyerId": "nvidia",
+  "target": "OctoAI",
+  "date": "2024-09",
+  "technology": "ML compilers and model serving",
+  "dealType": "reported_acquisition",
+  "status": "reported_completed",
+  "reportedValue": {
+   "amount": 165000000,
+   "currency": "USD",
+   "approximate": true,
+   "basis": "reported proposed value"
+  },
+  "notes": "Reported $132M funding raised; common shareholders reportedly received $0.02 per share.",
+  "fundingRaisedReported": {
+   "amount": 132000000,
+   "currency": "USD"
+  },
+  "commonSharePayoutReported": {
+   "amount": 0.02,
+   "currency": "USD",
+   "unit": "per share"
+  },
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "nvidia_deci_ai_202405",
+  "buyerId": "nvidia",
+  "target": "Deci AI",
+  "date": "2024-05",
+  "technology": "Neural architecture search and inference optimisation",
+  "dealType": "reported_acquisition",
+  "status": "reported_completed",
+  "reportedValue": {
+   "amount": 300000000,
+   "currency": "USD",
+   "approximate": true
+  },
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "nvidia_run_ai_202412",
+  "buyerId": "nvidia",
+  "target": "Run:ai",
+  "date": "2024-12",
+  "technology": "GPU scheduling, orchestration and resource management",
+  "dealType": "full_acquisition",
+  "status": "closed",
+  "reportedValue": {
+   "amount": 700000000,
+   "currency": "USD",
+   "approximate": true
+  },
+  "notes": "Date here denotes December 2024 closing.",
+  "closeDate": "2024-12",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "meta_sundial_202610",
+  "buyerId": "meta",
+  "target": "Sundial",
+  "date": "2026-10",
+  "technology": "AI data analytics",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ }
+]

@@ -1,0 +1,290 @@
+[
+ {
+  "company": "Rivr",
+  "buyer": "amazon",
+  "name": "Giorgio Valsecchi",
+  "role": "Co-founder",
+  "background": "ETH RSL spin-out",
+  "linkedin": null
+ },
+ {
+  "company": "Rivr",
+  "buyer": "amazon",
+  "name": "Lorenz Wellhausen",
+  "role": "Co-founder",
+  "background": "ETH RSL spin-out",
+  "linkedin": null
+ },
+ {
+  "company": "Rivr",
+  "buyer": "amazon",
+  "name": "Alexander Reske",
+  "role": "Co-founder",
+  "background": "ETH RSL spin-out",
+  "linkedin": null
+ },
+ {
+  "company": "Bee",
+  "buyer": "amazon",
+  "name": "Maria de Lourdes Zollo",
+  "role": "Co-founder & CEO",
+  "background": "Previously Squad and Twitter (Twitter acquired Squad)",
+  "linkedin": null
+ },
+ {
+  "company": "Bee",
+  "buyer": "amazon",
+  "name": "Ethan Sutin",
+  "role": "Co-founder & CTO",
+  "background": "Previously Squad and Twitter",
+  "linkedin": null
+ },
+ {
+  "company": "Reflection AI",
+  "buyer": "nvidia",
+  "name": "Misha Laskin",
+  "role": "Co-founder & CEO",
+  "background": "Former Google DeepMind; led reward modeling for Gemini",
+  "linkedin": null
+ },
+ {
+  "company": "Hugging Face",
+  "buyer": "nvidia",
+  "name": "Thomas Wolf",
+  "role": "Co-founder & CSO",
+  "background": "not detailed in searches",
+  "linkedin": null
+ },
+ {
+  "company": "Poolside",
+  "buyer": "nvidia",
+  "name": "Jason Warner",
+  "role": "Co-founder & CEO; reportedly remained at Poolside",
+  "background": "Former GitHub CTO",
+  "linkedin": null
+ },
+ {
+  "company": "Poolside",
+  "buyer": "nvidia",
+  "name": "Eiso Kant",
+  "role": "Co-founder & CTO; reportedly remained",
+  "background": "not detailed",
+  "linkedin": null
+ },
+ {
+  "company": "Essential AI",
+  "buyer": "nvidia",
+  "name": "Ashish Vaswani",
+  "role": "Co-founder & CEO; joined Nvidia to work on Nemotron",
+  "background": "Lead author of 'Attention Is All You Need'; ex-Google Brain",
+  "linkedin": null
+ },
+ {
+  "company": "Essential AI",
+  "buyer": "nvidia",
+  "name": "Niki Parmar",
+  "role": "Co-founder",
+  "background": "Transformer paper co-author, ex-Google Brain; move to Nvidia unconfirmed",
+  "linkedin": null
+ },
+ {
+  "company": "Kumo AI",
+  "buyer": "nvidia",
+  "name": "Vanja Josifovski",
+  "role": "Co-founder/CEO; reportedly moved to Nvidia",
+  "background": "not detailed",
+  "linkedin": null
+ },
+ {
+  "company": "Kumo AI",
+  "buyer": "nvidia",
+  "name": "Hema Raghavan",
+  "role": "Co-founder; reportedly moved to Nvidia",
+  "background": "not detailed",
+  "linkedin": null
+ },
+ {
+  "company": "Illumex",
+  "buyer": "nvidia",
+  "name": "Inna Tokarev Sela",
+  "role": "Founder & CEO (2021)",
+  "background": "not verified in searches",
+  "linkedin": null
+ },
+ {
+  "company": "Groq",
+  "buyer": "nvidia",
+  "name": "Jonathan Ross",
+  "role": "Founder; joined Nvidia",
+  "background": "not detailed here",
+  "linkedin": null
+ },
+ {
+  "company": "Groq",
+  "buyer": "nvidia",
+  "name": "Sunny Madra",
+  "role": "President; joined Nvidia",
+  "background": "not detailed",
+  "linkedin": null
+ },
+ {
+  "company": "SchedMD",
+  "buyer": "nvidia",
+  "name": "Danny Auble",
+  "role": "CEO, co-founder; Slurm lead",
+  "background": "Co-founded SchedMD 2010",
+  "linkedin": null
+ },
+ {
+  "company": "SchedMD",
+  "buyer": "nvidia",
+  "name": "Morris Jette",
+  "role": "Co-founder",
+  "background": "Co-founded SchedMD 2010",
+  "linkedin": null
+ },
+ {
+  "company": "Enfabrica",
+  "buyer": "nvidia",
+  "name": "Rochan Sankar",
+  "role": "Co-founder & CEO; hired by Nvidia",
+  "background": "not detailed here",
+  "linkedin": null
+ },
+ {
+  "company": "Solver (formerly Laredo Labs)",
+  "buyer": "nvidia",
+  "name": "Mark Gabel",
+  "role": "Co-founder",
+  "background": "not verified",
+  "linkedin": null
+ },
+ {
+  "company": "Solver (formerly Laredo Labs)",
+  "buyer": "nvidia",
+  "name": "Daniel Lord",
+  "role": "Co-founder",
+  "background": "not verified",
+  "linkedin": null
+ },
+ {
+  "company": "CentML",
+  "buyer": "nvidia",
+  "name": "Gennady Pekhimenko",
+  "role": "Co-founder & CEO; now Nvidia senior director AI software",
+  "background": "University of Toronto professor (per press; not independently checked)",
+  "linkedin": null
+ },
+ {
+  "company": "CentML",
+  "buyer": "nvidia",
+  "name": "Sam Wang",
+  "role": "CTO; Nvidia management role",
+  "background": "unknown",
+  "linkedin": null
+ },
+ {
+  "company": "CentML",
+  "buyer": "nvidia",
+  "name": "Akbar Nurlybayev",
+  "role": "COO; Nvidia management role",
+  "background": "unknown",
+  "linkedin": null
+ },
+ {
+  "company": "Lepton AI",
+  "buyer": "nvidia",
+  "name": "Yangqing Jia",
+  "role": "Co-founder & CEO; joined Nvidia, reportedly left after ~1 year (single secondary source)",
+  "background": "Former Alibaba VP of Technology; ex-Meta AI researcher (Caffe creator per public knowledge)",
+  "linkedin": null
+ },
+ {
+  "company": "Lepton AI",
+  "buyer": "nvidia",
+  "name": "Junjie Bai",
+  "role": "Co-founder; joined Nvidia",
+  "background": "Ex-Meta AI researcher",
+  "linkedin": null
+ },
+ {
+  "company": "Gretel",
+  "buyer": "nvidia",
+  "name": "Ali Golshan",
+  "role": "Co-founder & CEO",
+  "background": "not verified",
+  "linkedin": null
+ },
+ {
+  "company": "Gretel",
+  "buyer": "nvidia",
+  "name": "Alex Watson",
+  "role": "Co-founder",
+  "background": "not verified",
+  "linkedin": null
+ },
+ {
+  "company": "Gretel",
+  "buyer": "nvidia",
+  "name": "John Myers",
+  "role": "Co-founder",
+  "background": "not verified",
+  "linkedin": null
+ },
+ {
+  "company": "Gretel",
+  "buyer": "nvidia",
+  "name": "Laszlo Bock",
+  "role": "Co-founder",
+  "background": "Former Google SVP People Ops (public knowledge, not verified in search)",
+  "linkedin": null
+ },
+ {
+  "company": "OctoAI (OctoML)",
+  "buyer": "nvidia",
+  "name": "Luis Ceze",
+  "role": "Co-founder & CEO; now Nvidia VP AI systems software",
+  "background": "University of Washington professor; Apache TVM",
+  "linkedin": null
+ },
+ {
+  "company": "OctoAI (OctoML)",
+  "buyer": "nvidia",
+  "name": "Jared Roesch",
+  "role": "Co-founder",
+  "background": "unverified",
+  "linkedin": null
+ },
+ {
+  "company": "OctoAI (OctoML)",
+  "buyer": "nvidia",
+  "name": "Tianqi Chen",
+  "role": "Co-founder",
+  "background": "TVM/XGBoost creator (public knowledge); Nvidia role unknown",
+  "linkedin": null
+ },
+ {
+  "company": "OctoAI (OctoML)",
+  "buyer": "nvidia",
+  "name": "Jason Knight",
+  "role": "Co-founder",
+  "background": "unverified",
+  "linkedin": null
+ },
+ {
+  "company": "OctoAI (OctoML)",
+  "buyer": "nvidia",
+  "name": "Thierry Moreau",
+  "role": "Co-founder",
+  "background": "unverified",
+  "linkedin": null
+ },
+ {
+  "company": "Deci AI",
+  "buyer": "nvidia",
+  "name": "Yonatan Geifman",
+  "role": "Co-founder & CEO",
+  "background": "unverified",
+  "linkedin": null
+ }
+]

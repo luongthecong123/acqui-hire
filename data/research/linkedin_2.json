@@ -1,0 +1,290 @@
+[
+ {
+  "company": "Rivr",
+  "name": "Giorgio Valsecchi",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "Rivr",
+  "name": "Lorenz Wellhausen",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "Rivr",
+  "name": "Alexander Reske",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "Bee",
+  "name": "Maria de Lourdes Zollo",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "Bee",
+  "name": "Ethan Sutin",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "Reflection AI",
+  "name": "Misha Laskin",
+  "linkedin": "https://www.linkedin.com/pub/michael-laskin/7b/35/481/",
+  "match_confidence": "low",
+  "evidence": "Listed on startupintros.com/people/misha-laskin",
+  "note": "Legacy pub URL under name 'Michael Laskin' from an aggregator; match not verified"
+ },
+ {
+  "company": "Hugging Face",
+  "name": "Thomas Wolf",
+  "linkedin": "https://www.linkedin.com/in/thomas-wolf-a056857/",
+  "match_confidence": "high",
+  "evidence": "Linked from personal site thomwolf.io",
+  "note": "Personal site of Hugging Face co-founder"
+ },
+ {
+  "company": "Poolside",
+  "name": "Jason Warner",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "Poolside",
+  "name": "Eiso Kant",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "Essential AI",
+  "name": "Ashish Vaswani",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "Essential AI",
+  "name": "Niki Parmar",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "Kumo AI",
+  "name": "Vanja Josifovski",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "Kumo AI",
+  "name": "Hema Raghavan",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "Illumex",
+  "name": "Inna Tokarev Sela",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "Groq",
+  "name": "Jonathan Ross",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "Groq",
+  "name": "Sunny Madra",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "SchedMD",
+  "name": "Danny Auble",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "SchedMD",
+  "name": "Morris Jette",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "Enfabrica",
+  "name": "Rochan Sankar",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "Solver (formerly Laredo Labs)",
+  "name": "Mark Gabel",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "Solver (formerly Laredo Labs)",
+  "name": "Daniel Lord",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "CentML",
+  "name": "Gennady Pekhimenko",
+  "linkedin": "https://www.linkedin.com/in/gpekhimenko",
+  "match_confidence": "high",
+  "evidence": "Linked from his U of Toronto page cs.toronto.edu/~pekhimenko",
+  "note": "Professor page, matches CentML bio"
+ },
+ {
+  "company": "CentML",
+  "name": "Sam Wang",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "CentML",
+  "name": "Akbar Nurlybayev",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "Lepton AI",
+  "name": "Yangqing Jia",
+  "linkedin": "https://www.linkedin.com/in/yangqing-jia/",
+  "match_confidence": "high",
+  "evidence": "Linked from his personal site daggerfs.com; profile says Founder of Lepton AI, creator of Caffe",
+  "note": "Profile currently lists Intent Lab as company"
+ },
+ {
+  "company": "Lepton AI",
+  "name": "Junjie Bai",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "Gretel",
+  "name": "Ali Golshan",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "Gretel",
+  "name": "Alex Watson",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "Gretel",
+  "name": "John Myers",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "Gretel",
+  "name": "Laszlo Bock",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "OctoAI (OctoML)",
+  "name": "Luis Ceze",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "OctoAI (OctoML)",
+  "name": "Jared Roesch",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "OctoAI (OctoML)",
+  "name": "Tianqi Chen",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "OctoAI (OctoML)",
+  "name": "Jason Knight",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "OctoAI (OctoML)",
+  "name": "Thierry Moreau",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ },
+ {
+  "company": "Deci AI",
+  "name": "Yonatan Geifman",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Not found; search tool budget exhausted after first batch, so only personal-site fetches were possible"
+ }
+]

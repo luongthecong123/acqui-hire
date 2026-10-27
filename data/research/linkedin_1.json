@@ -1,0 +1,290 @@
+[
+ {
+  "company": "Fintool",
+  "name": "Nicolas Bustamante",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Only LinkedIn hit (cl.linkedin.com/in/nicolasbustamante) is a Chile strategy manager, not the Fintool CEO; set null."
+ },
+ {
+  "company": "Fintool",
+  "name": "Edouard Godfrey",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Fintool about page lists him as Co-founder & CTO, 9 yrs at Apple (Search, Apple Pay). No LinkedIn URL seen."
+ },
+ {
+  "company": "Osmos",
+  "name": "Kirat Pandya",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Osmos",
+  "name": "Naresh Venkat",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Pi Labs",
+  "name": "David Karam",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Pi Labs",
+  "name": "Achint Srivastava",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Fungible",
+  "name": "Pradeep Sindhu",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Fungible",
+  "name": "Bertrand Serlet",
+  "linkedin": "https://www.linkedin.com/in/bertrandserlet",
+  "match_confidence": "high",
+  "evidence": "Linked from his bio on siliconvalleyinvestclub.com fundamental.ai team page",
+  "note": "Now co-founder/CEO of fundamental.ai; Fungible co-founder"
+ },
+ {
+  "company": "Sonera",
+  "name": "Nishita Deka",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Sonera",
+  "name": "Dominic Labanowski",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "PlasmaSolve",
+  "name": "Adam Obrusnik",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "PlasmaSolve",
+  "name": "Petr Zikan",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "MotionVFX",
+  "name": "Szymon Masiak",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "SigScalr (ledger name 'SigScaler'; correct spelling SigScalr)",
+  "name": "Kunal Nawale",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Huxe",
+  "name": "Raiza Martin",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Huxe",
+  "name": "Jason Spielman",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Huxe",
+  "name": "Stephen Hughes",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Wiz",
+  "name": "Assaf Rappaport",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Wiz",
+  "name": "Ami Luttwak",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Wiz",
+  "name": "Yinon Costica",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Wiz",
+  "name": "Roy Reznik",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Intersect (Intersect Power)",
+  "name": "Sheldon Kimber",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "ProducerAI (formerly Riffusion)",
+  "name": "Seth Forsgren",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "ProducerAI (formerly Riffusion)",
+  "name": "Hayk Martiros",
+  "linkedin": "https://www.linkedin.com/in/hmartiros/",
+  "match_confidence": "high",
+  "evidence": "Contact link on his personal site haykmartiros.com",
+  "note": ""
+ },
+ {
+  "company": "Common Sense Machines",
+  "name": "Tejas Kulkarni",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Common Sense Machines",
+  "name": "Max Kleiman-Weiner",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Atlantic Quantum",
+  "name": "Bharath Kannan",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Atlantic Quantum",
+  "name": "Simon Gustavsson",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Windsurf (Codeium)",
+  "name": "Varun Mohan",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Windsurf (Codeium)",
+  "name": "Douglas Chen",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Hume AI",
+  "name": "Alan Cowen",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Hume AI",
+  "name": "About seven other engineers (unnamed)",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Unnamed group; not applicable."
+ },
+ {
+  "company": "DuckLabs (DuckDB Labs)",
+  "name": "Mark Raasveldt",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Fauna Robotics",
+  "name": "Rob Cochran",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Fauna Robotics",
+  "name": "Josh Merel",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ },
+ {
+  "company": "Rivr",
+  "name": "Marko Bjelonic",
+  "linkedin": null,
+  "match_confidence": "low",
+  "evidence": "",
+  "note": "Web search budget exhausted; no verified URL seen."
+ }
+]

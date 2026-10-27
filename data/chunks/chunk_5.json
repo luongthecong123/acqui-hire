@@ -1,0 +1,230 @@
+[
+ {
+  "id": "intel_inaccel_202403",
+  "buyerId": "intel",
+  "target": "InAccel",
+  "date": "2024-03",
+  "technology": "FPGA acceleration",
+  "dealType": "reported_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "intel_silicon_mobility_202401",
+  "buyerId": "intel",
+  "target": "Silicon Mobility",
+  "date": "2024-01",
+  "technology": "Automotive semiconductors",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "intel_codeplay_software_202206",
+  "buyerId": "intel",
+  "target": "Codeplay Software",
+  "date": "2022-06",
+  "technology": "Heterogeneous computing software",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "intel_siru_innovations_202205",
+  "buyerId": "intel",
+  "target": "Siru Innovations",
+  "date": "2022-05",
+  "technology": "Graphics IP and software expertise",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "broadcom_vmware_202311",
+  "buyerId": "broadcom",
+  "target": "VMware",
+  "date": "2023-11",
+  "technology": "Virtualisation and enterprise cloud software",
+  "dealType": "full_acquisition",
+  "status": "closed",
+  "closeDate": "2023-11",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "broadcom_symantec_enterprise_security_201911",
+  "buyerId": "broadcom",
+  "target": "Symantec Enterprise Security",
+  "date": "2019-11",
+  "technology": "Enterprise cybersecurity",
+  "dealType": "business_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "broadcom_ca_technologies_201811",
+  "buyerId": "broadcom",
+  "target": "CA Technologies",
+  "date": "2018-11",
+  "technology": "Enterprise infrastructure software",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "broadcom_brocade_201711",
+  "buyerId": "broadcom",
+  "target": "Brocade",
+  "date": "2017-11",
+  "technology": "Storage and networking infrastructure",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "broadcom_broadcom_corporation_201602",
+  "buyerId": "broadcom",
+  "target": "Broadcom Corporation",
+  "date": "2016-02",
+  "technology": "Communications semiconductors",
+  "dealType": "historical_predecessor_merger",
+  "status": "closed",
+  "notes": "Avago acquisition leading to creation of present-day Broadcom; not an acquisition made by current Broadcom in ordinary sense.",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "xai_x__twitter_202503",
+  "buyerId": "xai",
+  "target": "X (Twitter)",
+  "date": "2025-03",
+  "technology": "Social network, real-time data and distribution",
+  "dealType": "related_party_acquisition",
+  "status": "reported_completed",
+  "reportedValue": {
+   "amount": 33000000000,
+   "currency": "USD",
+   "basis": "reported equity value"
+  },
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "xai_hotshot_202503",
+  "buyerId": "xai",
+  "target": "Hotshot",
+  "date": "2025-03",
+  "technology": "Generative AI video foundation models",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "spacex_xai_202602",
+  "buyerId": "spacex",
+  "target": "xAI",
+  "date": "2026-02-02",
+  "technology": "Grok, models and AI research",
+  "dealType": "parent_company_acquisition",
+  "status": "closed",
+  "notes": "SpaceX acquired xAI; the combined operation described as SpaceXAI.",
+  "closeDate": "2026-02-02",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "spacex_cursor__anysphere_202608",
+  "buyerId": "spacex",
+  "target": "Cursor (Anysphere)",
+  "date": "2026-08-14",
+  "technology": "AI coding assistant and model development",
+  "dealType": "full_acquisition",
+  "status": "closed",
+  "reportedValue": {
+   "amount": 60000000000,
+   "currency": "USD",
+   "basis": "reported implied equity valuation"
+  },
+  "notes": "Prior discussion said acquired by SpaceX, under SpaceXAI integration strategy.",
+  "closeDate": "2026-08-14",
+  "relatedDivision": "xai",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "deepmind_mujoco_202110",
+  "buyerId": "deepmind",
+  "target": "MuJoCo",
+  "date": "2021-10",
+  "technology": "Physics simulation software and robotics",
+  "dealType": "software_ip_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "deepmind_hark_health_solutions_201604",
+  "buyerId": "deepmind",
+  "target": "Hark Health Solutions",
+  "date": "2016-04",
+  "technology": "Healthcare workflow software",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "reportedValue": {
+   "amount": 1400000,
+   "currency": "GBP",
+   "basis": "reported acquisition value"
+  },
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "deepmind_dark_blue_labs_201410",
+  "buyerId": "deepmind",
+  "target": "Dark Blue Labs",
+  "date": "2014-10",
+  "technology": "Deep learning and natural language processing",
+  "dealType": "acqui_hire",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "deepmind_vision_factory_201410",
+  "buyerId": "deepmind",
+  "target": "Vision Factory",
+  "date": "2014-10",
+  "technology": "Computer vision",
+  "dealType": "acqui_hire",
+  "status": "reported_completed",
+  "notes": "Combined with Dark Blue Labs, the 2014 deals brought seven Oxford researchers per earlier discussion.",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "deepmind_mechanize_202609",
+  "buyerId": "deepmind",
+  "target": "Mechanize",
+  "date": "2026-09",
+  "technology": "Coding-agent reinforcement learning environments and model training",
+  "dealType": "technology_license_and_hiring",
+  "status": "reported_completed",
+  "notes": "More than a dozen employees reportedly moved to DeepMind. More than $1.5B was discussed, but final value was undisclosed.",
+  "transferredTeamSizeReported": "more than 12",
+  "discussedValueNotFinal": {
+   "amount": 1500000000,
+   "currency": "USD",
+   "comparison": "greater_than"
+  },
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "deepmind_contextual_ai_202605",
+  "buyerId": "deepmind",
+  "target": "Contextual AI",
+  "date": "2026-05",
+  "technology": "Enterprise AI agents and retrieval-augmented generation",
+  "dealType": "technology_license_and_hiring",
+  "status": "reported_completed",
+  "reportedValue": {
+   "amountMin": 80000000,
+   "amountMax": 90000000,
+   "currency": "USD",
+   "basis": "reported deal range"
+  },
+  "notes": "More than 20 researchers reportedly transferred.",
+  "transferredResearchersReported": "more than 20",
+  "dateBasis": "as_described_in_prior_chat"
+ }
+]

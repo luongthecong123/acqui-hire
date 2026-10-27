@@ -1,0 +1,211 @@
+[
+ {
+  "id": "meta_stilla_ai_202609",
+  "buyerId": "meta",
+  "target": "Stilla.ai",
+  "date": "2026-09",
+  "technology": "Enterprise AI agents",
+  "dealType": "acquisition_agreement",
+  "status": "integration_pending",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "meta_assured_robot_intelligence_202605",
+  "buyerId": "meta",
+  "target": "Assured Robot Intelligence",
+  "date": "2026-05",
+  "technology": "Humanoid robotics AI",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "meta_moltbook_202603",
+  "buyerId": "meta",
+  "target": "Moltbook",
+  "date": "2026-03",
+  "technology": "AI-agent social network",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "meta_manus_202512",
+  "buyerId": "meta",
+  "target": "Manus",
+  "date": "2025-12",
+  "technology": "Autonomous AI agents",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "tesla_manz_assets_202502",
+  "buyerId": "tesla",
+  "target": "Manz assets",
+  "date": "2025-02",
+  "technology": "Industrial automation equipment",
+  "dealType": "assets_and_staff",
+  "status": "reported_completed",
+  "notes": "Facilities, equipment and hundreds of employees acquired from insolvent Manz, not full company.",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "tesla_wiferion_202306",
+  "buyerId": "tesla",
+  "target": "Wiferion",
+  "date": "2023-06",
+  "technology": "Wireless industrial charging",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "tesla_siilion_202111",
+  "buyerId": "tesla",
+  "target": "SiILion",
+  "date": "2021-11",
+  "technology": "Battery-anode technology",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "tesla_springpower_international_202105",
+  "buyerId": "tesla",
+  "target": "Springpower International",
+  "date": "2021-05",
+  "technology": "Battery manufacturing processes",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "tesla_atw_automation_202010",
+  "buyerId": "tesla",
+  "target": "ATW Automation",
+  "date": "2020-10",
+  "technology": "Battery production machinery",
+  "dealType": "reported_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "netflix_interpositive_202603",
+  "buyerId": "netflix",
+  "target": "InterPositive",
+  "date": "2026-03",
+  "technology": "AI filmmaking tools",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "netflix_ready_player_me_202512",
+  "buyerId": "netflix",
+  "target": "Ready Player Me",
+  "date": "2025-12",
+  "technology": "Gaming avatars",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "netflix_spry_fox_202210",
+  "buyerId": "netflix",
+  "target": "Spry Fox",
+  "date": "2022-10",
+  "technology": "Game development",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "netflix_animal_logic_202207",
+  "buyerId": "netflix",
+  "target": "Animal Logic",
+  "date": "2022-07",
+  "technology": "Animation production",
+  "dealType": "acquisition_agreement",
+  "status": "announced_pending",
+  "notes": "Prior discussion specified announcement, not a close date.",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "netflix_boss_fight_entertainment_202203",
+  "buyerId": "netflix",
+  "target": "Boss Fight Entertainment",
+  "date": "2022-03",
+  "technology": "Mobile game development",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "openai_orchestra_bio_202610",
+  "buyerId": "openai",
+  "target": "Orchestra Bio",
+  "date": "2026-10",
+  "technology": "AI drug-development workflows",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "openai_glass_imaging_202609",
+  "buyerId": "openai",
+  "target": "Glass Imaging",
+  "date": "2026-09",
+  "technology": "Computational photography and imaging AI",
+  "dealType": "reported_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "openai_nextslide_202608",
+  "buyerId": "openai",
+  "target": "NextSlide",
+  "date": "2026-08",
+  "technology": "AI presentation generation",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "notes": "Publicly disclosed August 2026; acquisition reportedly occurred months earlier.",
+  "disclosed": "2026-08",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "openai_ona___gitpod_202606",
+  "buyerId": "openai",
+  "target": "Ona / Gitpod",
+  "date": "2026-06",
+  "technology": "Persistent cloud development environments for AI agents",
+  "dealType": "full_acquisition",
+  "status": "closed",
+  "notes": "Acquisition announced June 2026 and closed August 10, 2026.",
+  "announcementDate": "2026-06",
+  "closeDate": "2026-08-10",
+  "foundedYearReported": 2020,
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "openai_tomoro_202605",
+  "buyerId": "openai",
+  "target": "Tomoro",
+  "date": "2026-05",
+  "technology": "Enterprise AI deployment engineering",
+  "dealType": "acquisition_agreement",
+  "status": "announced_pending",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "openai_notch_202610",
+  "buyerId": "openai",
+  "target": "Notch",
+  "date": "2026-10",
+  "technology": "AI engineering",
+  "dealType": "reported_acqui_hire",
+  "status": "reported_completed",
+  "notes": "Reported October 2026 acqui-hire.",
+  "dateBasis": "as_described_in_prior_chat"
+ }
+]

@@ -1,0 +1,290 @@
+[
+ {
+  "company": "Notch",
+  "buyer": "openai",
+  "name": "Vinay Jain",
+  "role": "Co-founder; acqui-hired by OpenAI",
+  "background": "Previously built ad products at Meta",
+  "linkedin": null
+ },
+ {
+  "company": "Notch",
+  "buyer": "openai",
+  "name": "Aman Jain",
+  "role": "Co-founder; acqui-hired",
+  "background": "~10 years 0-to-1 work at Twitter, Instagram, WhatsApp, Meta internal innovation lab",
+  "linkedin": null
+ },
+ {
+  "company": "Hiro Finance",
+  "buyer": "openai",
+  "name": "Ethan Bloch",
+  "role": "Founder/CEO; joined OpenAI",
+  "background": "Serial founder: Flowtown (sold ~$4.5-5M, 2009), Digit (acquired by Oportun 2021 for >$200M); Hiro was his 15th project",
+  "linkedin": null
+ },
+ {
+  "company": "Hiro Finance",
+  "buyer": "openai",
+  "name": "Rushabh Doshi",
+  "role": "Co-founder (reported); joining status unconfirmed",
+  "background": "unknown",
+  "linkedin": null
+ },
+ {
+  "company": "Opaque Systems",
+  "buyer": "anthropic",
+  "name": "Aaron Fulkerson",
+  "role": "CEO (appointed, not founder); joined Anthropic",
+  "background": "Appointed Opaque CEO (CIO Influence press release); earlier background not verified here",
+  "linkedin": null
+ },
+ {
+  "company": "Opaque Systems",
+  "buyer": "anthropic",
+  "name": "Rishabh Poddar",
+  "role": "Co-founder & CTO; joined Anthropic",
+  "background": "PhD UC Berkeley (RISELab, advisor Raluca Ada Popa); IIT Kharagpur; ex-IBM Research; BCG",
+  "linkedin": null
+ },
+ {
+  "company": "Stainless",
+  "buyer": "anthropic",
+  "name": "Alex Rattray",
+  "role": "Founder/CEO; joined Anthropic",
+  "background": "Former Stripe engineer on developer products",
+  "linkedin": null
+ },
+ {
+  "company": "Runhouse",
+  "buyer": "anthropic",
+  "name": "Donny Greenberg",
+  "role": "Co-founder/CEO, New York",
+  "background": "Background not verified in results",
+  "linkedin": null
+ },
+ {
+  "company": "Coefficient Bio",
+  "buyer": "anthropic",
+  "name": "Nathan C. Frey",
+  "role": "Co-founder & CTO",
+  "background": "Ex group leader/principal scientist at Prescient Design (Genentech), biological foundation models; PhD materials science, UPenn",
+  "linkedin": null
+ },
+ {
+  "company": "Coefficient Bio",
+  "buyer": "anthropic",
+  "name": "Samuel Stanton",
+  "role": "Co-founder",
+  "background": "Biological foundation models / ML for biomolecule design; ex-Prescient Design/Genentech (per press, not independently verified)",
+  "linkedin": null
+ },
+ {
+  "company": "Coefficient Bio",
+  "buyer": "anthropic",
+  "name": "Aris Theologis",
+  "role": "CEO (single-source claim, conflicts with others)",
+  "background": "unknown",
+  "linkedin": null
+ },
+ {
+  "company": "Vercept",
+  "buyer": "anthropic",
+  "name": "Kiana Ehsani",
+  "role": "Co-founder/CEO; joined Anthropic",
+  "background": "PhD Univ. of Washington ('21); senior researcher leading robotics/embodied AI at Ai2",
+  "linkedin": null
+ },
+ {
+  "company": "Vercept",
+  "buyer": "anthropic",
+  "name": "Luca Weihs",
+  "role": "Co-founder; joined Anthropic",
+  "background": "Former Allen Institute for AI researcher",
+  "linkedin": null
+ },
+ {
+  "company": "Vercept",
+  "buyer": "anthropic",
+  "name": "Ross Girshick",
+  "role": "Co-founder; joined Anthropic",
+  "background": "Former Ai2 researcher (long-time computer vision researcher, R-CNN author; ex-FAIR - from general knowledge, not verified in fetched pages)",
+  "linkedin": null
+ },
+ {
+  "company": "Bun",
+  "buyer": "anthropic",
+  "name": "Jarred Sumner",
+  "role": "Creator/founder of Bun (Oven); joined Anthropic",
+  "background": "Ex-Stripe; created Bun 2021; YC founder",
+  "linkedin": null
+ },
+ {
+  "company": "World Labs",
+  "buyer": "amd",
+  "name": "Fei-Fei Li",
+  "role": "Founder; becomes AMD EVP & Chief Scientist",
+  "background": "Stanford CS professor, ImageNet creator",
+  "linkedin": null
+ },
+ {
+  "company": "World Labs",
+  "buyer": "amd",
+  "name": "Justin Johnson",
+  "role": "Co-founder; leads team within AMD",
+  "background": "unknown in sources",
+  "linkedin": null
+ },
+ {
+  "company": "World Labs",
+  "buyer": "amd",
+  "name": "Ben Mildenhall",
+  "role": "Co-founder; leads team within AMD",
+  "background": "unknown in sources (NeRF co-author from general knowledge)",
+  "linkedin": null
+ },
+ {
+  "company": "Taalas",
+  "buyer": "amd",
+  "name": "Ljubisa Bajic",
+  "role": "Founder/CEO; team joins AMD Boppana's group at close",
+  "background": "Tenstorrent co-founder; ex-AMD and Nvidia architect",
+  "linkedin": null
+ },
+ {
+  "company": "MEXT",
+  "buyer": "amd",
+  "name": "Gary Smerdon",
+  "role": "Co-founder/CEO",
+  "background": "Previously ran TidalScale (acquired by HPE 2022)",
+  "linkedin": null
+ },
+ {
+  "company": "MEXT",
+  "buyer": "amd",
+  "name": "David Reed",
+  "role": "Co-founder",
+  "background": "unknown",
+  "linkedin": null
+ },
+ {
+  "company": "MEXT",
+  "buyer": "amd",
+  "name": "Bobby Minnear",
+  "role": "Co-founder",
+  "background": "unknown",
+  "linkedin": null
+ },
+ {
+  "company": "MK1",
+  "buyer": "amd",
+  "name": "Paul Merolla",
+  "role": "Founder; joined AMD AI Group",
+  "background": "Neuralink co-founder; co-led chip design and neural decoding algorithms",
+  "linkedin": null
+ },
+ {
+  "company": "MK1",
+  "buyer": "amd",
+  "name": "Thong Wei Koh",
+  "role": "Founder",
+  "background": "Former Neuralink team lead (neural signal processing)",
+  "linkedin": null
+ },
+ {
+  "company": "Akeana",
+  "buyer": "qualcomm",
+  "name": "Rabin Sugumar",
+  "role": "Founder/CEO; now Qualcomm VP of Engineering",
+  "background": "Founded by ex-Marvell server processor engineers",
+  "linkedin": null
+ },
+ {
+  "company": "PickNik Robotics",
+  "buyer": "qualcomm",
+  "name": "Dave Coleman",
+  "role": "Founder/CEO",
+  "background": "Long-time MoveIt maintainer; bootstrapped PickNik",
+  "linkedin": null
+ },
+ {
+  "company": "Modular",
+  "buyer": "qualcomm",
+  "name": "Chris Lattner",
+  "role": "Co-founder/CEO; now Qualcomm EVP Advanced AI Software & Platforms",
+  "background": "Creator of LLVM, Swift, MLIR; ex-Apple, Tesla, Google",
+  "linkedin": null
+ },
+ {
+  "company": "Augentix",
+  "buyer": "qualcomm",
+  "name": "Hung-Chi Fan",
+  "role": "CEO",
+  "background": "unknown",
+  "linkedin": null
+ },
+ {
+  "company": "Alphawave IP",
+  "buyer": "qualcomm",
+  "name": "Tony Pialis",
+  "role": "Co-founder & CEO; leads Qualcomm data center business",
+  "background": "Alphawave co-founder (prior background not verified here)",
+  "linkedin": null
+ },
+ {
+  "company": "Ventana Micro Systems",
+  "buyer": "qualcomm",
+  "name": "Balaji Baktha",
+  "role": "Founder/CEO",
+  "background": "unknown in sources",
+  "linkedin": null
+ },
+ {
+  "company": "Arduino",
+  "buyer": "qualcomm",
+  "name": "Massimo Banzi",
+  "role": "Co-founder; reportedly leaving after 20 years",
+  "background": "Arduino co-founder",
+  "linkedin": null
+ },
+ {
+  "company": "Arduino",
+  "buyer": "qualcomm",
+  "name": "Fabio Violante",
+  "role": "CEO",
+  "background": "unknown",
+  "linkedin": null
+ },
+ {
+  "company": "Mentee Robotics",
+  "buyer": "intel",
+  "name": "Amnon Shashua",
+  "role": "Co-founder/chairman; Mobileye CEO",
+  "background": "Hebrew University professor; co-founder Mobileye and OrCam",
+  "linkedin": null
+ },
+ {
+  "company": "Mentee Robotics",
+  "buyer": "intel",
+  "name": "Lior Wolf",
+  "role": "Co-founder",
+  "background": "Tel Aviv University professor, computer vision/ML",
+  "linkedin": null
+ },
+ {
+  "company": "InAccel",
+  "buyer": "intel",
+  "name": "Chris Kachris",
+  "role": "Co-founder",
+  "background": "Researcher (listed by Dealroom as one of three researcher-founders); further background not verified",
+  "linkedin": null
+ },
+ {
+  "company": "InAccel",
+  "buyer": "intel",
+  "name": "Elias Koromilas",
+  "role": "Co-founder",
+  "background": "not verified",
+  "linkedin": null
+ }
+]

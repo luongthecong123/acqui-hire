@@ -1,0 +1,4545 @@
+[
+ {
+  "id": "microsoft_fintool_202604",
+  "target": "Fintool",
+  "buyerId": "microsoft",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Y Combinator",
+    "type": "accelerator",
+    "note": "Winter 2023 batch per YC profile; no round sizes or other investors found"
+   }
+  ],
+  "total_funding": "unknown",
+  "valuation": "unknown",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Nicolas Bustamante",
+    "role": "Co-founder/CEO",
+    "background": "Spent ~7 years building an AI-driven legal search engine (Doctrine) that was acquired by Summit Partners, per Fintool press page",
+    "linkedin": null,
+    "source": "https://www.ycombinator.com/companies/fintool"
+   },
+   {
+    "name": "Edouard Godfrey",
+    "role": "Co-founder",
+    "background": "Not found (name spelled Edward in some sources)",
+    "linkedin": null,
+    "source": "https://www.ycombinator.com/companies/fintool"
+   }
+  ],
+  "popularity": "Traction with hedge funds, asset managers and investment banks; V5 agentic mode generating Excel DCF models, PowerPoint decks and Word memos. Team of ~6 per YC.",
+  "popularity_sources": [
+   "https://pulse2.com/microsoft-acquisition-of-fintool-expands-ai-capabilities-for-financial-research-and-microsoft-365/",
+   "https://www.ycombinator.com/companies/fintool"
+  ],
+  "other_factors": "Microsoft to fold the technology and team into Microsoft 365 / Office for financial services professionals. Terms undisclosed. Fintool site redirects to Microsoft 365.",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "medium",
+  "notes": "Announcement dates conflict (Apr 18 vs Apr 21, 2026); one report says Microsoft had not officially announced; founder-announced. Funding data not found."
+ },
+ {
+  "id": "microsoft_osmos_202601",
+  "target": "Osmos",
+  "buyerId": "microsoft",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Lightspeed Venture Partners",
+    "type": "VC",
+    "note": "Led $13M 2021 round"
+   },
+   {
+    "name": "CRV",
+    "type": "VC",
+    "note": "participated"
+   },
+   {
+    "name": "Pear VC",
+    "type": "VC",
+    "note": "participated"
+   },
+   {
+    "name": "SV Angel",
+    "type": "VC",
+    "note": "participated"
+   }
+  ],
+  "total_funding": "$13M reported (2021 round; later rounds not verified)",
+  "valuation": "unknown",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Kirat Pandya",
+    "role": "Co-founder/CEO",
+    "background": "Former Google Cloud colleague of co-founder; reportedly spent time at Microsoft earlier",
+    "linkedin": null,
+    "source": "https://www.geekwire.com/2026/microsoft-acquires-data-analytics-seattle-startup-osmos-to-fuel-push-into-autonomous-data-engineering/"
+   },
+   {
+    "name": "Naresh Venkat",
+    "role": "Co-founder",
+    "background": "Former Google Cloud (single source: SDxCentral)",
+    "linkedin": null,
+    "source": "https://www.sdxcentral.com/news/microsoft-ingests-osmos-to-boost-fabric-agentic-ai-abilities/"
+   }
+  ],
+  "popularity": "Products (Uploaders, Pipelines, Datasets, AI data wrangler, agents for Databricks and Fabric) already integrated with Microsoft Fabric. No usage metrics found.",
+  "popularity_sources": [
+   "https://redmondmag.com/articles/2026/01/06/microsoft-acquires-osmos-to-bring-autonomous-data-engineering-to-fabric.aspx"
+  ],
+  "other_factors": "Competitive move vs Databricks; team joins Fabric engineering; standalone products sunset starting Jan 2026. Terms undisclosed.",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "high",
+  "notes": "Announced Jan 5, 2026 (Monday). Which of the team members joined beyond the founders not verified."
+ },
+ {
+  "id": "microsoft_pi_labs_202512",
+  "target": "Pi Labs",
+  "buyerId": "microsoft",
+  "verified": false,
+  "investors": [],
+  "total_funding": "unknown",
+  "valuation": "unknown",
+  "buyer_was_investor": null,
+  "founders": [
+   {
+    "name": "David Karam",
+    "role": "Co-founder",
+    "background": "~10 years at Google as Product Director on Search AI systems; left ~a year earlier to start Pi Labs (speaker profile)",
+    "linkedin": null,
+    "source": "https://aicouncil.com/profile/david-karam"
+   },
+   {
+    "name": "Achint Srivastava",
+    "role": "Co-founder",
+    "background": "Not found",
+    "linkedin": null,
+    "source": "https://vectorshift.ai/research/deals/microsoft-pi-labs-2025"
+   }
+  ],
+  "popularity": "unknown",
+  "popularity_sources": [],
+  "other_factors": "Aggregator says announced by R.V. Guha within Microsoft AI (unconfirmed). Only source is a VectorShift deal-tracker page; no primary Microsoft or press confirmation found.",
+  "primary_motive": "talent",
+  "confidence": "low",
+  "notes": "Deal not independently verified. Ledger technology label 'AI and computer vision' is unsupported; Karam's Google Search AI background suggests search/AI-quality tooling, not computer vision. Do not confuse with Inflection AI's Pi (2024)."
+ },
+ {
+  "id": "microsoft_fungible_202301",
+  "target": "Fungible",
+  "buyerId": "microsoft",
+  "verified": true,
+  "investors": [
+   {
+    "name": "SoftBank Vision Fund",
+    "type": "VC",
+    "note": "Led $200M Series C, June 2019"
+   },
+   {
+    "name": "Norwest Venture Partners",
+    "type": "VC",
+    "note": "Series C"
+   },
+   {
+    "name": "Battery Ventures",
+    "type": "VC",
+    "note": ""
+   },
+   {
+    "name": "Mayfield Fund",
+    "type": "VC",
+    "note": ""
+   },
+   {
+    "name": "Redline Capital",
+    "type": "investor",
+    "note": ""
+   },
+   {
+    "name": "Walden Riverwood Ventures",
+    "type": "VC",
+    "note": ""
+   }
+  ],
+  "total_funding": "over $300M",
+  "valuation": "Sale price reportedly ~$190M (unconfirmed, Blocks and Files)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Pradeep Sindhu",
+    "role": "Co-founder, CEO/chairman (sources differ)",
+    "background": "Former Juniper Networks founder/CEO",
+    "linkedin": null,
+    "source": "https://www.eenewseurope.com/en/microsoft-acquires-fungible-for-dpu-capability/"
+   },
+   {
+    "name": "Bertrand Serlet",
+    "role": "Co-founder",
+    "background": "Former Apple software engineering head",
+    "linkedin": null,
+    "source": "https://www.eenewseurope.com/en/microsoft-acquires-fungible-for-dpu-capability/"
+   }
+  ],
+  "popularity": "Pioneer of data processing units (DPUs) for data centers; raised >$300M. No customer metrics found.",
+  "popularity_sources": [
+   "https://blocksandfiles.com/2022/12/13/fungible-sold-to-microsoft-for-190-million/"
+  ],
+  "other_factors": "Microsoft cited DPU expertise/IP to improve datacenter efficiency; Blocks and Files (single consultant account) says Microsoft considered a custom-silicon deal then bought team and IP cheaply; below capital raised, suggesting soft exit.",
+  "primary_motive": "technology_ip",
+  "confidence": "high",
+  "notes": "Microsoft announced Jan 2023 (reports of the deal in Dec 2022). Price unconfirmed. Whether team members beyond founders joined not verified."
+ },
+ {
+  "id": "microsoft_lumenisity_202212",
+  "target": "Lumenisity",
+  "buyerId": "microsoft",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Parkwalk Advisors",
+    "type": "VC/EIS fund",
+    "note": ""
+   },
+   {
+    "name": "BGF (Business Growth Fund)",
+    "type": "growth investor",
+    "note": ""
+   },
+   {
+    "name": "University of Southampton",
+    "type": "university",
+    "note": "spinout parent"
+   }
+  ],
+  "total_funding": "~$9.6M over 4 rounds (CB Insights)",
+  "valuation": "unknown (undisclosed sum)",
+  "buyer_was_investor": false,
+  "founders": [],
+  "popularity": "Won Best Fibre Component Product at ECOC Exhibition Industry Awards 2021 and 2022 for its NANF CoreSmart hollow core fibre cable. Founders not named in sources found (spun out of Southampton ORC in 2017).",
+  "popularity_sources": [
+   "https://petri.com/microsoft-acquires-lumenisity/",
+   "https://www.cbinsights.com/company/lumenisity/financials"
+  ],
+  "other_factors": "Microsoft: accelerate networking and infrastructure innovation with hollow core fibre for lower latency Azure.",
+  "primary_motive": "technology_ip",
+  "confidence": "high",
+  "notes": "Announced Dec 9, 2022. Founder/engineer names not verified (Francesco Poletti is widely linked to Southampton HCF but not confirmed in sources found)."
+ },
+ {
+  "id": "apple_samplab_202606",
+  "target": "Samplab",
+  "buyerId": "apple",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Wingman Campus Fund",
+    "type": "VC",
+    "note": "only listed investor, ~$20K convertible note per CB Insights; thin data"
+   }
+  ],
+  "total_funding": "unknown (CB Insights shows ~$20K, likely incomplete)",
+  "valuation": "unknown",
+  "buyer_was_investor": false,
+  "founders": [],
+  "popularity": "Swiss AI audio-to-MIDI tool with polyphonic note editing, chord detection, stem separation. Subscribers existed (refunded on shutdown Sept 17, 2026). No user counts found.",
+  "popularity_sources": [
+   "https://musictech.com/news/industry/why-did-apple-buy-ai-music-startup-samplab-and-how-might-this-impact-logic-pro/"
+  ],
+  "other_factors": "Asset purchase via unnamed Apple subsidiary plus job offers to some staff, disclosed in EU filing Oct 19, 2026; likely for Logic Pro. Apple unconfirmed.",
+  "primary_motive": "technology_ip",
+  "confidence": "medium",
+  "notes": "Founder names not found (my search for guessed names returned nothing; none asserted)."
+ },
+ {
+  "id": "apple_sonera_202605",
+  "target": "Sonera",
+  "buyerId": "apple",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Amplify Partners",
+    "type": "VC",
+    "note": "led $11M seed, Sept 2023"
+   },
+   {
+    "name": "Abstract Ventures",
+    "type": "VC",
+    "note": "co-invested"
+   },
+   {
+    "name": "Spark Capital",
+    "type": "VC",
+    "note": "existing"
+   },
+   {
+    "name": "Material Impact",
+    "type": "VC",
+    "note": "existing"
+   },
+   {
+    "name": "Boom Capital",
+    "type": "VC",
+    "note": "existing"
+   }
+  ],
+  "total_funding": "~$20M (incl. government awards)",
+  "valuation": "unknown",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Nishita Deka",
+    "role": "Co-founder/CEO",
+    "background": "PhD EE student at UC Berkeley",
+    "linkedin": null,
+    "source": "https://app.dealroom.co/companies/sonera_magnetics_1"
+   },
+   {
+    "name": "Dominic Labanowski",
+    "role": "Co-founder/CTO",
+    "background": "PhD EE at UC Berkeley",
+    "linkedin": null,
+    "source": "https://app.dealroom.co/companies/sonera_magnetics_1"
+   }
+  ],
+  "popularity": "Electrode-free biomagnetic chip (S1) for muscle/neural sensing; emerged from stealth 2023. No customer metrics found.",
+  "popularity_sources": [
+   "https://pulse2.com/sonera-20-million-funding/"
+  ],
+  "other_factors": "Asset purchase plus offers to some staff via EU DMA filing (completed May 2026, news Sept 8, 2026); speculated use in Apple Watch health / neural input.",
+  "primary_motive": "technology_ip",
+  "confidence": "high",
+  "notes": "Some outlets call it a full acquisition; filing says certain assets. Whether founders joined Apple not verified. Sayeef Salahuddin listed as scientific co-founder by one profile site only."
+ },
+ {
+  "id": "apple_plasmasolve_202604",
+  "target": "PlasmaSolve",
+  "buyerId": "apple",
+  "verified": true,
+  "investors": [],
+  "total_funding": "unknown (grant funding mentioned; no VC found)",
+  "valuation": "unknown",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Adam Obrusnik",
+    "role": "Co-founder/CEO",
+    "background": "PhD, magnetron sputtering / PVD plasma modeling",
+    "linkedin": null,
+    "source": "https://www.technickytydenik.cz/rubriky/denni-zpravodajstvi/plasmasolve-uvadi-na-globalni-trh-novy-simulacni-software-matsight_59933.html"
+   },
+   {
+    "name": "Petr Zikan",
+    "role": "Co-founder, head of software",
+    "background": "Proposed the original company idea",
+    "linkedin": null,
+    "source": "https://www.czechtradeoffices.com/us/news/apple-acquires-czech-materials-engineering-specialist-plasmasolve"
+   }
+  ],
+  "popularity": "Founded 2016 in Brno; MatSight plasma/vapor-deposition simulation suite launched 2023; early customers reportedly Kolzer, Von Ardenne, Danish Technological Institute. Apple reportedly already used its technology for years (iPhone thin-film coatings).",
+  "popularity_sources": [
+   "https://pulse2.com/apple-to-acquire-czech-materials-science-company-plasmasolve/",
+   "https://iphone-mania.jp/apple-604211/amp/"
+  ],
+  "other_factors": "Existing relationship (Apple a prior user); EU filing says Apple subsidiary buys entire share capital and hires some staff; CzechTrade says assets plus hires.",
+  "primary_motive": "technology_ip",
+  "confidence": "medium",
+  "notes": "Ledger tech label 'semiconductor manufacturing simulation' is imprecise; sources describe plasma/PVD coating simulation for metals (device casings). Disclosed Aug 3, 2026; completion April 2026 per Barchart."
+ },
+ {
+  "id": "apple_motionvfx_202603",
+  "target": "MotionVFX",
+  "buyerId": "apple",
+  "verified": true,
+  "investors": [],
+  "total_funding": "unknown (appears bootstrapped; none found)",
+  "valuation": "unknown",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Szymon Masiak",
+    "role": "Founder",
+    "background": "Founded 2009 in Bielsko-Biala, Poland; previously worked on VFX for films incl. Sin City and Pan's Labyrinth",
+    "linkedin": null,
+    "source": "https://notesfrompoland.com/2026/03/17/apple-acquires-polish-visual-effects-firm-motionvfx/"
+   }
+  ],
+  "popularity": "~70 employees; ~PLN 29M (EUR 6.8M) revenue in a recent year; products (mFilmLook, mO2) popular with YouTubers, filmmakers and TV studios.",
+  "popularity_sources": [
+   "https://notesfrompoland.com/2026/03/17/apple-acquires-polish-visual-effects-firm-motionvfx/",
+   "https://9to5mac.com/2026/03/16/apple-acquires-motionvfx-maker-of-popular-final-cut-pro-plugins-and-more/"
+  ],
+  "other_factors": "100% of shares bought via Apple Distribution International; ties to Final Cut Pro and Creator Studio subscription bundle; ~70 staff joining Apple (MacRumors).",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "high",
+  "notes": "Announced ~Mar 16, 2026; terms undisclosed."
+ },
+ {
+  "id": "apple_sigscaler_202603",
+  "target": "SigScalr (ledger name 'SigScaler'; correct spelling SigScalr)",
+  "buyerId": "apple",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Scribble Ventures",
+    "type": "VC",
+    "note": "led pre-seed"
+   },
+   {
+    "name": "WestWave Capital",
+    "type": "VC",
+    "note": ""
+   },
+   {
+    "name": "Forward Slash Capital",
+    "type": "VC",
+    "note": ""
+   },
+   {
+    "name": "Manik Gupta, Ganesh Pai, Srinath Sridhar",
+    "type": "angels",
+    "note": ""
+   }
+  ],
+  "total_funding": "$1.76M pre-seed (Feb 2024); a $2M figure on one aggregator is unverified",
+  "valuation": "unknown",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Kunal Nawale",
+    "role": "Founder/CEO",
+    "background": "Former Salesforce observability engineer; enterprise tech veteran",
+    "linkedin": null,
+    "source": "https://siliconangle.com/2024/02/20/exclusiveobservability-startup-sigscalr-plans-revolutionize-log-search/"
+   }
+  ],
+  "popularity": "Open-source SigLens observability platform; GitHub star count not found. Repo archived after deal.",
+  "popularity_sources": [
+   "https://businesswire.com/news/home/20240220591751/en/",
+   "https://9to5mac.com/2026/07/13/apple-acquires-observability-startup-sigscalr/"
+  ],
+  "other_factors": "Asset purchase and hiring (EU filing dated Mar 12, 2026, published July 2026); likely for Apple internal telemetry/observability; Splunk-like tech.",
+  "primary_motive": "talent",
+  "confidence": "medium",
+  "notes": "Ledger name misspelled. Motive judgement: small seed-stage team, assets and staff, so talent/tech mix. Whether Nawale joined Apple not verified."
+ },
+ {
+  "id": "apple_huxe_2026",
+  "target": "Huxe",
+  "buyerId": "apple",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Conviction",
+    "type": "VC",
+    "note": "per VCBacked"
+   },
+   {
+    "name": "Genius Ventures",
+    "type": "VC",
+    "note": "per VCBacked"
+   },
+   {
+    "name": "Jeff Dean, Dylan Field, Drew Houston, Mark Pincus, Shishir Mehrotra",
+    "type": "angels",
+    "note": "as listed by aggregators; not independently confirmed"
+   }
+  ],
+  "total_funding": "~$4.6M-$5M seed (Sept 2025; sources differ)",
+  "valuation": "unknown",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Raiza Martin",
+    "role": "Co-founder",
+    "background": "Former Google NotebookLM team",
+    "linkedin": null,
+    "source": "https://aiweekly.co/alerts/apple-acqui-hires-huxe-audio-app-built-by-notebooklm-trio"
+   },
+   {
+    "name": "Jason Spielman",
+    "role": "Co-founder",
+    "background": "Former Google NotebookLM team",
+    "linkedin": null,
+    "source": "https://aiweekly.co/alerts/apple-acqui-hires-huxe-audio-app-built-by-notebooklm-trio"
+   },
+   {
+    "name": "Stephen Hughes",
+    "role": "Co-founder",
+    "background": "Former Google NotebookLM team",
+    "linkedin": null,
+    "source": "https://www.mactech.com/2026/10/09/apple-licenses-huxes-ai-audio-tech-and-hires-some-of-its-employees/"
+   }
+  ],
+  "popularity": "Invite-only launch June 2025, public Sept 2025; service shut down May 28, 2026. No user numbers found.",
+  "popularity_sources": [
+   "https://macrumors.com/2026/10/09/apple-signs-hiring-deal-ai-podcast-startup-huxe"
+  ],
+  "other_factors": "Reverse acqui-hire: right to offer jobs to some staff plus non-exclusive IP licence (EU filing dated June 9, 2026, disclosed Oct 2026); startup had already wound down; no confirmed hires or terms. Fourth AI talent/IP deal Apple disclosed that year.",
+  "primary_motive": "talent",
+  "confidence": "medium",
+  "notes": "Ledger date '2026' -> June 2026 per filing. Which founders joined Apple is not confirmed."
+ },
+ {
+  "id": "alphabet_wiz_202603",
+  "target": "Wiz",
+  "buyerId": "alphabet",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Andreessen Horowitz",
+    "type": "VC",
+    "note": "co-led May 2024 round"
+   },
+   {
+    "name": "Lightspeed",
+    "type": "VC",
+    "note": "co-led May 2024"
+   },
+   {
+    "name": "Thrive Capital",
+    "type": "VC",
+    "note": "co-led May 2024"
+   },
+   {
+    "name": "Sequoia",
+    "type": "VC",
+    "note": "existing"
+   },
+   {
+    "name": "Index Ventures",
+    "type": "VC",
+    "note": "existing"
+   },
+   {
+    "name": "Cyberstarts, Greenoaks, Greylock, Wellington, Salesforce Ventures, Howard Schultz",
+    "type": "mixed",
+    "note": "participants"
+   }
+  ],
+  "total_funding": "~$1.9B",
+  "valuation": "$12B (May 2024); acquired for $32B all cash",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Assaf Rappaport",
+    "role": "Co-founder/CEO",
+    "background": "Previously co-founded Adallom (sold to Microsoft)",
+    "linkedin": null,
+    "source": "https://fintech.global/2024/05/08/wiz-surges-to-12bn-valuation-following-staggering-1bn-funding-raise/"
+   },
+   {
+    "name": "Ami Luttwak",
+    "role": "Co-founder/CTO",
+    "background": "Adallom co-founder",
+    "linkedin": null,
+    "source": "https://fintech.global/2024/05/08/wiz-surges-to-12bn-valuation-following-staggering-1bn-funding-raise/"
+   },
+   {
+    "name": "Yinon Costica",
+    "role": "Co-founder/VP Product",
+    "background": "Adallom co-founder",
+    "linkedin": null,
+    "source": "https://fintech.global/2024/05/08/wiz-surges-to-12bn-valuation-following-staggering-1bn-funding-raise/"
+   },
+   {
+    "name": "Roy Reznik",
+    "role": "Co-founder/VP R&D",
+    "background": "Adallom co-founder",
+    "linkedin": null,
+    "source": "https://fintech.global/2024/05/08/wiz-surges-to-12bn-valuation-following-staggering-1bn-funding-raise/"
+   }
+  ],
+  "popularity": "~$350M ARR (May 2024), over 40% of Fortune 100 as customers; rejected Google's $23B offer in 2024.",
+  "popularity_sources": [
+   "https://fintech.global/2024/05/08/wiz-surges-to-12bn-valuation-following-staggering-1bn-funding-raise/"
+  ],
+  "other_factors": "Largest Google deal ever; boosts Google Cloud security and multicloud; Wiz stays compatible with AWS, Azure, Oracle. US clearance Nov 2025, EU Feb 2026; closed ~Mar 11, 2026.",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "high",
+  "notes": "Adallom background is from my background knowledge, not from fetched sources; treat as unverified. Announced March 2025, closed March 2026."
+ },
+ {
+  "id": "alphabet_intersect_202603",
+  "target": "Intersect (Intersect Power)",
+  "buyerId": "alphabet",
+  "verified": true,
+  "investors": [
+   {
+    "name": "TPG Rise Climate",
+    "type": "PE/VC",
+    "note": "led $750M growth round 2022; co-led $800M+ Dec 2024; sold stake to Google"
+   },
+   {
+    "name": "Google",
+    "type": "strategic",
+    "note": "co-led the $800M+ Dec 2024 round; minority stake before acquisition"
+   },
+   {
+    "name": "Climate Adaptive Infrastructure",
+    "type": "investor",
+    "note": "inaugural institutional backer 2020"
+   },
+   {
+    "name": "Greenbelt Capital Partners",
+    "type": "investor",
+    "note": ""
+   }
+  ],
+  "total_funding": "$2.1B equity cited by spokesperson (undated, may be outdated)",
+  "valuation": "$4.75B cash plus debt assumption; $12B total enterprise value incl. IPX carve-out",
+  "buyer_was_investor": true,
+  "founders": [
+   {
+    "name": "Sheldon Kimber",
+    "role": "Founder/CEO",
+    "background": "Continues to lead Intersect as a separate brand",
+    "linkedin": null,
+    "source": "https://www.clearygottlieb.com/news-and-insights/news-listing/alphabet-completes-4-75-billion-acquisition-of-intersect-power"
+   }
+  ],
+  "popularity": "Developer of co-located clean power and data-center parks; Google anchor tenant; first site in Haskell County, Texas under construction.",
+  "popularity_sources": [
+   "https://impactalpha.com/tpg-rise-and-google-plug-800-million-into-intersect-power-for-green-data-centers/"
+  ],
+  "other_factors": "Power supply bottleneck for AI data centers; grid-tied assets spun into IPX Power (TPG majority, Google investor); existing operating assets in TX/CA excluded.",
+  "primary_motive": "vertical_integration",
+  "confidence": "high",
+  "notes": "Announced Dec 22, 2025; closed Mar 10, 2026. Business acquisition of digital power business, not a talent deal."
+ },
+ {
+  "id": "alphabet_producerai_202602",
+  "target": "ProducerAI (formerly Riffusion)",
+  "buyerId": "alphabet",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Greycroft",
+    "type": "VC",
+    "note": "led $4M seed Oct 2023"
+   },
+   {
+    "name": "South Park Commons",
+    "type": "VC",
+    "note": ""
+   },
+   {
+    "name": "Sky9 Capital",
+    "type": "VC",
+    "note": "confirmed portfolio exit"
+   }
+  ],
+  "total_funding": "$4M seed (no later rounds found)",
+  "valuation": "unknown",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Seth Forsgren",
+    "role": "Co-founder",
+    "background": "Described as Hardline founder; musician",
+    "linkedin": null,
+    "source": "https://en.wikipedia.org/wiki/Riffusion"
+   },
+   {
+    "name": "Hayk Martiros",
+    "role": "Co-founder",
+    "background": "Longtime Skydio autonomy leader; musician",
+    "linkedin": null,
+    "source": "https://en.wikipedia.org/wiki/Riffusion"
+   }
+  ],
+  "popularity": "Riffusion went viral Dec 2022 as open-source project; Producer.ai reportedly reached 1M users before acquisition.",
+  "popularity_sources": [
+   "https://www.musicbusinessworldwide.com/google-acquires-ai-music-platform-and-suno-challenger-producerai",
+   "https://techcrunch.com/2023/10/17/ai-generating-music-app-riffusion-turns-viral-success-into-4m-in-funding"
+  ],
+  "other_factors": "Announced Feb 24, 2026 via Google Labs blog; team joins Google Labs and DeepMind; follows Lyria 3 launch; competitor to Suno/Udio; terms undisclosed.",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "high",
+  "notes": "Whether both founders joined Google not explicitly confirmed."
+ },
+ {
+  "id": "alphabet_common_sense_machines_202601",
+  "target": "Common Sense Machines",
+  "buyerId": "alphabet",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Andreessen Horowitz",
+    "type": "VC",
+    "note": "reported ($10M raised from a16z and others) but not confirmed by VCBacked"
+   },
+   {
+    "name": "Toyota Ventures, Glasswing Ventures, Intel Capital, Blindspot Ventures, Omidyar Technology Ventures",
+    "type": "VC",
+    "note": "per VCBacked"
+   }
+  ],
+  "total_funding": "$2.5M (VCBacked) vs $10M (press); conflicting",
+  "valuation": "$15M last valuation (press, unverified)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Tejas Kulkarni",
+    "role": "Co-founder/CEO",
+    "background": "MIT PhD; senior research scientist at DeepMind 2016-2019",
+    "linkedin": null,
+    "source": "https://www.aiuserconference.com/speaker/tejas-kulkarni"
+   },
+   {
+    "name": "Max Kleiman-Weiner",
+    "role": "Co-founder",
+    "background": "MIT PhD computational cognitive science (2018), Harvard postdoc, Marshall Scholar and Hertz Fellow; co-founded Diffeo",
+    "linkedin": null,
+    "source": "https://www.hertzfoundation.org/people/max-kleiman-weiner/"
+   }
+  ],
+  "popularity": "Cube platform converts sketches/images/text to textured 3D meshes for game engines; no user metrics found.",
+  "popularity_sources": [
+   "https://www.digitaltoday.co.kr/en/view/2030/google-acquires-ai-startup-common-sense-machines-for-generating-3d-assets-from-2d-images"
+  ],
+  "other_factors": "~12-17 staff moved to DeepMind; Google confirmed to The Information; gives Gemini 3D/spatial understanding for robotics/world models; part of three DeepMind deals in one week (with Hume, Sakana).",
+  "primary_motive": "talent",
+  "confidence": "medium",
+  "notes": "Funding figures conflict. Kleiman-Weiner joining Google not confirmed; Kulkarni's former DeepMind tie noted."
+ },
+ {
+  "id": "alphabet_atlantic_quantum_202510",
+  "target": "Atlantic Quantum",
+  "buyerId": "alphabet",
+  "verified": true,
+  "investors": [
+   {
+    "name": "The Engine (MIT)",
+    "type": "VC",
+    "note": "led $9M seed 2022"
+   },
+   {
+    "name": "Thomas Tull, Glasswing Ventures, Future Labs Capital, E14",
+    "type": "VC/angel",
+    "note": "seed participants"
+   }
+  ],
+  "total_funding": "$9M seed (2022); later rounds not verified",
+  "valuation": "unknown",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Bharath Kannan",
+    "role": "Co-founder/CEO",
+    "background": "MIT EQuS group",
+    "linkedin": null,
+    "source": "https://thequantuminsider.com/2022/07/22/atlantic-quantum-emerges-from-mits-engineering-quantum-systems-lab-raises-9m-seed-funding-to-make-large-scale-quantum-computing-a-reality/"
+   },
+   {
+    "name": "Simon Gustavsson",
+    "role": "Co-founder/President and CTO",
+    "background": "MIT Engineering Quantum Systems group",
+    "linkedin": null,
+    "source": "https://thequantuminsider.com/2022/07/22/atlantic-quantum-emerges-from-mits-engineering-quantum-systems-lab-raises-9m-seed-funding-to-make-large-scale-quantum-computing-a-reality/"
+   }
+  ],
+  "popularity": "MIT spin-out working on fluxonium superconducting qubits; no commercial traction metrics found.",
+  "popularity_sources": [
+   "https://thequantuminsider.com/2025/10/03/atlantic-quantum-joins-google-quantum-ai/"
+  ],
+  "other_factors": "Announced Oct 2, 2025; team joins Google Quantum AI to accelerate hardware roadmap. Google did not formally call it an acquisition; Gunderson Dettmer says acquisition. Terms undisclosed.",
+  "primary_motive": "technology_ip",
+  "confidence": "medium",
+  "notes": "Will Oliver involvement not confirmed. Founding year sources differ (2021/2022)."
+ },
+ {
+  "id": "alphabet_windsurf_202507",
+  "target": "Windsurf (Codeium)",
+  "buyerId": "alphabet",
+  "verified": true,
+  "investors": [
+   {
+    "name": "General Catalyst",
+    "type": "VC",
+    "note": "led $150M Series C Aug 2024 at $1.25B valuation"
+   },
+   {
+    "name": "Kleiner Perkins",
+    "type": "VC",
+    "note": ""
+   },
+   {
+    "name": "Greenoaks",
+    "type": "VC",
+    "note": ""
+   }
+  ],
+  "total_funding": "$243M",
+  "valuation": "$1.25B (Aug 2024); Google license $2.4B; OpenAI's ~$3B bid failed",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Varun Mohan",
+    "role": "Co-founder/CEO",
+    "background": "MIT graduate; founded Exafunction (GPU optimization), pivoted to Codeium",
+    "linkedin": null,
+    "source": "https://www.latent.space/p/windsurf"
+   },
+   {
+    "name": "Douglas Chen",
+    "role": "Co-founder",
+    "background": "MIT graduate; Exafunction/Codeium co-founder",
+    "linkedin": null,
+    "source": "https://www.latent.space/p/windsurf"
+   }
+  ],
+  "popularity": "Estimated ~$82M ARR (Sacra, July 2025), 350+ enterprise customers; ~40 R&D staff reportedly joined Google.",
+  "popularity_sources": [
+   "https://sacra.com/c/codeium/"
+  ],
+  "other_factors": "Non-exclusive licence, no equity; structured to avoid antitrust review; investors received liquidity; remainder of Windsurf sold to Cognition days later; followed collapsed OpenAI deal; Microsoft IP access issue.",
+  "primary_motive": "talent",
+  "confidence": "high",
+  "notes": "ARR figures are third-party estimates. Announced July 11, 2025. Dealroom claim about unvested employees getting nothing is secondary."
+ },
+ {
+  "id": "alphabet_hume_ai_202601",
+  "target": "Hume AI",
+  "buyerId": "alphabet",
+  "verified": true,
+  "investors": [
+   {
+    "name": "EQT Ventures",
+    "type": "VC",
+    "note": "led $50M Series B Mar 2024"
+   },
+   {
+    "name": "Union Square Ventures",
+    "type": "VC",
+    "note": ""
+   },
+   {
+    "name": "Nat Friedman and Daniel Gross",
+    "type": "angels",
+    "note": ""
+   },
+   {
+    "name": "Comcast Ventures, LG Technology Ventures, Northwell Holdings, Metaplanet",
+    "type": "corporate/other",
+    "note": ""
+   }
+  ],
+  "total_funding": "~$62M-$67.7M (sources differ)",
+  "valuation": "unknown",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Alan Cowen",
+    "role": "Founder/CEO and chief scientist; joined Google DeepMind",
+    "background": "Former Google researcher; pioneer of semantic space theory of emotion",
+    "linkedin": null,
+    "source": "https://pulse2.com/hume-ai-50-million-secured-to-build-ai-optimized-for-well-being"
+   },
+   {
+    "name": "About seven other engineers (unnamed)",
+    "role": "Engineers",
+    "background": "Not named",
+    "linkedin": null,
+    "source": "https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai"
+   }
+  ],
+  "popularity": "Empathic Voice Interface product; new CEO Andrew Ettinger says Hume is on track for $100M revenue in 2026 (company claim).",
+  "popularity_sources": [
+   "https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai"
+  ],
+  "other_factors": "Licensing plus hiring to improve Gemini voice; non-exclusive IP rights; Hume continues independently supplying other AI firms; seen as acqui-hire avoiding regulatory scrutiny; FTC reviewing such deals.",
+  "primary_motive": "talent",
+  "confidence": "high",
+  "notes": "Reported Jan 22, 2026 (Wired/TechCrunch). Terms undisclosed."
+ },
+ {
+  "id": "amazon_ducklabs_202608",
+  "target": "DuckLabs (DuckDB Labs)",
+  "buyerId": "amazon",
+  "verified": true,
+  "investors": [
+   {
+    "name": "No outside VC reported",
+    "type": "n/a",
+    "note": "CWI article says DuckDB Labs declined VC offers; CWI listed as spin-out parent. VC money went to separate MotherDuck (a16z, Felicis, ~$100M)."
+   }
+  ],
+  "total_funding": "none known (self-funded via support contracts)",
+  "valuation": "unknown",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Hannes Muhleisen",
+    "role": "Co-founder/CEO; continues leading at AWS",
+    "background": "Senior researcher at CWI Database Architectures group; co-creator of DuckDB",
+    "linkedin": "https://nl.linkedin.com/in/hfmuehleisen",
+    "source": "https://nl.linkedin.com/in/hfmuehleisen"
+   },
+   {
+    "name": "Mark Raasveldt",
+    "role": "Co-founder; continues leading technical direction",
+    "background": "CWI database researcher; co-creator of DuckDB",
+    "linkedin": null,
+    "source": "https://geekwire.com/2026/amazon-acquires-ducklabs-adding-the-team-behind-duckdb-amid-broader-shakeup-in-cloud-data/"
+   }
+  ],
+  "popularity": "DuckDB passed 40,000 GitHub stars (Aug 2026), 50M+ monthly PyPI downloads; 25k stars Dec 2024, 30k Jun 2025.",
+  "popularity_sources": [
+   "https://duckdb.org/2026/08/05/github-40k-stars"
+  ],
+  "other_factors": "AWS and DuckLabs collaborating since 2024; fits S3 analytics push and AI agents; DuckDB, DuckLake and Quack stay MIT-licensed under DuckDB Foundation; team stays in Amsterdam as AWS subsidiary; MotherDuck CEO calls it Amazon playbook.",
+  "primary_motive": "technology_ip",
+  "confidence": "high",
+  "notes": "Announced ~Aug 26, 2026; expected to close early Sept; closing not confirmed. Ledger status 'announced_pending' unverified as of Oct 2026."
+ },
+ {
+  "id": "amazon_globalstar_202604",
+  "target": "Globalstar",
+  "buyerId": "amazon",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Apple",
+    "type": "strategic",
+    "note": "Nov 2024 agreed to invest up to $1.5B incl. ~20% equity stake; 85% of network capacity dedicated to Apple"
+   },
+   {
+    "name": "Thermo Capital (controlling holder, per merger filing wording)",
+    "type": "controlling shareholder",
+    "note": "Stockholders with ~58% voting power gave written consent"
+   }
+  ],
+  "total_funding": "n/a (public company)",
+  "valuation": "~$10.7B-$11.7B depending on source ($90 cash or 0.3210 AMZN shares per share)",
+  "buyer_was_investor": false,
+  "founders": [],
+  "popularity": "Operates ~31 satellites; provides satellite emergency connectivity for iPhone since 2022.",
+  "popularity_sources": [
+   "https://www.telecomtv.com/content/access-evolution/amazon-agrees-11-6bn-deal-to-buy-globalstar-55300/",
+   "https://capacitymedia.com/article-apple-globalstar"
+  ],
+  "other_factors": "Enables Amazon Leo (Kuiper) direct-to-device services vs Starlink; parallel agreement for Amazon Leo to power iPhone/Watch satellite services; termination fees $592.1M (Amazon) / $419.8M (Globalstar); closing expected 2027.",
+  "primary_motive": "vertical_integration",
+  "confidence": "high",
+  "notes": "Spectrum and customer assets; not a talent deal. Still pending regulatory approval. Ledger 'merger_agreement' correct."
+ },
+ {
+  "id": "amazon_fauna_robotics_202603",
+  "target": "Fauna Robotics",
+  "buyerId": "amazon",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Kleiner Perkins",
+    "type": "VC",
+    "note": "led $30M seed (2025)"
+   },
+   {
+    "name": "Quiet Capital",
+    "type": "VC",
+    "note": "seed participant"
+   },
+   {
+    "name": "Lux Capital",
+    "type": "VC",
+    "note": "seed participant"
+   },
+   {
+    "name": "Bluebirds Capital",
+    "type": "VC",
+    "note": "named investor"
+   },
+   {
+    "name": "Terrain",
+    "type": "VC",
+    "note": "named investor"
+   }
+  ],
+  "total_funding": "~$30M seed (Form D from Feb 2025 showed ~$16.6M sold; sources differ)",
+  "valuation": "unknown",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Rob Cochran",
+    "role": "Co-founder & CEO; joined Amazon with team",
+    "background": "not verified in searches",
+    "linkedin": null,
+    "source": "https://sacra.com/c/fauna-robotics"
+   },
+   {
+    "name": "Josh Merel",
+    "role": "Co-founder, technical director",
+    "background": "not verified in searches",
+    "linkedin": null,
+    "source": "https://sacra.com/c/fauna-robotics"
+   }
+  ],
+  "popularity": "Launched Sprout (~$50k, 3.5ft humanoid) <2 months before deal; shipped to R&D partners; one report mentions Disney as customer (single source).",
+  "popularity_sources": [
+   "https://www.eweek.com/news/amazon-acquires-fauna-robotics-humanoid-sprout/",
+   "https://wwwhatsnew.com/2026/03/28/amazon-compra-fauna-robotics-y-su-humanoide-sprout-un-robot-de-metro-y-medio-50-000-dolares-cejas-articuladas-y-clientes-como-disney/"
+  ],
+  "other_factors": "~50 engineers join Amazon Personal Robotics Group; Amazon wants home/consumer robots beyond warehouse (1M+ warehouse robots); iRobot deal failed 2024 on regulatory grounds; Fauna continues as 'an Amazon company'. Price undisclosed (Bloomberg first reported, Amazon confirmed 25 Mar 2026).",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "high",
+  "notes": "Deal confirmed by Amazon. Founder backgrounds not researched in depth."
+ },
+ {
+  "id": "amazon_rivr_202603",
+  "target": "Rivr",
+  "buyerId": "amazon",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Bezos Expeditions",
+    "type": "family office",
+    "note": "co-led $22M seed Aug 2024"
+   },
+   {
+    "name": "HongShan (HSG)",
+    "type": "VC",
+    "note": "co-lead per some reports"
+   },
+   {
+    "name": "Amazon Industrial Innovation Fund",
+    "type": "corporate VC",
+    "note": "participated"
+   },
+   {
+    "name": "Armada Investment Group",
+    "type": "investor",
+    "note": "participated"
+   },
+   {
+    "name": "Linear Capital",
+    "type": "VC",
+    "note": "participated"
+   }
+  ],
+  "total_funding": "$22M seed (Aug 2024); other rounds unverified",
+  "valuation": "$110M (Aug 2024 round per press; Fundable lists $1B - conflicting, likely erroneous)",
+  "buyer_was_investor": true,
+  "founders": [
+   {
+    "name": "Marko Bjelonic",
+    "role": "Co-founder & CEO",
+    "background": "ETH Zurich Robotic Systems Lab spin-out (Swiss-Mile, founded 2023)",
+    "linkedin": null,
+    "source": "https://www.forbes.com.au/news/billionaires/the-best-startups-jeff-bezos-invested-in-2024/"
+   },
+   {
+    "name": "Giorgio Valsecchi",
+    "role": "Co-founder",
+    "background": "ETH RSL spin-out",
+    "linkedin": null,
+    "source": "https://dealroom.co/companies/rivr/"
+   },
+   {
+    "name": "Lorenz Wellhausen",
+    "role": "Co-founder",
+    "background": "ETH RSL spin-out",
+    "linkedin": null,
+    "source": "https://dealroom.co/companies/rivr/"
+   },
+   {
+    "name": "Alexander Reske",
+    "role": "Co-founder",
+    "background": "ETH RSL spin-out",
+    "linkedin": null,
+    "source": "https://dealroom.co/companies/rivr/"
+   }
+  ],
+  "popularity": "Rivr Two stair-climbing delivery robot (60+ lb payload, 8.7 mph); prior Swiss-Mile name; Bezos personally engaged.",
+  "popularity_sources": [
+   "https://siliconangle.com/2026/03/20/amazon-acquires-last-mile-delivery-robot-startup-rivr/"
+  ],
+  "other_factors": "Amazon says tech will be used to research/field-test robots working with human delivery associates in last-mile. Existing relationship (investor). Quietly bought, disclosed in notice to delivery contractors; price undisclosed. Marco Hutter's co-founder status unverified.",
+  "primary_motive": "technology_ip",
+  "confidence": "high",
+  "notes": "Whether all founders joined Amazon not confirmed in sources."
+ },
+ {
+  "id": "amazon_bee_202507",
+  "target": "Bee",
+  "buyerId": "amazon",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Exor",
+    "type": "VC/holding",
+    "note": "reported lead of $7M seed"
+   },
+   {
+    "name": "Greycroft",
+    "type": "VC",
+    "note": "per GeekWire"
+   },
+   {
+    "name": "New Wave VC",
+    "type": "VC",
+    "note": "per GeekWire"
+   },
+   {
+    "name": "Banana Capital",
+    "type": "VC",
+    "note": "per GeekWire"
+   },
+   {
+    "name": "Point72 Ventures",
+    "type": "VC",
+    "note": "named in one source"
+   },
+   {
+    "name": "Esther Crawford",
+    "type": "angel",
+    "note": "angel"
+   }
+  ],
+  "total_funding": "~$7M seed (PitchBook ~$8.5M)",
+  "valuation": "unknown",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Maria de Lourdes Zollo",
+    "role": "Co-founder & CEO",
+    "background": "Previously Squad and Twitter (Twitter acquired Squad)",
+    "linkedin": null,
+    "source": "https://techcrunch.com/2024/07/29/former-squad-and-twitter-execs-raise-7m-to-build-a-hardware-ai-assistant"
+   },
+   {
+    "name": "Ethan Sutin",
+    "role": "Co-founder & CTO",
+    "background": "Previously Squad and Twitter",
+    "linkedin": null,
+    "source": "https://techcrunch.com/2024/07/29/former-squad-and-twitter-execs-raise-7m-to-build-a-hardware-ai-assistant"
+   }
+  ],
+  "popularity": "$49.99 wristband + $19/mo subscription plus Apple Watch app; user counts not found.",
+  "popularity_sources": [
+   "https://geekwire.com/2025/amazon-is-acquiring-bee-maker-of-a-wearable-ai-assistant-that-listens-to-conversations"
+  ],
+  "other_factors": "Team joins Amazon Devices (Panos Panay); Amazon's Halo wearable discontinued 2023; privacy concerns noted; terms undisclosed; deal not closed at announcement (July 2025).",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "high",
+  "notes": "Closing date not found. Offers made to Bee employees."
+ },
+ {
+  "id": "nvidia_reflection_ai_202610",
+  "target": "Reflection AI",
+  "buyerId": "nvidia",
+  "verified": false,
+  "investors": [
+   {
+    "name": "Nvidia",
+    "type": "strategic",
+    "note": "led $2B round; reportedly ~$800M invested total"
+   },
+   {
+    "name": "Lightspeed",
+    "type": "VC",
+    "note": "existing"
+   },
+   {
+    "name": "Sequoia",
+    "type": "VC",
+    "note": "existing"
+   },
+   {
+    "name": "DST",
+    "type": "VC",
+    "note": "existing"
+   },
+   {
+    "name": "B Capital",
+    "type": "VC",
+    "note": "existing"
+   },
+   {
+    "name": "CRV",
+    "type": "VC",
+    "note": "existing"
+   },
+   {
+    "name": "Eric Schmidt",
+    "type": "angel",
+    "note": "participated"
+   },
+   {
+    "name": "Citi",
+    "type": "bank",
+    "note": "participated"
+   },
+   {
+    "name": "1789 Capital",
+    "type": "VC",
+    "note": "participated"
+   }
+  ],
+  "total_funding": ">$2.1B ($130M earlier + $2B round); later round(s) not detailed",
+  "valuation": "$8B (2025 round); $25B (March 2026 per FT)",
+  "buyer_was_investor": true,
+  "founders": [
+   {
+    "name": "Misha Laskin",
+    "role": "Co-founder & CEO",
+    "background": "Former Google DeepMind; led reward modeling for Gemini",
+    "linkedin": null,
+    "source": "https://www.cxodigitalpulse.com/?p=38976"
+   },
+   {
+    "name": "Ioannis Antonoglou",
+    "role": "Co-founder & CTO",
+    "background": "Former DeepMind; AlphaGo co-creator",
+    "linkedin": "https://www.linkedin.com/in/ioannis-alexandros-antonoglou-45393253/",
+    "source": "https://www.linkedin.com/in/ioannis-alexandros-antonoglou-45393253/"
+   }
+  ],
+  "popularity": "Open-weight frontier model lab; ~60 researchers at time of 2025 round; first model release reported but secondhand.",
+  "popularity_sources": [
+   "https://www.cxodigitalpulse.com/?p=38976"
+  ],
+  "other_factors": "FT (10 Oct 2026): early talks to buy or deepen stake; acqui-hire/licence structure floated to avoid antitrust review; DOJ reportedly examining Groq deal. Single-source reporting, Reuters could not verify.",
+  "primary_motive": "talent",
+  "confidence": "medium",
+  "notes": "Rumour only; no signed deal found. verified=false means the acquisition itself is unconfirmed (the company and investment exist)."
+ },
+ {
+  "id": "nvidia_hugging_face_202609",
+  "target": "Hugging Face",
+  "buyerId": "nvidia",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Salesforce Ventures",
+    "type": "corporate VC",
+    "note": "led 2023 $235M round"
+   },
+   {
+    "name": "Alphabet/Google, GV",
+    "type": "corporate/VC",
+    "note": "2023 round"
+   },
+   {
+    "name": "Amazon, AMD, Intel, Qualcomm Ventures, IBM, Sound Ventures",
+    "type": "strategic",
+    "note": "2023 round"
+   },
+   {
+    "name": "Nvidia",
+    "type": "strategic",
+    "note": "2023 round participant"
+   }
+  ],
+  "total_funding": "~$395M+ (not fully verified; $235M in 2023 round)",
+  "valuation": "$4.5B (2023); deal ~$12.9B (~$11.9B to shareholders + up to $1B retention equity)",
+  "buyer_was_investor": true,
+  "founders": [
+   {
+    "name": "Clem Delangue",
+    "role": "Co-founder & CEO",
+    "background": "Previously founded Moodstocks (acquired by Google)",
+    "linkedin": "https://www.linkedin.com/in/clementdelangue/",
+    "source": "https://www.linkedin.com/in/clementdelangue/"
+   },
+   {
+    "name": "Julien Chaumond",
+    "role": "Co-founder & CTO",
+    "background": "not detailed in searches",
+    "linkedin": "https://www.linkedin.com/in/julienchaumond/",
+    "source": "https://www.linkedin.com/in/julienchaumond/"
+   },
+   {
+    "name": "Thomas Wolf",
+    "role": "Co-founder & CSO",
+    "background": "not detailed in searches",
+    "linkedin": null,
+    "source": "https://news.bgov.com/mergers-and-acquisitions/hugging-face-founders-each-worth-1-8-billion-after-nvidia-deal"
+   }
+  ],
+  "popularity": "Dominant open-model hub; founders ~$1.8B each after deal (Bloomberg index).",
+  "popularity_sources": [
+   "https://news.bgov.com/mergers-and-acquisitions/hugging-face-founders-each-worth-1-8-billion-after-nvidia-deal"
+  ],
+  "other_factors": "SEC filing and Jensen Huang blog; close expected H1 2027 pending regulatory approval; HF to remain open platform; reportedly rejected $500M Nvidia investment at ~$7B earlier (FT); Delangue says HF approached Nvidia for scale; one source links to July cyberattack (unverified). One outlet says 'completed' - conflicts with pending status.",
+  "primary_motive": "vertical_integration",
+  "confidence": "high",
+  "notes": "Announced Aug/Sept 2026 (sources differ on date)."
+ },
+ {
+  "id": "nvidia_poolside_202608",
+  "target": "Poolside",
+  "buyerId": "nvidia",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Bain Capital Ventures",
+    "type": "VC",
+    "note": "led $500M Series B Oct 2024"
+   },
+   {
+    "name": "Nvidia",
+    "type": "strategic",
+    "note": "participated 2024; ~$1B investment 2026"
+   },
+   {
+    "name": "eBay",
+    "type": "strategic",
+    "note": "2024 round"
+   },
+   {
+    "name": "Premji Invest",
+    "type": "investor",
+    "note": "named in one source"
+   },
+   {
+    "name": "Magnetar",
+    "type": "hedge fund",
+    "note": "in talks to join 2025 round"
+   }
+  ],
+  "total_funding": ">$1B (exact unverified)",
+  "valuation": "$3B (2024); $12B pre-money (2026 investment)",
+  "buyer_was_investor": true,
+  "founders": [
+   {
+    "name": "Jason Warner",
+    "role": "Co-founder & CEO; reportedly remained at Poolside",
+    "background": "Former GitHub CTO",
+    "linkedin": null,
+    "source": "https://en.wikipedia.org/wiki/Poolside_AI"
+   },
+   {
+    "name": "Eiso Kant",
+    "role": "Co-founder & CTO; reportedly remained",
+    "background": "not detailed",
+    "linkedin": null,
+    "source": "https://en.wikipedia.org/wiki/Poolside_AI"
+   }
+  ],
+  "popularity": "Laguna family of open-weight coding models; Model Factory training system.",
+  "popularity_sources": [
+   "https://nationalcioreview.com/articles-insights/extra-bytes/nvidias-6-billion-poolside-deal-expands-its-open-weight-ai-push/"
+  ],
+  "other_factors": "Reported $6B non-exclusive Model Factory licence + $1B equity at $12B pre-money; offers to ~109 employees to work on Nemotron; investor letter says not an acquisition/acqui-hire; licence proceeds to be distributed to investors by end-2027; structure criticised as merger-review avoidance. Terms rest on press/investor letter, no company confirmation.",
+  "primary_motive": "technology_ip",
+  "confidence": "medium",
+  "notes": "Third co-founder not identified."
+ },
+ {
+  "id": "nvidia_essential_ai_202606",
+  "target": "Essential AI",
+  "buyerId": "nvidia",
+  "verified": true,
+  "investors": [
+   {
+    "name": "AMD",
+    "type": "strategic",
+    "note": "early strategic investor"
+   },
+   {
+    "name": "Lightspeed Venture Partners",
+    "type": "VC",
+    "note": "reportedly led Series B $175M at $1B (one low-reliability profile; conflicts with distress narrative)"
+   }
+  ],
+  "total_funding": "unknown (Series B $175M claimed in one profile)",
+  "valuation": "$1B (unverified)",
+  "buyer_was_investor": null,
+  "founders": [
+   {
+    "name": "Ashish Vaswani",
+    "role": "Co-founder & CEO; joined Nvidia to work on Nemotron",
+    "background": "Lead author of 'Attention Is All You Need'; ex-Google Brain",
+    "linkedin": null,
+    "source": "https://groundlevel-ai.com/p/nvidia-quietly-acquihires-essential"
+   },
+   {
+    "name": "Niki Parmar",
+    "role": "Co-founder",
+    "background": "Transformer paper co-author, ex-Google Brain; move to Nvidia unconfirmed",
+    "linkedin": null,
+    "source": "https://nextomoro.com/essential-ai/"
+   }
+  ],
+  "popularity": "Founded by Transformer paper authors; no usage metrics found.",
+  "popularity_sources": [
+   "https://neuronfeed.com/startups/essential-ai"
+  ],
+  "other_factors": "Unnamed source: Vaswani struggled to raise; taking team from AMD also a motive. Reported by Ground Level AI (20 Jun 2026) and Wikipedia.",
+  "primary_motive": "talent",
+  "confidence": "medium",
+  "notes": "Thin sourcing, no major-outlet confirmation seen."
+ },
+ {
+  "id": "nvidia_kumo_ai_202606",
+  "target": "Kumo AI",
+  "buyerId": "nvidia",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Sequoia Capital",
+    "type": "VC",
+    "note": "per PitchBook"
+   },
+   {
+    "name": "SV Angel",
+    "type": "VC",
+    "note": "per PitchBook"
+   }
+  ],
+  "total_funding": "$37M (PitchBook)",
+  "valuation": "unknown; deal reportedly >$400M (The Information)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Jure Leskovec",
+    "role": "Co-founder; Stanford professor",
+    "background": "Stanford CS; graph ML researcher (PyG/OGB, relational deep learning); whether he joined Nvidia full-time is unclear",
+    "linkedin": "https://www.linkedin.com/in/leskovec/",
+    "source": "https://www.linkedin.com/in/leskovec/"
+   },
+   {
+    "name": "Vanja Josifovski",
+    "role": "Co-founder/CEO; reportedly moved to Nvidia",
+    "background": "not detailed",
+    "linkedin": null,
+    "source": "https://aiweekly.co/alerts/nvidia-acquires-kumo-ai-for-reported-400-million"
+   },
+   {
+    "name": "Hema Raghavan",
+    "role": "Co-founder; reportedly moved to Nvidia",
+    "background": "not detailed",
+    "linkedin": null,
+    "source": "https://aiweekly.co/alerts/nvidia-acquires-kumo-ai-for-reported-400-million"
+   }
+  ],
+  "popularity": "KumoRFM relational foundation model; customers DoorDash, Reddit, Sainsbury's.",
+  "popularity_sources": [
+   "https://runtimewire.com/article/nvidia-acquires-kumo-ai-for-over-400-million-to-push-graph-ai-into-enterprise-pr"
+  ],
+  "other_factors": "Extends Nvidia enterprise software stack (after Run:ai, CentML). Nvidia declined comment; price unconfirmed.",
+  "primary_motive": "technology_ip",
+  "confidence": "medium",
+  "notes": "Price from The Information; Nvidia has not confirmed terms."
+ },
+ {
+  "id": "nvidia_illumex_202602",
+  "target": "Illumex",
+  "buyerId": "nvidia",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Cardumen Capital",
+    "type": "VC",
+    "note": "per Forbes Espana headline"
+   }
+  ],
+  "total_funding": "unknown",
+  "valuation": "deal ~$60M (Calcalist, FrenchWeb) or $75M (Globes)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Inna Tokarev Sela",
+    "role": "Founder & CEO (2021)",
+    "background": "not verified in searches",
+    "linkedin": null,
+    "source": "https://www.calcalistech.com/ctechnews/article/hkrcgl5dbx"
+   }
+  ],
+  "popularity": "Generative Semantic Fabric platform; no traction metrics found.",
+  "popularity_sources": [
+   "https://en.globes.co.il/en/article-1001535871"
+  ],
+  "other_factors": "Nvidia spokesperson: ontology expertise to accelerate libraries/models for enterprise agentic AI; employees joined Nvidia; follows Deci. Nvidia confirmed 23 Feb 2026.",
+  "primary_motive": "technology_ip",
+  "confidence": "medium",
+  "notes": "Price differs by source; investor list incomplete."
+ },
+ {
+  "id": "nvidia_groq_202512",
+  "target": "Groq",
+  "buyerId": "nvidia",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Disruptive",
+    "type": "VC/growth",
+    "note": ">$500M invested since 2016 per CEO Alex Davis"
+   }
+  ],
+  "total_funding": "unknown (Sept 2025 $750M round)",
+  "valuation": "$6.9B pre-money (Sept 2025)",
+  "buyer_was_investor": null,
+  "founders": [
+   {
+    "name": "Jonathan Ross",
+    "role": "Founder; joined Nvidia",
+    "background": "not detailed here",
+    "linkedin": null,
+    "source": "https://finance.yahoo.com/news/nvidia-buy-ai-chip-startup-210634730.html"
+   },
+   {
+    "name": "Sunny Madra",
+    "role": "President; joined Nvidia",
+    "background": "not detailed",
+    "linkedin": null,
+    "source": "https://finance.yahoo.com/news/nvidia-buy-ai-chip-startup-210634730.html"
+   }
+  ],
+  "popularity": "GroqCloud continues independently under CEO Simon Edwards; no metrics collected.",
+  "popularity_sources": [
+   "https://www.constellationr.com/insights/news/nvidias-groq-deal-acquisition-acquihire-or-creative-licensing-deal"
+  ],
+  "other_factors": "Non-exclusive licence + hires, announced 24 Dec 2025; $20B figure is from investor Alex Davis/CNBC, not company-confirmed; structure scrutinised (DOJ reportedly examining) as acquisition-avoidance.",
+  "primary_motive": "technology_ip",
+  "confidence": "high",
+  "notes": "Not an acquisition of Groq as a company. Other investors not collected."
+ },
+ {
+  "id": "nvidia_schedmd_202512",
+  "target": "SchedMD",
+  "buyerId": "nvidia",
+  "verified": true,
+  "investors": [],
+  "total_funding": "unknown (appears bootstrapped; unverified)",
+  "valuation": "undisclosed",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Danny Auble",
+    "role": "CEO, co-founder; Slurm lead",
+    "background": "Co-founded SchedMD 2010",
+    "linkedin": null,
+    "source": "https://blogs.nvidia.com/blog/nvidia-acquires-schedmd"
+   },
+   {
+    "name": "Morris Jette",
+    "role": "Co-founder",
+    "background": "Co-founded SchedMD 2010",
+    "linkedin": null,
+    "source": "https://heise.de/-11115881"
+   }
+  ],
+  "popularity": "Slurm used in over half of top 10 and top 100 TOP500 systems (Nvidia).",
+  "popularity_sources": [
+   "https://blogs.nvidia.com/blog/nvidia-acquires-schedmd"
+  ],
+  "other_factors": "Collaborated >10 years; Nvidia pledges Slurm stays open source/vendor-neutral; announced alongside Nemotron 3.",
+  "primary_motive": "vertical_integration",
+  "confidence": "high",
+  "notes": "Investor data not found."
+ },
+ {
+  "id": "nvidia_enfabrica_202509",
+  "target": "Enfabrica",
+  "buyerId": "nvidia",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Nvidia",
+    "type": "strategic",
+    "note": "backed $125M Series B 2023"
+   },
+   {
+    "name": "Arm",
+    "type": "strategic",
+    "note": "later round"
+   },
+   {
+    "name": "Cisco",
+    "type": "strategic",
+    "note": "later round"
+   },
+   {
+    "name": "Samsung",
+    "type": "strategic",
+    "note": "later round"
+   }
+  ],
+  "total_funding": "unknown (>$240M implied: $125M Series B + ~$115M)",
+  "valuation": "unknown",
+  "buyer_was_investor": true,
+  "founders": [
+   {
+    "name": "Rochan Sankar",
+    "role": "Co-founder & CEO; hired by Nvidia",
+    "background": "not detailed here",
+    "linkedin": null,
+    "source": "https://www.datacenterdynamics.com/en/news/nvidia-hires-staff-from-networking-firm-enfabrica-and-signs-tech-license-in-900m-deal-report/"
+   }
+  ],
+  "popularity": "Chips for linking up to 100,000 AI chips; no customer metrics found.",
+  "popularity_sources": [
+   "https://blocksandfiles.com/2025/09/19/nvidia-buys-enfabrica/"
+  ],
+  "other_factors": ">$900M cash and stock for hires + licence (CNBC); acqui-hire style, not acquisition.",
+  "primary_motive": "talent",
+  "confidence": "high",
+  "notes": "Lead investors of Series B not verified."
+ },
+ {
+  "id": "nvidia_solver_202509",
+  "target": "Solver (formerly Laredo Labs)",
+  "buyerId": "nvidia",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Radical Ventures",
+    "type": "VC",
+    "note": "$8M funding"
+   }
+  ],
+  "total_funding": "~$8M",
+  "valuation": "unknown",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Mark Gabel",
+    "role": "Co-founder",
+    "background": "not verified",
+    "linkedin": null,
+    "source": "https://www.privsource.com/acquisitions/deal/JOSVdW"
+   },
+   {
+    "name": "Daniel Lord",
+    "role": "Co-founder",
+    "background": "not verified",
+    "linkedin": null,
+    "source": "https://www.privsource.com/acquisitions/deal/JOSVdW"
+   }
+  ],
+  "popularity": "No traction data found.",
+  "popularity_sources": [],
+  "other_factors": "Expands Nvidia software/dev tooling; reported by The Information; no official Nvidia announcement found; terms undisclosed.",
+  "primary_motive": "talent",
+  "confidence": "low",
+  "notes": "Only aggregator sources; whether founders joined Nvidia unconfirmed."
+ },
+ {
+  "id": "nvidia_centml_202506",
+  "target": "CentML",
+  "buyerId": "nvidia",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Radical Ventures",
+    "type": "VC",
+    "note": "incubated/seed"
+   },
+   {
+    "name": "Gradient Ventures",
+    "type": "VC",
+    "note": "seed"
+   },
+   {
+    "name": "Nvidia",
+    "type": "strategic",
+    "note": "seed investor"
+   }
+  ],
+  "total_funding": "~$30.9M",
+  "valuation": "undisclosed",
+  "buyer_was_investor": true,
+  "founders": [
+   {
+    "name": "Gennady Pekhimenko",
+    "role": "Co-founder & CEO; now Nvidia senior director AI software",
+    "background": "University of Toronto professor (per press; not independently checked)",
+    "linkedin": null,
+    "source": "https://thelogic.co/news/centml-nvidia-acquisition-canada-ai/"
+   },
+   {
+    "name": "Sam Wang",
+    "role": "CTO; Nvidia management role",
+    "background": "unknown",
+    "linkedin": null,
+    "source": "https://thelogic.co/news/centml-nvidia-acquisition-canada-ai/"
+   },
+   {
+    "name": "Akbar Nurlybayev",
+    "role": "COO; Nvidia management role",
+    "background": "unknown",
+    "linkedin": null,
+    "source": "https://thelogic.co/news/centml-nvidia-acquisition-canada-ai/"
+   }
+  ],
+  "popularity": "No metrics found.",
+  "popularity_sources": [],
+  "other_factors": "15+ engineers and 2 interns moved per LinkedIn data; CentML operations wound down 17 Jul 2025; Nvidia declined comment.",
+  "primary_motive": "technology_ip",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "id": "nvidia_lepton_ai_2025sp",
+  "target": "Lepton AI",
+  "buyerId": "nvidia",
+  "verified": true,
+  "investors": [],
+  "total_funding": "unknown",
+  "valuation": "deal reportedly several hundred million USD (The Information)",
+  "buyer_was_investor": null,
+  "founders": [
+   {
+    "name": "Yangqing Jia",
+    "role": "Co-founder & CEO; joined Nvidia, reportedly left after ~1 year (single secondary source)",
+    "background": "Former Alibaba VP of Technology; ex-Meta AI researcher (Caffe creator per public knowledge)",
+    "linkedin": null,
+    "source": "https://technode.com/2025/04/09/nvidia-acquires-chinese-gpu-cloud-startup-lepton-ai-report/"
+   },
+   {
+    "name": "Junjie Bai",
+    "role": "Co-founder; joined Nvidia",
+    "background": "Ex-Meta AI researcher",
+    "linkedin": null,
+    "source": "https://technode.com/2025/04/09/nvidia-acquires-chinese-gpu-cloud-startup-lepton-ai-report/"
+   }
+  ],
+  "popularity": "GPU rental platform; relaunched as DGX Cloud Lepton June 2025.",
+  "popularity_sources": [
+   "https://www.kucoin.com/news/flash/jia-yangqing-leaves-nvidia-after-one-year-dgx-lepton-fails-to-meet-expectations"
+  ],
+  "other_factors": "Nvidia never officially confirmed; GPU-cloud marketplace extends Nvidia software/cloud layer.",
+  "primary_motive": "vertical_integration",
+  "confidence": "medium",
+  "notes": "Investors not collected."
+ },
+ {
+  "id": "nvidia_gretel_202503",
+  "target": "Gretel",
+  "buyerId": "nvidia",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Anthos Capital",
+    "type": "VC",
+    "note": ""
+   },
+   {
+    "name": "Greylock",
+    "type": "VC",
+    "note": ""
+   },
+   {
+    "name": "Moonshots Capital",
+    "type": "VC",
+    "note": ""
+   }
+  ],
+  "total_funding": ">$67M",
+  "valuation": "$320M last valuation; deal nine figures, above that (Wired)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Ali Golshan",
+    "role": "Co-founder & CEO",
+    "background": "not verified",
+    "linkedin": null,
+    "source": "https://techcrunch.com/2025/03/19/nvidia-reportedly-acquires-synthetic-data-startup-gretel"
+   },
+   {
+    "name": "Alex Watson",
+    "role": "Co-founder",
+    "background": "not verified",
+    "linkedin": null,
+    "source": "https://techcrunch.com/2025/03/19/nvidia-reportedly-acquires-synthetic-data-startup-gretel"
+   },
+   {
+    "name": "John Myers",
+    "role": "Co-founder",
+    "background": "not verified",
+    "linkedin": null,
+    "source": "https://techcrunch.com/2025/03/19/nvidia-reportedly-acquires-synthetic-data-startup-gretel"
+   },
+   {
+    "name": "Laszlo Bock",
+    "role": "Co-founder",
+    "background": "Former Google SVP People Ops (public knowledge, not verified in search)",
+    "linkedin": null,
+    "source": "https://techcrunch.com/2025/03/19/nvidia-reportedly-acquires-synthetic-data-startup-gretel"
+   }
+  ],
+  "popularity": "No metrics collected.",
+  "popularity_sources": [],
+  "other_factors": "~80 staff folded into Nvidia generative AI services; synthetic data for training. Which founders joined Nvidia not confirmed.",
+  "primary_motive": "technology_ip",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "id": "nvidia_octoai_202409",
+  "target": "OctoAI (OctoML)",
+  "buyerId": "nvidia",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Tiger Global",
+    "type": "VC",
+    "note": "led Series C $85M"
+   },
+   {
+    "name": "Addition",
+    "type": "VC",
+    "note": ""
+   },
+   {
+    "name": "Madrona Venture Group",
+    "type": "VC",
+    "note": ""
+   },
+   {
+    "name": "Amplify Partners",
+    "type": "VC",
+    "note": ""
+   }
+  ],
+  "total_funding": "~$132M (reported)",
+  "valuation": "~$900M (2021); deal ~$165M proposed, possibly >$250M with debt",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Luis Ceze",
+    "role": "Co-founder & CEO; now Nvidia VP AI systems software",
+    "background": "University of Washington professor; Apache TVM",
+    "linkedin": null,
+    "source": "https://www.geekwire.com/2024/chip-giant-nvidia-acquires-octoai-a-seattle-startup-that-helps-companies-run-ai-models/"
+   },
+   {
+    "name": "Jared Roesch",
+    "role": "Co-founder",
+    "background": "unverified",
+    "linkedin": null,
+    "source": "https://www.aol.com/news/nvidia-continues-acquisition-streak-octoai-165059175.html"
+   },
+   {
+    "name": "Tianqi Chen",
+    "role": "Co-founder",
+    "background": "TVM/XGBoost creator (public knowledge); Nvidia role unknown",
+    "linkedin": null,
+    "source": "https://www.aol.com/news/nvidia-continues-acquisition-streak-octoai-165059175.html"
+   },
+   {
+    "name": "Jason Knight",
+    "role": "Co-founder",
+    "background": "unverified",
+    "linkedin": null,
+    "source": "https://www.aol.com/news/nvidia-continues-acquisition-streak-octoai-165059175.html"
+   },
+   {
+    "name": "Thierry Moreau",
+    "role": "Co-founder",
+    "background": "unverified",
+    "linkedin": null,
+    "source": "https://www.aol.com/news/nvidia-continues-acquisition-streak-octoai-165059175.html"
+   }
+  ],
+  "popularity": "Commercialised open-source Apache TVM; ~$900M 2021 valuation.",
+  "popularity_sources": [
+   "https://www.bigdatawire.com/2024/09/30/octoai-snapped-up-by-nvidia"
+  ],
+  "other_factors": "Down-round-style exit (common shareholders reportedly $0.02/share, per ledger, not independently verified); customers told to find new hosts; Nvidia did not announce.",
+  "primary_motive": "technology_ip",
+  "confidence": "high",
+  "notes": "Partially distressed exit."
+ },
+ {
+  "id": "nvidia_deci_ai_202405",
+  "target": "Deci AI",
+  "buyerId": "nvidia",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Insight Partners",
+    "type": "VC",
+    "note": "led Series A and B"
+   },
+   {
+    "name": "Square Peg",
+    "type": "VC",
+    "note": ""
+   },
+   {
+    "name": "Emerge",
+    "type": "VC",
+    "note": ""
+   },
+   {
+    "name": "Jibe Ventures",
+    "type": "VC",
+    "note": ""
+   },
+   {
+    "name": "Fort Ross Ventures",
+    "type": "VC",
+    "note": ""
+   },
+   {
+    "name": "ICON",
+    "type": "VC",
+    "note": ""
+   }
+  ],
+  "total_funding": "$55.1M",
+  "valuation": "~$200M (2022); deal ~$300M (Calcalist estimate)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Yonatan Geifman",
+    "role": "Co-founder & CEO",
+    "background": "unverified",
+    "linkedin": null,
+    "source": "https://en.globes.co.il/en/article-1001477419"
+   },
+   {
+    "name": "Ran El-Yaniv",
+    "role": "Co-founder & Chief Scientist",
+    "background": "Technion professor (public knowledge)",
+    "linkedin": null,
+    "source": "https://en.globes.co.il/en/article-1001477419"
+   },
+   {
+    "name": "Jonathan Elial",
+    "role": "Co-founder & COO",
+    "background": "unverified",
+    "linkedin": null,
+    "source": "https://en.globes.co.il/en/article-1001477419"
+   }
+  ],
+  "popularity": "No metrics collected.",
+  "popularity_sources": [],
+  "other_factors": "Nvidia: NAS capabilities complement its expertise; announced same week as Run:ai. Ledger date 2024-05 consistent.",
+  "primary_motive": "technology_ip",
+  "confidence": "high",
+  "notes": "Price is estimate."
+ },
+ {
+  "id": "nvidia_run_ai_202412",
+  "target": "Run:ai",
+  "buyerId": "nvidia",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Tiger Global",
+    "type": "VC",
+    "note": "led Series B/C"
+   },
+   {
+    "name": "Insight Partners",
+    "type": "VC",
+    "note": "led Series B/C"
+   },
+   {
+    "name": "TLV Partners",
+    "type": "VC",
+    "note": "first investor"
+   },
+   {
+    "name": "S Capital VC",
+    "type": "VC",
+    "note": ""
+   }
+  ],
+  "total_funding": "$118M",
+  "valuation": "~$700M deal (estimates $680-800M)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Omri Geller",
+    "role": "Co-founder & CEO",
+    "background": "Tel Aviv University",
+    "linkedin": null,
+    "source": "https://www.calcalistech.com/ctechnews/article/s1w2iniwa"
+   },
+   {
+    "name": "Ronen Dar",
+    "role": "Co-founder & CTO",
+    "background": "Tel Aviv University",
+    "linkedin": null,
+    "source": "https://www.calcalistech.com/ctechnews/article/s1w2iniwa"
+   }
+  ],
+  "popularity": "No metrics collected.",
+  "popularity_sources": [],
+  "other_factors": "Closed Dec 2024 after DOJ and unconditional EU approval; ~$200M in Nvidia shares reserved for retention; Run:ai to open-source its software; regulators worried about Nvidia dominance. Announced April 2024.",
+  "primary_motive": "vertical_integration",
+  "confidence": "high",
+  "notes": "Ledger date is the closing."
+ },
+ {
+  "id": "meta_sundial_202610",
+  "target": "Sundial",
+  "buyerId": "meta",
+  "verified": true,
+  "investors": [
+   {
+    "name": "GPV (DJ Patil)",
+    "type": "VC",
+    "note": "led $16M Series A July 2025"
+   }
+  ],
+  "total_funding": "~$23M",
+  "valuation": "unknown",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Julie Zhuo",
+    "role": "Co-founder; returning to Meta",
+    "background": "Former Facebook VP Design; author of The Making of a Manager",
+    "linkedin": null,
+    "source": "https://aiweekly.co/alerts/meta-acquires-ai-analytics-startup-sundial-from-ex-meta-founders"
+   },
+   {
+    "name": "Chandra Narayanan",
+    "role": "Co-founder; will lead data analytics tooling/agents in Meta's new DATA unit under Alex Schultz",
+    "background": "Former Meta executive",
+    "linkedin": null,
+    "source": "https://aiweekly.co/alerts/meta-acquires-ai-analytics-startup-sundial-from-ex-meta-founders"
+   }
+  ],
+  "popularity": "Customers reportedly included OpenAI; will stop serving external customers.",
+  "popularity_sources": [
+   "https://aiweekly.co/alerts/meta-acquires-ai-analytics-startup-sundial-from-ex-meta-founders"
+  ],
+  "other_factors": "Boomerang founders; Axios reported 23 Oct 2026, Meta confirmed; terms undisclosed. Julie Zhuo's LinkedIn handle appears to be 'julie-zhuo' only by inference from a post URL, so left null.",
+  "primary_motive": "talent",
+  "confidence": "high",
+  "notes": "Very recent; details may change."
+ },
+ {
+  "id": "meta_stilla_ai_202609",
+  "target": "Stilla.ai",
+  "buyerId": "meta",
+  "verified": true,
+  "investors": [
+   {
+    "name": "General Catalyst",
+    "type": "VC",
+    "note": "Reported as lead of pre-seed (single source: stellagent.ai)"
+   }
+  ],
+  "total_funding": "~$5M pre-seed",
+  "valuation": null,
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Siavash Ghorbani",
+    "role": "Co-founder",
+    "background": "Co-founded Tictail (Swedish e-commerce, acquired by Shopify 2018); ex-Shopify",
+    "linkedin": null,
+    "source": "https://stellagent.ai/insights/meta-stilla-ai-commerce-agents"
+   },
+   {
+    "name": "Kaj Drobin",
+    "role": "Co-founder",
+    "background": "Co-founded Tictail (acquired by Shopify 2018); ex-Shopify",
+    "linkedin": null,
+    "source": "https://stellagent.ai/insights/meta-stilla-ai-commerce-agents"
+   }
+  ],
+  "popularity": "Emerged from stealth Jan 2026; customers reportedly include Spotify and Ramp; connects to 3,000+ tools. No revenue/user metrics disclosed.",
+  "popularity_sources": [
+   "https://stellagent.ai/insights/meta-stilla-ai-commerce-agents",
+   "https://mediapost.com/publications/article/417764/meta-acquires-swedish-ai-startup-to-boost-automate.html"
+  ],
+  "other_factors": "Meta says it accelerates Meta Business Agent (WhatsApp/Messenger/Instagram); Axios reports Meta plans to expand Swedish presence. Terms undisclosed. Date reported as Sept 9 (Axios) vs Sept 18 by one aggregator.",
+  "primary_motive": "talent",
+  "confidence": "medium",
+  "notes": "Deal reported by Axios and secondary outlets; whether closed is unconfirmed (ledger status integration_pending). Founder names from a single secondary source."
+ },
+ {
+  "id": "meta_assured_robot_intelligence_202605",
+  "target": "Assured Robot Intelligence",
+  "buyerId": "meta",
+  "verified": true,
+  "investors": [
+   {
+    "name": "AIX Ventures",
+    "type": "VC",
+    "note": "Undisclosed seed round"
+   }
+  ],
+  "total_funding": "undisclosed seed",
+  "valuation": null,
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Lerrel Pinto",
+    "role": "Co-founder; joins Meta Superintelligence Labs",
+    "background": "Former NYU faculty; previously co-founded Fauna Robotics (reportedly acquired by Amazon Mar 2026)",
+    "linkedin": null,
+    "source": "https://letsdatascience.com/news/meta-acquires-assured-robot-intelligence-for-humanoid-ai-32e71601"
+   },
+   {
+    "name": "Xiaolong Wang",
+    "role": "Co-founder; joins Meta Superintelligence Labs",
+    "background": "Associate professor at UC San Diego; former NVIDIA researcher",
+    "linkedin": null,
+    "source": "https://letsdatascience.com/news/meta-acquires-assured-robot-intelligence-for-humanoid-ai-32e71601"
+   }
+  ],
+  "popularity": "Small research startup (~20 staff, San Diego/NY); no product traction reported.",
+  "popularity_sources": [
+   "https://humanoid.guide/meta-acquires-assured-robot-intelligence-for-humanoid-technology/"
+  ],
+  "other_factors": "Primarily research/talent acquisition; team works with Meta Robotics Studio on humanoid foundation models. Closed ~May 1, 2026; terms undisclosed.",
+  "primary_motive": "talent",
+  "confidence": "high",
+  "notes": "Multiple outlets (TechCrunch, Engadget, BI per summaries)."
+ },
+ {
+  "id": "meta_moltbook_202603",
+  "target": "Moltbook",
+  "buyerId": "meta",
+  "verified": true,
+  "investors": [],
+  "total_funding": "unknown (no outside funding found)",
+  "valuation": null,
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Matt Schlicht",
+    "role": "Co-founder/creator; joined Meta Superintelligence Labs",
+    "background": "CEO of Octane AI (AI + commerce); working on autonomous agents since 2023",
+    "linkedin": null,
+    "source": "https://www.tbsnews.net/node/1386236"
+   },
+   {
+    "name": "Ben Parr",
+    "role": "Co-founder/COO; joined MSL",
+    "background": "Octane AI; journalist (Mashable/CNET per one low-quality source), author, co-founded a VC fund",
+    "linkedin": null,
+    "source": "https://cyprus-mail.com/2026/03/15/meta-acquires-ai-agent-social-network-moltbook"
+   }
+  ],
+  "popularity": "Launched late Jan 2026 and went viral as a Reddit-style social network for AI agents; studies later suggested far fewer real agents than claimed and little genuine interaction.",
+  "popularity_sources": [
+   "https://the-decoder.com/meta-acquires-moltbook-the-reddit-style-platform-built-for-ai-agents/",
+   "https://www.tbsnews.net/node/1386236"
+  ],
+  "other_factors": "Meta cited the 'always-on directory' / agent registry verified and tethered to human owners (Vishal Shah). Hype-driven deal; existing users can keep using platform temporarily.",
+  "primary_motive": "talent",
+  "confidence": "high",
+  "notes": "Terms undisclosed; founders started Mar 16, 2026."
+ },
+ {
+  "id": "meta_manus_202512",
+  "target": "Manus",
+  "buyerId": "meta",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Benchmark",
+    "type": "VC",
+    "note": "Led $75M round Apr 2025 at ~$500M valuation; Chetan Puttagunta on board"
+   },
+   {
+    "name": "Tencent",
+    "type": "corporate",
+    "note": "earlier backer"
+   },
+   {
+    "name": "ZhenFund",
+    "type": "VC",
+    "note": "earlier backer"
+   },
+   {
+    "name": "HSG (formerly Sequoia China)",
+    "type": "VC",
+    "note": "earlier backer"
+   }
+  ],
+  "total_funding": "not confirmed; $75M Series B-type round Apr 2025 plus earlier rounds",
+  "valuation": "~$500M (Apr 2025); ~$2B+ acquisition price reported",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Xiao Hong",
+    "role": "Co-founder & CEO; to join Meta reporting to Javier Olivan",
+    "background": "Huazhong Univ. of Science and Technology (software engineering); serial entrepreneur (WeChat plugins, Monica.im/Butterfly Effect)",
+    "linkedin": null,
+    "source": "https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about"
+   },
+   {
+    "name": "Ji Yichao (Peak)",
+    "role": "Co-founder & Chief Scientist",
+    "background": "Dropped out of high school; built Mammoth browser and Magi search engine",
+    "linkedin": null,
+    "source": "https://www.chinatalk.media/i/158761060/who-is-behind-manus"
+   },
+   {
+    "name": "Zhang Tao",
+    "role": "Co-founder / product (CPO per one source)",
+    "background": "Reported ex-ByteDance, Light Year (Meituan), Sensors Data",
+    "linkedin": null,
+    "source": "https://events.stanford.edu/event/manus-building-the-hands-for-ai"
+   }
+  ],
+  "popularity": "Company-claimed ~$100M ARR (~$125M run rate) ~8 months after Mar 2025 launch; 'millions of users'; 147T tokens processed, 80M+ virtual computers.",
+  "popularity_sources": [
+   "https://www.manus.im/blog/manus-100m-arr",
+   "https://www.trendingtopics.eu/meta-acquires-ai-agent-startup-manus-which-recently-reached-100-million-arr/"
+  ],
+  "other_factors": "Meta wanted agent product plus revenue traction. REGULATORY: China's MOFCOM probed from Jan 2026; founders barred from leaving China in Mar; NDRC reportedly ordered the deal unwound in Apr 2026; Meta reportedly cut Manus from internal systems and told staff to sunset it. Final unwind status not confirmed.",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "medium",
+  "notes": "Deal announced Dec 30, 2025 but ledger status 'reported_completed' is likely misleading given China's unwind order; verify current status."
+ },
+ {
+  "id": "tesla_manz_assets_202502",
+  "target": "Manz assets",
+  "buyerId": "tesla",
+  "verified": true,
+  "investors": [],
+  "total_funding": "n/a (listed company; insolvent)",
+  "valuation": "price undisclosed",
+  "buyer_was_investor": false,
+  "founders": [],
+  "popularity": "Manz AG (Reutlingen) was an established listed automation/battery-equipment maker (~1,200 staff globally Dec 2024) that filed for insolvency.",
+  "popularity_sources": [
+   "https://www.manz.com/post/manz-ag-opening-of-insolvency-proceedings",
+   "https://electrek.co/2025/02/25/tesla-acquires-bankrupted-automation-engineering-firm/"
+  ],
+  "other_factors": "Tesla Automation GmbH (Prum) signed purchase agreement Feb 24, 2025 for movable assets, use of Reutlingen property and 300+ employees; ~100 others to a transfer company. Subject to German Federal Cartel Office approval. Distressed sale; adds automation engineering capacity.",
+  "primary_motive": "distressed_assets",
+  "confidence": "high",
+  "notes": "Cartel Office clearance and final closing not verified in my searches. No individuals identified."
+ },
+ {
+  "id": "tesla_wiferion_202306",
+  "target": "Wiferion",
+  "buyerId": "tesla",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Nordic Alpha Partners",
+    "type": "VC",
+    "note": "named participant"
+   },
+   {
+    "name": "Phoenix Contact (venture fund)",
+    "type": "corporate",
+    "note": "named participant"
+   }
+  ],
+  "total_funding": ">EUR 15M",
+  "valuation": "~$76M business combination consideration reported by Teslamag (unconfirmed)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Florian Reiners",
+    "role": "Co-founder & CEO",
+    "background": "Previously led a battery-charging systems group at Fraunhofer ISE, Freiburg",
+    "linkedin": null,
+    "source": "https://www.crunchbase.com/person/florian-reiners"
+   },
+   {
+    "name": "Johannes Mayer",
+    "role": "Co-founder & managing director",
+    "background": "Former project manager at Fraunhofer ISE",
+    "linkedin": null,
+    "source": "https://www.wevolver.com/profile/johannes.mayer"
+   }
+  ],
+  "popularity": "Freiburg wireless charging firm founded 2016 for industrial robots/AGVs; specific customer metrics not found.",
+  "popularity_sources": [
+   "https://www.electrive.com/2023/07/31/wiferion-now-belongs-to-tesla/"
+  ],
+  "other_factors": "Acquired via Tesla International B.V.; now Tesla Engineering Germany GmbH. Tesla gains inductive charging tech (Cybertruck/ factory robots). One source says Wiferion is part of PULS GmbH, which conflicts; unresolved. Whether founders joined Tesla not verified.",
+  "primary_motive": "technology_ip",
+  "confidence": "medium",
+  "notes": "Deal closed late July 2023; price never officially confirmed."
+ },
+ {
+  "id": "tesla_siilion_202111",
+  "target": "SiILion",
+  "buyerId": "tesla",
+  "verified": true,
+  "investors": [],
+  "total_funding": "unknown; DoD and DOE grants",
+  "valuation": null,
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Tyler Evans",
+    "role": "Co-founder; named inventor on Tesla-applicant patent",
+    "background": "Co-founder of SiILion (Colorado silicon-anode startup); did NOT move to Tesla per reports",
+    "linkedin": null,
+    "source": "https://www.electrive.com/2021/11/08/tesla-takes-over-battery-startup-siilion"
+   },
+   {
+    "name": "Daniela Molina Piper",
+    "role": "Co-founder; named inventor",
+    "background": "Co-founder of SiILion; did NOT join Tesla per reports",
+    "linkedin": null,
+    "source": "https://www.electrive.com/2021/11/08/tesla-takes-over-battery-startup-siilion"
+   }
+  ],
+  "popularity": "Small research-stage startup; government grants; went dark in 2018.",
+  "popularity_sources": [
+   "https://electrek.co/2021/11/05/tesla-confirms-acquisition-siilion-battery-startup-new-patent/"
+  ],
+  "other_factors": "Three SiILion researchers reportedly moved to Tesla; Tesla filed EP patent for silicon-anode; SiILion Inc. listed as Tesla subsidiary in 10-K. Likely for 4680 silicon anode tech. Price undisclosed.",
+  "primary_motive": "technology_ip",
+  "confidence": "medium",
+  "notes": "Inferred from patent filings and SEC subsidiary list, not an announcement. Names of the 3 researchers not found."
+ },
+ {
+  "id": "tesla_springpower_international_202105",
+  "target": "Springpower International",
+  "buyerId": "tesla",
+  "verified": false,
+  "investors": [],
+  "total_funding": "$3.4M SDTC grant (2018); otherwise unknown",
+  "valuation": null,
+  "buyer_was_investor": false,
+  "founders": [],
+  "popularity": "Small Toronto/Mississauga firm founded 2010 as offshoot of Highpower International; CEO reportedly Michael Wang (unconfirmed role).",
+  "popularity_sources": [
+   "https://cleantechnica.com/2021/05/12/has-tesla-acquired-another-innovative-battery-startup/",
+   "https://www.electrive.com/2021/05/05/tesla-rumoured-to-gain-access-to-cleaner-cathode-production"
+  ],
+  "other_factors": "Public records show Tesla paid $3 for three cathode/recycling patent applications ~Sept 2020; TechCrunch inferred acquisition because several Springpower staff list Tesla on LinkedIn. Tesla never confirmed.",
+  "primary_motive": "technology_ip",
+  "confidence": "low",
+  "notes": "Ledger calls it a full acquisition; evidence supports a patent purchase plus likely hiring, not a confirmed company acquisition. Dated Sept 2020 (patents) / reported May 2021."
+ },
+ {
+  "id": "tesla_atw_automation_202010",
+  "target": "ATW Automation",
+  "buyerId": "tesla",
+  "verified": true,
+  "investors": [],
+  "total_funding": "n/a (subsidiary of Canadian ATS Automation)",
+  "valuation": null,
+  "buyer_was_investor": false,
+  "founders": [],
+  "popularity": "German battery module/pack assembly line builder, ~120 employees, 20+ lines for automakers; facing sales decline and possible liquidation.",
+  "popularity_sources": [
+   "https://www.electrive.com/2020/10/02/tesla-interested-in-acquiring-atw/",
+   "https://cleantechnica.com/2020/10/04/tesla-purchases-european-battery-assembly-company/"
+  ],
+  "other_factors": "Reuters (anonymous source) said Tesla agreed to buy ATW from ATS; ATS did not name the buyer. Became part of Tesla Grohmann/Automation cluster in Germany (my background knowledge, unverified here). Distressed carve-out plus battery production know-how.",
+  "primary_motive": "vertical_integration",
+  "confidence": "medium",
+  "notes": "Seller was ATS (Cambridge, Ontario); no Tesla confirmation in sources found. Ledger 'reported_acquisition' is accurate. Motive could also be distressed_assets."
+ },
+ {
+  "id": "netflix_interpositive_202603",
+  "target": "InterPositive",
+  "buyerId": "netflix",
+  "verified": true,
+  "investors": [],
+  "total_funding": "unknown; no venture funding found (Affleck-founded, likely self-funded)",
+  "valuation": "price reportedly up to ~$600M incl. earnouts; one unverified report says $587M cash",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Ben Affleck",
+    "role": "Founder (2022); becomes Netflix senior adviser",
+    "background": "Actor/director/producer",
+    "linkedin": null,
+    "source": "https://au.variety.com/2026/biz/global/netflix-acquires-ai-filmmaking-startup-interpositive-33884"
+   }
+  ],
+  "popularity": "Pre-deal traction not documented; 16-person team of engineers, researchers, creatives; tools for post-production on real footage.",
+  "popularity_sources": [
+   "https://gulfnews.com/entertainment/netflix-acquires-ben-afflecks-interpositive-to-boost-filmmaking-ai-1.500465437",
+   "https://storyboard18.com/digital/netflix-reportedly-acquires-ben-afflecks-ai-startup-interpositive-in-deal-worth-up-to-600-million-91932.htm"
+  ],
+  "other_factors": "Netflix to offer tech to creative partners, not sell commercially. Other team engineers' names not found.",
+  "primary_motive": "technology_ip",
+  "confidence": "high",
+  "notes": "Announced Mar 5, 2026. Price figures conflicting."
+ },
+ {
+  "id": "netflix_ready_player_me_202512",
+  "target": "Ready Player Me",
+  "buyerId": "netflix",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Andreessen Horowitz",
+    "type": "VC",
+    "note": "Led $56M Series B Aug 2022"
+   },
+   {
+    "name": "Konvoy Ventures",
+    "type": "VC",
+    "note": "participant"
+   },
+   {
+    "name": "Endeavor",
+    "type": "VC",
+    "note": "participant"
+   },
+   {
+    "name": "Plural",
+    "type": "VC",
+    "note": "participant"
+   },
+   {
+    "name": "Hartbeat Ventures",
+    "type": "VC",
+    "note": "participant"
+   },
+   {
+    "name": "David Baszucki, Justin Kan, Riccardo Zacconi, Sebastian Knutsson",
+    "type": "angel",
+    "note": "participants"
+   }
+  ],
+  "total_funding": "~$72M",
+  "valuation": null,
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Timmu Toke",
+    "role": "CEO/co-founder; not reported as joining Netflix",
+    "background": "Led Ready Player Me (spun out of Wolf3D, 2014)",
+    "linkedin": null,
+    "source": "https://arcticstartup.com/?p=99270"
+   },
+   {
+    "name": "Selvet (full name not verified)",
+    "role": "CTO; only founder reported joining Netflix with ~20 staff",
+    "background": "unknown",
+    "linkedin": null,
+    "source": "https://www.pocketgamer.biz/netflix-acquires-avatar-creation-platform-ready-player-me"
+   }
+  ],
+  "popularity": "Cross-game avatar platform used by thousands of developers/apps (count not verified here); Series B $56M in 2022.",
+  "popularity_sources": [
+   "https://en.wikipedia.org/wiki/Ready_Player_Me",
+   "https://finance.yahoo.com/news/ready-player-platform-build-dynamic-105629882.html"
+  ],
+  "other_factors": "Standalone products (incl. PlayerZero) wound down Jan 31, 2026; Netflix wants cross-game avatars for its games. Announced ~Dec 19-22, 2025; Drake Star advised seller.",
+  "primary_motive": "talent",
+  "confidence": "high",
+  "notes": "Terms undisclosed. CTO surname/name unverified."
+ },
+ {
+  "id": "netflix_spry_fox_202210",
+  "target": "Spry Fox",
+  "buyerId": "netflix",
+  "verified": true,
+  "investors": [],
+  "total_funding": "unknown (largely independent studio)",
+  "valuation": "undisclosed",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Daniel Cook",
+    "role": "Co-founder",
+    "background": "Former game designer at Microsoft Game Studio",
+    "linkedin": null,
+    "source": "https://www.geekwire.com/2022/netflix-acquires-seattle-game-studio-spry-fox/"
+   },
+   {
+    "name": "David Edery",
+    "role": "Co-founder",
+    "background": "Former worldwide games portfolio manager at Microsoft",
+    "linkedin": null,
+    "source": "https://www.geekwire.com/2022/netflix-acquires-seattle-game-studio-spry-fox/"
+   }
+  ],
+  "popularity": "Hit titles like Triple Town and Alphabear; building MMO Spirit Crossing for Netflix.",
+  "popularity_sources": [
+   "https://gameworldobserver.com/2022/11/01/spry-fox-triple-town-merge-genre-origins-netflix-acquisition"
+  ],
+  "other_factors": "Netflix's sixth in-house game studio. Netflix sold the studio back to the founders (~Dec 2025), so the acquisition was later reversed.",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "high",
+  "notes": "Ledger should note Dec 2025 divestiture back to founders."
+ },
+ {
+  "id": "netflix_animal_logic_202207",
+  "target": "Animal Logic",
+  "buyerId": "netflix",
+  "verified": true,
+  "investors": [],
+  "total_funding": "n/a (private studio, Australia; previously owned by Fuel Entertainment-era investors, unverified)",
+  "valuation": "undisclosed all-cash",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Zareh Nalbandian",
+    "role": "Co-founder & CEO",
+    "background": "Animal Logic leader; studio behind The Lego Movie, Happy Feet",
+    "linkedin": null,
+    "source": "https://au.variety.com/2022/digital/news/netflix-acquires-animal-logic-4398/"
+   }
+  ],
+  "popularity": "Award-winning studio (The Lego Movie, Happy Feet, Moulin Rouge, Great Gatsby).",
+  "popularity_sources": [
+   "https://www.cartoonbrew.com/studios/netflix-acquires-animal-logic-australia-studio-218893.html",
+   "https://www.hollywoodreporter.com/business/digital/netflix-acquires-animation-animal-logic-1235183045/"
+  ],
+  "other_factors": "Netflix cited expanding animation capacity and in-house production; studio keeps its brand and commitments. Close was subject to regulatory approvals, expected later in 2022.",
+  "primary_motive": "vertical_integration",
+  "confidence": "medium",
+  "notes": "My searches found only the announcement; closing not confirmed here."
+ },
+ {
+  "id": "netflix_boss_fight_entertainment_202203",
+  "target": "Boss Fight Entertainment",
+  "buyerId": "netflix",
+  "verified": true,
+  "investors": [],
+  "total_funding": "unknown",
+  "valuation": "undisclosed",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "David Rippy",
+    "role": "Co-founder",
+    "background": "Ex-Zynga Dallas studio / Ensemble Studios",
+    "linkedin": null,
+    "source": "https://gameworldobserver.com/2022/03/25/netflix-acquires-boss-fight-entertainment-dungeon-boss"
+   },
+   {
+    "name": "Bill Jackson",
+    "role": "Co-founder",
+    "background": "Ex-Zynga Dallas / Ensemble Studios",
+    "linkedin": null,
+    "source": "https://gameworldobserver.com/2022/03/25/netflix-acquires-boss-fight-entertainment-dungeon-boss"
+   },
+   {
+    "name": "Scott Winsett",
+    "role": "Co-founder",
+    "background": "Ex-Zynga Dallas / Ensemble Studios",
+    "linkedin": null,
+    "source": "https://gameworldobserver.com/2022/03/25/netflix-acquires-boss-fight-entertainment-dungeon-boss"
+   }
+  ],
+  "popularity": "Known for mobile RPG Dungeon Boss; founded 2013; offices in Allen, Austin, Seattle.",
+  "popularity_sources": [
+   "https://gameworldobserver.com/2022/03/25/netflix-acquires-boss-fight-entertainment-dungeon-boss",
+   "https://www.pocketgamer.biz/netflix-acquires-boss-fight-entertainment"
+  ],
+  "other_factors": "Netflix's third game studio after Night School and Next Games; founders praised ad-free, no-IAP model. Studio status after 2022 not checked.",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "high",
+  "notes": "Terms undisclosed."
+ },
+ {
+  "id": "openai_orchestra_bio_202610",
+  "target": "Orchestra Bio",
+  "buyerId": "openai",
+  "verified": true,
+  "investors": [
+   {
+    "name": "8VC",
+    "type": "VC",
+    "note": "Led 2025 Series A per 8VC profile"
+   },
+   {
+    "name": "Andreessen Horowitz",
+    "type": "VC",
+    "note": "participant"
+   },
+   {
+    "name": "Atria",
+    "type": "VC",
+    "note": "participant"
+   },
+   {
+    "name": "Haystack Fund",
+    "type": "VC",
+    "note": "listed by CB Insights"
+   }
+  ],
+  "total_funding": "~$20M",
+  "valuation": null,
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Ashoka Rajendra",
+    "role": "CEO (per single German-language report)",
+    "background": "Previously head of product management at Benchling",
+    "linkedin": null,
+    "source": "https://eu.36kr.com/de/p/4035266653230212"
+   }
+  ],
+  "popularity": "Exited stealth Aug 2025 with ~$20M; team ~12 people at that time; no customer metrics found.",
+  "popularity_sources": [
+   "https://aiweekly.co/alerts/openai-acquires-orchestra-bio-to-fold-agentic-drug-program-layer-into-rosalind"
+  ],
+  "other_factors": "Acquired Oct 20, 2026; folded into OpenAI's Rosalind life-sciences suite (used by Moderna, Novo Nordisk); framed as race with Anthropic in science. Terms undisclosed.",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "medium",
+  "notes": "Founder identity from single source; one outlet had a reversed headline (error)."
+ },
+ {
+  "id": "openai_glass_imaging_202609",
+  "target": "Glass Imaging",
+  "buyerId": "openai",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Insight Partners",
+    "type": "VC",
+    "note": "Led $20M Series A May 2025"
+   },
+   {
+    "name": "GV",
+    "type": "VC",
+    "note": "led $9.3M extended seed 2024"
+   },
+   {
+    "name": "Future Ventures",
+    "type": "VC",
+    "note": ""
+   },
+   {
+    "name": "Abstract Ventures",
+    "type": "VC",
+    "note": ""
+   },
+   {
+    "name": "LDV Capital",
+    "type": "VC",
+    "note": "led 2021 seed"
+   },
+   {
+    "name": "GroundUP Ventures",
+    "type": "VC",
+    "note": "2021 seed"
+   }
+  ],
+  "total_funding": "~$31.5M (CB Insights)",
+  "valuation": "~$100M (2025 round, reported); acquisition reportedly >$300M (WSJ)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Ziv Attar",
+    "role": "Founder & CEO",
+    "background": "Former Apple engineer (camera)",
+    "linkedin": null,
+    "source": "https://www.verdict.co.uk/glass-imaging-secures-20m/"
+   },
+   {
+    "name": "Tom Bishop",
+    "role": "Founder & CTO",
+    "background": "Former Apple engineer (imaging)",
+    "linkedin": null,
+    "source": "https://www.verdict.co.uk/glass-imaging-secures-20m/"
+   }
+  ],
+  "popularity": "GlassAI neural ISP reportedly shipped in Honor smartphones.",
+  "popularity_sources": [
+   "https://www.techrepublic.com/article/news-openai-glass-imaging-camera-startup-acquisition/",
+   "https://dealroom.co/news/150737-openai-buys-camera-ai-startup-glass-imaging-in-300m-deal/"
+  ],
+  "other_factors": "Tied to OpenAI consumer hardware ambitions; deal reportedly completed Sep 14, 2026; neither company has confirmed publicly.",
+  "primary_motive": "technology_ip",
+  "confidence": "medium",
+  "notes": "Based on WSJ-sourced reports; unconfirmed officially; whether founders joined OpenAI not verified."
+ },
+ {
+  "id": "openai_nextslide_202608",
+  "target": "NextSlide",
+  "buyerId": "openai",
+  "verified": true,
+  "investors": [],
+  "total_funding": "unknown",
+  "valuation": null,
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Ahmed Beshry",
+    "role": "Founder",
+    "background": "Co-founded Caper AI (AI shopping carts), acquired by Instacart in Oct 2021 (~$350M reported)",
+    "linkedin": null,
+    "source": "https://www.unite.ai/openai-acquires-nextslide-the-ai-presentation-startup/"
+   }
+  ],
+  "popularity": "No traction metrics found; product shut down, site shows farewell note.",
+  "popularity_sources": [
+   "https://the-decoder.com/openai-acquires-nextslide-to-bring-ai-generated-presentations-into-chatgpt/",
+   "https://www.implicator.ai/openai-acquires-nextslide-discloses-deal-months-late/"
+  ],
+  "other_factors": "Disclosed Aug 8, 2026 via LinkedIn post; deal done earlier in 2026; team works on ChatGPT; part of OpenAI office-productivity/B2B push vs Anthropic.",
+  "primary_motive": "talent",
+  "confidence": "high",
+  "notes": "Terms and headcount undisclosed."
+ },
+ {
+  "id": "openai_ona___gitpod_202606",
+  "target": "Ona / Gitpod",
+  "buyerId": "openai",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Tom Preston-Werner",
+    "type": "angel",
+    "note": "Led $25M Series A (Nov 2022) per company release"
+   },
+   {
+    "name": "General Catalyst",
+    "type": "VC",
+    "note": ""
+   },
+   {
+    "name": "Speedinvest",
+    "type": "VC",
+    "note": "led seed"
+   },
+   {
+    "name": "Crane Venture Partners",
+    "type": "VC",
+    "note": ""
+   },
+   {
+    "name": "Vertex Ventures US",
+    "type": "VC",
+    "note": ""
+   },
+   {
+    "name": "MongoDB Ventures",
+    "type": "corporate",
+    "note": ""
+   },
+   {
+    "name": "Tobi Lutke, Olivier Pomel",
+    "type": "angel",
+    "note": ""
+   }
+  ],
+  "total_funding": "~$28M-$41M (sources inconsistent)",
+  "valuation": "undisclosed; unverified third-party estimate $450-500M",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Sven Efftinge",
+    "role": "Co-founder (original CEO), Kiel; TypeFox",
+    "background": "Founder of Gitpod and TypeFox",
+    "linkedin": null,
+    "source": "https://tech.eu/brief/gitpod-seed-funding/"
+   },
+   {
+    "name": "Johannes Landgraf",
+    "role": "Co-founder & CEO of Ona",
+    "background": "Led rebrand Gitpod to Ona (2025)",
+    "linkedin": null,
+    "source": "https://www.theregister.com/2025/09/03/gitpod_rebrands_as_ona/"
+   }
+  ],
+  "popularity": "OpenAI cites ~2 million developers helped; Gitpod widely used open-source cloud IDE; one unverified estimate ~$7M 2025 revenue, ~79 staff.",
+  "popularity_sources": [
+   "https://siliconangle.com/2026/06/11/openai-acquires-ai-agent-orchestration-startup-ona/",
+   "https://letsdatascience.com/news/openai-acquires-ona-to-expand-codex-65c300ec"
+  ],
+  "other_factors": "Ona team joins Codex to enable long-running cloud agents; customer-controlled execution lets Codex run in customer clouds. Announced Jun 11; closing Aug 10, 2026 per Flick Gocke Schaumburg note (one other source said still pending mid-Aug).",
+  "primary_motive": "technology_ip",
+  "confidence": "high",
+  "notes": "Third-party Redpoint investor claim not supported. Whether founders joined not verified."
+ },
+ {
+  "id": "openai_tomoro_202605",
+  "target": "Tomoro",
+  "buyerId": "openai",
+  "verified": true,
+  "investors": [],
+  "total_funding": "unknown (no VC funding found; consultancy)",
+  "valuation": "undisclosed",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Ed Broussard",
+    "role": "Co-founder & Managing Director",
+    "background": "Co-founded Mudano (acquired by Accenture 2020); set up its Edinburgh AI R&D dept 2018",
+    "linkedin": null,
+    "source": "https://futurescot.com/rapidly-expanding-scottish-ai-firm-pledges-10-million-to-fostering-homegrown-talent/amp/"
+   },
+   {
+    "name": "Albert Phelps",
+    "role": "Co-founder & Director of R&D",
+    "background": "Ex-Mudano (per context)",
+    "linkedin": null,
+    "source": "https://asiatechxsg.com/ATxSummit/speakers/albert-phelps"
+   }
+  ],
+  "popularity": "Founded 2023; ~150 engineers; clients include Tesco, Virgin Atlantic, Supercell, Fidelity International.",
+  "popularity_sources": [
+   "https://www.digit.fyi/openai-acquires-scottish-ai-firm-tomoro-in-4bn-deployment-drive/",
+   "https://pulse2.com/openai-confirms-deployment-company-launch-with-more-than-4-billion-backing-acquires-ai-consulting-firm-tomoro/amp/"
+  ],
+  "other_factors": "Flagship acquisition for OpenAI Deployment Company (OpenAI-majority, TPG-led, >$4B initial funding, 19 partners incl. Advent, Bain Capital, Brookfield, Goldman, SoftBank). Response to Anthropic enterprise push. Announced May 11, 2026; expected to close in coming months subject to approvals; closing unconfirmed.",
+  "primary_motive": "talent",
+  "confidence": "high",
+  "notes": "Buyer is OpenAI Deployment Company (majority-owned). Closing not confirmed."
+ },
+ {
+  "id": "openai_notch_202610",
+  "target": "Notch",
+  "buyerId": "openai",
+  "verified": true,
+  "investors": [
+   {
+    "name": "South Park Commons",
+    "type": "VC",
+    "note": "portfolio listing"
+   },
+   {
+    "name": "Wing Venture Capital",
+    "type": "VC",
+    "note": "per VCBacked (single aggregator)"
+   },
+   {
+    "name": "Moonfire Ventures",
+    "type": "VC",
+    "note": "same"
+   },
+   {
+    "name": "Samsung Electronics",
+    "type": "corporate",
+    "note": "same"
+   },
+   {
+    "name": "Angels: Balaji Srinivasan, Casey Neistat, Immad Akhund, Siqi Chen",
+    "type": "angel",
+    "note": "per StartupIntros"
+   }
+  ],
+  "total_funding": "~$8M seed (Oct 2025; single aggregator)",
+  "valuation": null,
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Vinay Jain",
+    "role": "Co-founder; acqui-hired by OpenAI",
+    "background": "Previously built ad products at Meta",
+    "linkedin": null,
+    "source": "https://dealroom.co/news/163021-openai-acquihires-founders-of-ai-marketing-startup-notch/"
+   },
+   {
+    "name": "Aman Jain",
+    "role": "Co-founder; acqui-hired",
+    "background": "~10 years 0-to-1 work at Twitter, Instagram, WhatsApp, Meta internal innovation lab",
+    "linkedin": null,
+    "source": "https://www.southparkcommons.com/companies/notch-2059f/"
+   }
+  ],
+  "popularity": "No user/revenue metrics found; AI agents to create/test ads.",
+  "popularity_sources": [
+   "https://dealroom.co/news/163021-openai-acquihires-founders-of-ai-marketing-startup-notch/"
+  ],
+  "other_factors": "Seen as signal of OpenAI's advertising push; reported Oct 15, 2026; value undisclosed. Beware name collision with unrelated Israeli Notch ($30M Series A).",
+  "primary_motive": "talent",
+  "confidence": "medium",
+  "notes": "Funding from a thin aggregator source."
+ },
+ {
+  "id": "openai_hiro_finance_202604",
+  "target": "Hiro Finance",
+  "buyerId": "openai",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Ribbit Capital",
+    "type": "VC",
+    "note": "per TNW"
+   },
+   {
+    "name": "General Catalyst",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "Restive",
+    "type": "VC",
+    "note": null
+   }
+  ],
+  "total_funding": "undisclosed",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Ethan Bloch",
+    "role": "Founder/CEO; joined OpenAI",
+    "background": "Serial founder: Flowtown (sold ~$4.5-5M, 2009), Digit (acquired by Oportun 2021 for >$200M); Hiro was his 15th project",
+    "linkedin": null,
+    "source": "https://thenextweb.com/news/openai-acquires-hiro-finance"
+   },
+   {
+    "name": "Rushabh Doshi",
+    "role": "Co-founder (reported); joining status unconfirmed",
+    "background": "unknown",
+    "linkedin": null,
+    "source": "https://www.crowdfundinsider.com/tag/hiro/"
+   }
+  ],
+  "popularity": "Early: founded 2023, AI planner launched ~5 months pre-deal; Bloch claimed platform helped manage >$1B in assets (self-reported). No user/revenue figures. ~10 employees.",
+  "popularity_sources": [
+   "https://thenextweb.com/news/openai-acquires-hiro-finance",
+   "https://thepaypers.com/fintech/news/openai-acquires-ai-personal-finance-startup-hiro-finance"
+  ],
+  "other_factors": "Acqui-hire of ~10 staff to add consumer financial-planning product talent to ChatGPT; Hiro shut down Apr 20, 2026, data deleted by May 13. Press raised regulatory/data questions. Price undisclosed.",
+  "primary_motive": "talent",
+  "confidence": "high",
+  "notes": "Announced ~Apr 13, 2026. Funding amount never public.",
+  "valuation": "unknown"
+ },
+ {
+  "id": "anthropic_opaque_systems_202610",
+  "target": "Opaque Systems",
+  "buyerId": "anthropic",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Ion Stoica",
+    "type": "angel/co-founder",
+    "note": "named as backer"
+   },
+   {
+    "name": "Series A investors (2022, $22M)",
+    "type": "VC",
+    "note": "names not retrieved"
+   }
+  ],
+  "total_funding": "unknown (Series A $22M 2022 + $24M Series B 2026 reported)",
+  "valuation": "~$300M at Series B (reported by AI Weekly)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Aaron Fulkerson",
+    "role": "CEO (appointed, not founder); joined Anthropic",
+    "background": "Appointed Opaque CEO (CIO Influence press release); earlier background not verified here",
+    "linkedin": null,
+    "source": "https://aiweekly.co/alerts/anthropic-acquires-opaque-systems-hires-its-ceo-and-cto"
+   },
+   {
+    "name": "Rishabh Poddar",
+    "role": "Co-founder & CTO; joined Anthropic",
+    "background": "PhD UC Berkeley (RISELab, advisor Raluca Ada Popa); IIT Kharagpur; ex-IBM Research; BCG",
+    "linkedin": null,
+    "source": "https://people.eecs.berkeley.edu/~rishabhp"
+   }
+  ],
+  "popularity": "Spun out of Berkeley RISELab (MC2 open source project); Anthropic was already an Opaque customer. No other metrics found.",
+  "popularity_sources": [
+   "https://aiweekly.co/alerts/anthropic-acquires-opaque-systems-hires-its-ceo-and-cto",
+   "https://constellationr.com/insights/news/anthropic-licenses-releases-opaque-acquihire"
+  ],
+  "other_factors": "License-and-hire; Opaque winding down; Anthropic brings confidential computing/verifiable AI in-house, existing customer relationship, regulated/sovereign deployments. Reports conflict on whether all or only some staff moved.",
+  "primary_motive": "technology_ip",
+  "confidence": "medium",
+  "notes": "Announced ~Oct 13, 2026. Terms undisclosed; no Anthropic primary statement found in results. Investor list for Series A/B incomplete."
+ },
+ {
+  "id": "anthropic_stainless_202605",
+  "target": "Stainless",
+  "buyerId": "anthropic",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Sequoia Capital",
+    "type": "VC",
+    "note": "per TechCrunch"
+   },
+   {
+    "name": "Andreessen Horowitz",
+    "type": "VC",
+    "note": "per TechCrunch"
+   }
+  ],
+  "valuation": "~$150M prior (Dec 2025) per The Information; price reported >=$300M",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Alex Rattray",
+    "role": "Founder/CEO; joined Anthropic",
+    "background": "Former Stripe engineer on developer products",
+    "linkedin": null,
+    "source": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/"
+   }
+  ],
+  "popularity": "SDK generator behind official SDKs of Anthropic, OpenAI, Google, Cloudflare; customers incl. Replicate, Runway.",
+  "popularity_sources": [
+   "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+   "https://anthropic.com/news/anthropic-acquires-stainless"
+  ],
+  "other_factors": "Supply-chain/vertical integration and defensive: removes tooling from rival labs; hosted products wound down, existing customers keep generated SDKs. Anthropic was an existing customer.",
+  "primary_motive": "vertical_integration",
+  "confidence": "high",
+  "notes": "Announced May 18, 2026. Price is press-reported (The Information), not confirmed. Total funding not found.",
+  "total_funding": "unknown"
+ },
+ {
+  "id": "anthropic_runhouse_202604",
+  "target": "Runhouse",
+  "buyerId": "anthropic",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Work-Bench",
+    "type": "VC",
+    "note": "led $5M seed"
+   },
+   {
+    "name": "Hetz Ventures",
+    "type": "VC",
+    "note": "participated"
+   }
+  ],
+  "total_funding": "~$5M seed (Calcalist)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Donny Greenberg",
+    "role": "Co-founder/CEO, New York",
+    "background": "Background not verified in results",
+    "linkedin": null,
+    "source": "https://www.calcalistech.com/ctechnews/article/b1dsxqr6zl"
+   },
+   {
+    "name": "Josh Lewittes",
+    "role": "Co-founder/CTO, Israel",
+    "background": "Background not verified in results",
+    "linkedin": "https://il.linkedin.com/in/joshua-lewittes",
+    "source": "https://www.calcalistech.com/ctechnews/article/b1dsxqr6zl"
+   }
+  ],
+  "popularity": "Small (~10 people, founded 2023); product Kubetorch for ML on Kubernetes. No traction metrics found.",
+  "popularity_sources": [
+   "https://www.calcalistech.com/ctechnews/article/b1dsxqr6zl",
+   "https://www.trysignalbase.com/news/acquisitions/runhouse-acquired-by-anthropic-acquisition"
+  ],
+  "other_factors": "Acqui-hire, mostly in Anthropic stock at modest valuation; compute orchestration fits continuous model training; Anthropic interest in Israeli talent (per Hetz).",
+  "primary_motive": "talent",
+  "confidence": "medium",
+  "notes": "Late Apr 2026. No official Anthropic announcement found; relies on Calcalist. Whether all staff joined unconfirmed.",
+  "valuation": "unknown"
+ },
+ {
+  "id": "anthropic_coefficient_bio_202604",
+  "target": "Coefficient Bio",
+  "buyerId": "anthropic",
+  "verified": true,
+  "investors": [],
+  "total_funding": "no publicly disclosed funding",
+  "valuation": "~$400M all-stock deal value (press-reported; The Information)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Nathan C. Frey",
+    "role": "Co-founder & CTO",
+    "background": "Ex group leader/principal scientist at Prescient Design (Genentech), biological foundation models; PhD materials science, UPenn",
+    "linkedin": null,
+    "source": "https://substack.com/@ncfrey"
+   },
+   {
+    "name": "Samuel Stanton",
+    "role": "Co-founder",
+    "background": "Biological foundation models / ML for biomolecule design; ex-Prescient Design/Genentech (per press, not independently verified)",
+    "linkedin": null,
+    "source": "https://pulse2.com/anthropic-acquired-coefficient-bio-in-a-400-million-deal-report/amp/"
+   },
+   {
+    "name": "Aris Theologis",
+    "role": "CEO (single-source claim, conflicts with others)",
+    "background": "unknown",
+    "linkedin": null,
+    "source": "https://www.htworld.co.uk/?p=49171"
+   }
+  ],
+  "popularity": "Stealth; no public product or revenue; <10 employees, founded ~Aug 2025.",
+  "popularity_sources": [
+   "https://www.fiercebiotech.com/biotech/anthropic-acquires-stealth-ai-startup-coefficient-bio-400m-deal"
+  ],
+  "other_factors": "Team joins Anthropic healthcare & life sciences (Eric Kauderer-Abrams); extends Claude for Life Sciences/Healthcare; a bet on future potential. Price per head very high.",
+  "primary_motive": "talent",
+  "confidence": "medium",
+  "notes": "Not confirmed by Anthropic in sources found. Founder lists conflict across outlets (Theologis/Joyce Hong vs Stanton/Frey). No investors found."
+ },
+ {
+  "id": "anthropic_vercept_202602",
+  "target": "Vercept",
+  "buyerId": "anthropic",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Fifty Years (Seth Bannon)",
+    "type": "VC",
+    "note": "lead"
+   },
+   {
+    "name": "Eric Schmidt",
+    "type": "angel",
+    "note": null
+   },
+   {
+    "name": "Jeff Dean",
+    "type": "angel",
+    "note": null
+   },
+   {
+    "name": "Kyle Vogt",
+    "type": "angel",
+    "note": null
+   },
+   {
+    "name": "Arash Ferdowsi",
+    "type": "angel",
+    "note": null
+   },
+   {
+    "name": "Oren Etzioni",
+    "type": "co-founder/investor",
+    "note": null
+   }
+  ],
+  "total_funding": "~$50M (CEO Ehsani via LinkedIn)",
+  "valuation": "unknown (undisclosed price)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Kiana Ehsani",
+    "role": "Co-founder/CEO; joined Anthropic",
+    "background": "PhD Univ. of Washington ('21); senior researcher leading robotics/embodied AI at Ai2",
+    "linkedin": null,
+    "source": "https://www.cs.washington.edu/?p=62872"
+   },
+   {
+    "name": "Luca Weihs",
+    "role": "Co-founder; joined Anthropic",
+    "background": "Former Allen Institute for AI researcher",
+    "linkedin": null,
+    "source": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/"
+   },
+   {
+    "name": "Ross Girshick",
+    "role": "Co-founder; joined Anthropic",
+    "background": "Former Ai2 researcher (long-time computer vision researcher, R-CNN author; ex-FAIR - from general knowledge, not verified in fetched pages)",
+    "linkedin": null,
+    "source": "https://anthropic.com/news/acquires-vercept"
+   }
+  ],
+  "popularity": "Product Vy (cloud computer-use agent); Etzioni cited 'so much traction' but no metrics. Co-founder Matt Deitke left for Meta.",
+  "popularity_sources": [
+   "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/"
+  ],
+  "other_factors": "Perception/interaction research maps onto Anthropic computer-use hard problems; Vy shut down Mar 25; not all founders joined (Etzioni, Deitke).",
+  "primary_motive": "talent",
+  "confidence": "high",
+  "notes": "Announced Feb 25, 2026. Ledger says 'some founders joined' - consistent."
+ },
+ {
+  "id": "anthropic_bun_202512",
+  "target": "Bun",
+  "buyerId": "anthropic",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Y Combinator",
+    "type": "accelerator",
+    "note": "Bun listed on YC company page"
+   },
+   {
+    "name": "Other VCs",
+    "type": "VC",
+    "note": "not retrieved; unverified"
+   }
+  ],
+  "total_funding": "~$26M (founder statement per ledger; not independently re-verified)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Jarred Sumner",
+    "role": "Creator/founder of Bun (Oven); joined Anthropic",
+    "background": "Ex-Stripe; created Bun 2021; YC founder",
+    "linkedin": null,
+    "source": "https://ycombinator.com/companies/bun"
+   }
+  ],
+  "popularity": ">7M monthly downloads, >82k GitHub stars; users incl. Midjourney, Lovable; already core to Claude Code (native installer).",
+  "popularity_sources": [
+   "https://pulse2.com/anthropic-acquires-bun/",
+   "https://devops.com/anthropic-acquires-bun-to-accelerate-ai-coding-tools/"
+  ],
+  "other_factors": "Infrastructure for Claude Code ($1B run-rate) and Agent SDK; stays MIT open source; avoids VC monetization pressure; existing dependency.",
+  "primary_motive": "technology_ip",
+  "confidence": "high",
+  "notes": "Announced Dec 2, 2025. Revenue $0 claim from ledger, not re-verified.",
+  "valuation": "unknown"
+ },
+ {
+  "id": "amd_world_labs_202609",
+  "target": "World Labs",
+  "buyerId": "amd",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Andreessen Horowitz",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "Radical Ventures",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "AMD",
+    "type": "strategic",
+    "note": "listed by CB Insights as 2026 round investor"
+   },
+   {
+    "name": "NVIDIA",
+    "type": "strategic",
+    "note": null
+   },
+   {
+    "name": "Fidelity",
+    "type": "asset manager",
+    "note": null
+   },
+   {
+    "name": "Autodesk",
+    "type": "strategic",
+    "note": null
+   },
+   {
+    "name": "Emerson Collective",
+    "type": "investor",
+    "note": null
+   },
+   {
+    "name": "Sea",
+    "type": "strategic",
+    "note": null
+   }
+  ],
+  "total_funding": "~$1.2B (trackers)",
+  "valuation": "Deal ~$8.2B all-stock; prior valuations conflicting ($5-6.7B)",
+  "buyer_was_investor": true,
+  "founders": [
+   {
+    "name": "Fei-Fei Li",
+    "role": "Founder; becomes AMD EVP & Chief Scientist",
+    "background": "Stanford CS professor, ImageNet creator",
+    "linkedin": null,
+    "source": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
+   },
+   {
+    "name": "Justin Johnson",
+    "role": "Co-founder; leads team within AMD",
+    "background": "unknown in sources",
+    "linkedin": null,
+    "source": "https://aiweekly.co/alerts/amd-agrees-to-buy-fei-fei-lis-world-labs-for-82b-names-her-evp-and-chief"
+   },
+   {
+    "name": "Ben Mildenhall",
+    "role": "Co-founder; leads team within AMD",
+    "background": "unknown in sources (NeRF co-author from general knowledge)",
+    "linkedin": null,
+    "source": "https://aiweekly.co/alerts/amd-agrees-to-buy-fei-fei-lis-world-labs-for-82b-names-her-evp-and-chief"
+   }
+  ],
+  "popularity": "Marble world-model product; no user/revenue figures found. Prior AMD partnership on inference and training.",
+  "popularity_sources": [
+   "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
+  ],
+  "other_factors": "AMD says frontier workload insight shapes hardware/software roadmap; competitive response to Nvidia (Cosmos, Hugging Face buy); signed Sep 28, expected close end-2026 pending regulators.",
+  "primary_motive": "technology_ip",
+  "confidence": "medium",
+  "notes": "Pending, not closed. AMD investor status rests on CB Insights only; Li's role makes talent a strong secondary motive."
+ },
+ {
+  "id": "amd_taalas_202608",
+  "target": "Taalas",
+  "buyerId": "amd",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Quiet Capital",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "Pierre Lamond",
+    "type": "angel/VC",
+    "note": null
+   },
+   {
+    "name": "Fidelity",
+    "type": "asset manager",
+    "note": "single-source"
+   }
+  ],
+  "total_funding": "~$219M",
+  "valuation": "undisclosed (an estimate of ~$750M is unconfirmed)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Ljubisa Bajic",
+    "role": "Founder/CEO; team joins AMD Boppana's group at close",
+    "background": "Tenstorrent co-founder; ex-AMD and Nvidia architect",
+    "linkedin": null,
+    "source": "https://siliconangle.com/2026/08/06/amd-acquires-taalas-hardwire-ai-models-silicon/"
+   }
+  ],
+  "popularity": "HC1 test chip claimed ~17k tokens/s on Llama 3.1 8B (company claim); raised $169M Feb 2026.",
+  "popularity_sources": [
+   "https://www.sdxcentral.com/news/amd-acquires-ai-chip-startup-taalas-to-further-support-inference-workloads/",
+   "https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference"
+  ],
+  "other_factors": "Model-specific silicon to combine with Instinct GPUs; The Register: real acquisition not acquihire; third AMD AI deal in nine months.",
+  "primary_motive": "technology_ip",
+  "confidence": "high",
+  "notes": "Agreement announced Aug 6, 2026; subject to regulatory approval, close not confirmed; ledger 'completed' may be premature."
+ },
+ {
+  "id": "amd_mext_202606",
+  "target": "MEXT",
+  "buyerId": "amd",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Clear Ventures",
+    "type": "VC",
+    "note": "led first institutional round"
+   },
+   {
+    "name": "DN Capital",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "Uncorrelated Ventures",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "FJ Labs",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "Page One Ventures",
+    "type": "VC",
+    "note": null
+   }
+  ],
+  "total_funding": "~$8-10.6M (sources vary)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Gary Smerdon",
+    "role": "Co-founder/CEO",
+    "background": "Previously ran TidalScale (acquired by HPE 2022)",
+    "linkedin": null,
+    "source": "https://www.nextplatform.com/store/2026/06/29/amd-stretches-server-dram-with-flash-extended-memory/5263848"
+   },
+   {
+    "name": "David Reed",
+    "role": "Co-founder",
+    "background": "unknown",
+    "linkedin": null,
+    "source": "https://www.nextplatform.com/store/2026/06/29/amd-stretches-server-dram-with-flash-extended-memory/5263848"
+   },
+   {
+    "name": "Bobby Minnear",
+    "role": "Co-founder",
+    "background": "unknown",
+    "linkedin": null,
+    "source": "https://www.nextplatform.com/store/2026/06/29/amd-stretches-server-dram-with-flash-extended-memory/5263848"
+   }
+  ],
+  "popularity": "Out of stealth only April 2026; claims 2-4x memory expansion, 50% infra cost cut (company claims); partnered with AMD since 2024.",
+  "popularity_sources": [
+   "https://www.amd.com/en/blogs/2026/amd-acquires-mext-for-memory-optimization.html",
+   "https://www.datacenterdynamics.com/en/news/amd-acquires-storage-software-startup-mext/"
+  ],
+  "other_factors": "Memory a bottleneck for AI/HPC; integrate predictive memory across AMD data center portfolio; prior partnership.",
+  "primary_motive": "technology_ip",
+  "confidence": "high",
+  "notes": "AMD blog dated Jun 15, 2026; price undisclosed.",
+  "valuation": "unknown"
+ },
+ {
+  "id": "amd_mk1_202511",
+  "target": "MK1",
+  "buyerId": "amd",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Susa Ventures",
+    "type": "VC",
+    "note": "PitchBook"
+   },
+   {
+    "name": "Ascent Equity Partners",
+    "type": "investor",
+    "note": null
+   },
+   {
+    "name": "Interface Capital",
+    "type": "investor",
+    "note": null
+   },
+   {
+    "name": "Rsquared",
+    "type": "investor",
+    "note": null
+   }
+  ],
+  "total_funding": "unknown",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Paul Merolla",
+    "role": "Founder; joined AMD AI Group",
+    "background": "Neuralink co-founder; co-led chip design and neural decoding algorithms",
+    "linkedin": null,
+    "source": "https://www.crnasia.com/news-network/2025/amd-buys-ai-startup-led-by-neuralink-veterans-in-ongoing-acq"
+   },
+   {
+    "name": "Thong Wei Koh",
+    "role": "Founder",
+    "background": "Former Neuralink team lead (neural signal processing)",
+    "linkedin": null,
+    "source": "https://www.crnasia.com/news-network/2025/amd-buys-ai-startup-led-by-neuralink-veterans-in-ongoing-acq"
+   }
+  ],
+  "popularity": "Flywheel engine serving >1 trillion tokens/day; ~9 employees; optimized for AMD Instinct.",
+  "popularity_sources": [
+   "https://www.amd.com/en/blogs/2025/amd-acquires-mk1-to-advance-ai-inference-performance.html"
+  ],
+  "other_factors": "Strengthen enterprise AI stack and inference/reasoning on Instinct; part of AMD acquisition spree vs Nvidia.",
+  "primary_motive": "technology_ip",
+  "confidence": "high",
+  "notes": "Closed Nov 10, 2025. Team includes ex-Neuralink, Meta, Tesla, Apple engineers.",
+  "valuation": "unknown"
+ },
+ {
+  "id": "amd_brium_202506",
+  "target": "Brium",
+  "buyerId": "amd",
+  "verified": true,
+  "investors": [],
+  "founders": [],
+  "popularity": "Small compiler/AI software team; contributes to OpenAI Triton, WAVE DSL, SHARK/IREE. No usage metrics found.",
+  "popularity_sources": [
+   "https://www.amd.com/en/blogs/2025/amd-acquires-brium-to-strengthen-open-ai-software-ecosystem.html"
+  ],
+  "other_factors": "Open AI software ecosystem and inference-stack optimization for Instinct GPUs; reduces hardware-specific dependence; follows Silo AI, Nod.ai, Mipsology.",
+  "primary_motive": "talent",
+  "confidence": "medium",
+  "notes": "Announced Jun 4, 2025. Founder names, investors, funding not found in my searches.",
+  "buyer_was_investor": null,
+  "valuation": "unknown",
+  "total_funding": "unknown"
+ },
+ {
+  "id": "qualcomm_akeana_202610",
+  "target": "Akeana",
+  "buyerId": "qualcomm",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Kleiner Perkins",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "Mayfield",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "Fidelity",
+    "type": "asset manager",
+    "note": null
+   },
+   {
+    "name": "Clearstone Venture Partners",
+    "type": "VC",
+    "note": "per SoCalTech headline, unverified detail"
+   }
+  ],
+  "total_funding": ">$100M",
+  "buyer_was_investor": null,
+  "founders": [
+   {
+    "name": "Rabin Sugumar",
+    "role": "Founder/CEO; now Qualcomm VP of Engineering",
+    "background": "Founded by ex-Marvell server processor engineers",
+    "linkedin": null,
+    "source": "https://dealroom.co/news/164707-qualcomm-buys-risc-v-startup-akeana-to-push-into-ai-and-data-center-chip/"
+   }
+  ],
+  "popularity": "Samsung Foundry partner; Alpine server test chip design completed Dec 2025. No customer commitments disclosed.",
+  "popularity_sources": [
+   "https://www.sammyfans.com/2026/10/21/qualcomm-acquires-samsung-foundry-partner-akeana-to-expand-ai-chip-business/"
+  ],
+  "other_factors": "Expands RISC-V CPU/data-center push after Ventana; team joins Qualcomm.",
+  "primary_motive": "technology_ip",
+  "confidence": "medium",
+  "notes": "Reported ~Oct 21, 2026; terms undisclosed; no Qualcomm press release seen.",
+  "valuation": "unknown"
+ },
+ {
+  "id": "qualcomm_picknik_robotics_202609",
+  "target": "PickNik Robotics",
+  "buyerId": "qualcomm",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Stellar Ventures",
+    "type": "VC",
+    "note": "led $2M pre-seed 2023"
+   },
+   {
+    "name": "Cypress Growth Capital",
+    "type": "growth lender",
+    "note": null
+   }
+  ],
+  "total_funding": "$2M pre-seed + ~$5M non-dilutive SBIR (as of 2023)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Dave Coleman",
+    "role": "Founder/CEO",
+    "background": "Long-time MoveIt maintainer; bootstrapped PickNik",
+    "linkedin": null,
+    "source": "https://www.automate.org/news/stellar-ventures-and-cypress-growth-capital-commit-to-fueling-the-future-of-robotics-software"
+   }
+  ],
+  "popularity": "Maintainer of MoveIt open-source manipulation framework (very widely used in ROS); MoveIt Pro commercial product. No numeric stats retrieved.",
+  "popularity_sources": [
+   "https://www.therobotreport.com/qualcomm-acquires-picknik-robotics-keep-moveit-open-source/"
+  ],
+  "other_factors": "Physical AI/robotics push; integrate with Dragonwing and Arduino; pledges MoveIt stays open source; announced at ROSCon Toronto.",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "high",
+  "notes": "Announced Sep 23, 2026, pending close. Whether Coleman joins not confirmed.",
+  "valuation": "unknown"
+ },
+ {
+  "id": "qualcomm_modular_202607",
+  "target": "Modular",
+  "buyerId": "qualcomm",
+  "verified": true,
+  "investors": [
+   {
+    "name": "General Catalyst",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "GV",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "Greylock",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "SV Angel",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "US Innovative Technology Fund (Thomas Tull)",
+    "type": "VC",
+    "note": "led $250M round"
+   },
+   {
+    "name": "DFJ Growth",
+    "type": "VC",
+    "note": null
+   }
+  ],
+  "total_funding": "~$380M",
+  "valuation": "$1.6B (Sep 2025); deal ~$3.9B in stock (reported)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Chris Lattner",
+    "role": "Co-founder/CEO; now Qualcomm EVP Advanced AI Software & Platforms",
+    "background": "Creator of LLVM, Swift, MLIR; ex-Apple, Tesla, Google",
+    "linkedin": null,
+    "source": "https://aiweekly.co/alerts/qualcomm-closes-modular-deal-names-lattner-ai-software-evp"
+   }
+  ],
+  "popularity": "Mojo/MAX/Modular Cloud; no usage numbers retrieved.",
+  "popularity_sources": [
+   "https://www.unite.ai/qualcomm-closes-all-stock-acquisition-of-compiler-startup-modular/"
+  ],
+  "other_factors": "Challenge CUDA ecosystem; hardware-agnostic software layer for data center AI; stock deal up to 19.2M QCOM shares; brands retained.",
+  "primary_motive": "technology_ip",
+  "confidence": "high",
+  "notes": "Closed ~Jul 29, 2026; announcement date reported Jun 21-24. Valuation per aggregator (AIwire)."
+ },
+ {
+  "id": "qualcomm_augentix_202601",
+  "target": "Augentix",
+  "buyerId": "qualcomm",
+  "verified": true,
+  "investors": [],
+  "founders": [
+   {
+    "name": "Hung-Chi Fan",
+    "role": "CEO",
+    "background": "unknown",
+    "linkedin": null,
+    "source": "https://www.fonearena.com/blog/470687/qualcomm-acquires-augentix.html/amp"
+   }
+  ],
+  "popularity": "Taiwan (Hsinchu) fabless ISP/multimedia SoC maker founded 2014; MeitY endorsed as trusted supply chain option for India.",
+  "popularity_sources": [
+   "https://www.fonearena.com/blog/470687/qualcomm-acquires-augentix.html/amp",
+   "https://t2online.in/tech/tech-news/what-qualcomm-gains-from-its-acquisition-of-augentix/2002634"
+  ],
+  "other_factors": "Broaden Qualcomm Insight smart-camera portfolio with cost-efficient chips; India OEM/ODM access.",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "medium",
+  "notes": "Ledger date wrong: announced Dec 9, 2025. Investors/funding not found.",
+  "buyer_was_investor": null,
+  "valuation": "unknown",
+  "total_funding": "unknown"
+ },
+ {
+  "id": "qualcomm_alphawave_ip_202512",
+  "target": "Alphawave IP",
+  "buyerId": "qualcomm",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Public (LSE-listed)",
+    "type": "public",
+    "note": "no VC"
+   }
+  ],
+  "total_funding": "public company",
+  "valuation": "$2.3B per 10-Q (headline $2.4B)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Tony Pialis",
+    "role": "Co-founder & CEO; leads Qualcomm data center business",
+    "background": "Alphawave co-founder (prior background not verified here)",
+    "linkedin": null,
+    "source": "https://www.qualcomm.com/news/releases/2025/12/qualcomm-completes-acquisition-of-alphawave-semi"
+   }
+  ],
+  "popularity": "Established public connectivity IP company.",
+  "popularity_sources": [
+   "https://www.nasdaq.com/press-release/qualcomm-completes-acquisition-alphawave-semi-2025-12-18"
+  ],
+  "other_factors": "High-speed connectivity/custom silicon for Qualcomm data-center push; closed ~a quarter early.",
+  "primary_motive": "vertical_integration",
+  "confidence": "high",
+  "notes": "Closed Dec 18, 2025. Not a startup; no investors in VC sense."
+ },
+ {
+  "id": "qualcomm_ventana_micro_systems_202512",
+  "target": "Ventana Micro Systems",
+  "buyerId": "qualcomm",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Sehat Sutardja & Weili Dai",
+    "type": "angel",
+    "note": "led $38M Series B 2021"
+   },
+   {
+    "name": "Wise Road Capital",
+    "type": "investor",
+    "note": "Dealroom"
+   },
+   {
+    "name": "Qualcomm",
+    "type": "strategic",
+    "note": "CB Insights lists it in acquisition round, ambiguous"
+   }
+  ],
+  "total_funding": "~$98-99M",
+  "buyer_was_investor": null,
+  "founders": [
+   {
+    "name": "Balaji Baktha",
+    "role": "Founder/CEO",
+    "background": "unknown in sources",
+    "linkedin": null,
+    "source": "https://www.datacenterdynamics.com/en/news/qualcomm-buys-risc-v-server-chip-maker-ventana-microsystems/"
+   }
+  ],
+  "popularity": "RISC-V server CPU designer (2018); Veryon products delayed per press.",
+  "popularity_sources": [
+   "https://www.datacenterdynamics.com/en/news/qualcomm-buys-risc-v-server-chip-maker-ventana-microsystems/"
+  ],
+  "other_factors": "Deepen RISC-V CPU expertise for data center/Oryon; hedge vs Arm.",
+  "primary_motive": "technology_ip",
+  "confidence": "medium",
+  "notes": "Announced ~Dec 10, 2025; terms undisclosed. Prior Qualcomm investment not clearly established.",
+  "valuation": "unknown"
+ },
+ {
+  "id": "qualcomm_arduino_202510",
+  "target": "Arduino",
+  "buyerId": "qualcomm",
+  "verified": true,
+  "investors": [],
+  "founders": [
+   {
+    "name": "Massimo Banzi",
+    "role": "Co-founder; reportedly leaving after 20 years",
+    "background": "Arduino co-founder",
+    "linkedin": null,
+    "source": "https://en.ilsole24ore.com/art/qualcomm-buys-arduino-the-ivrea-company-celebrates-open-source-boards-AHg2DV2C"
+   },
+   {
+    "name": "Fabio Violante",
+    "role": "CEO",
+    "background": "unknown",
+    "linkedin": null,
+    "source": "https://en.ilsole24ore.com/art/qualcomm-buys-arduino-the-ivrea-company-celebrates-open-source-boards-AHg2DV2C"
+   }
+  ],
+  "popularity": "~33M users/community members (TechRadar).",
+  "popularity_sources": [
+   "https://www.techradar.com/pro/qualcomm-acquires-arduino-in-surprising-move-that-puts-it-right-on-the-edge-and-at-the-helm-of-a-33-million-strong-maker-community"
+  ],
+  "other_factors": "Developer ecosystem to democratize access to Qualcomm edge/AI (after Edge Impulse, Foundries.io); UNO Q on Dragonwing; Arduino keeps independent brand.",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "medium",
+  "notes": "Announced Oct 7, 2025 as agreement subject to regulatory approval; closing not verified. Investors not found.",
+  "buyer_was_investor": null,
+  "valuation": "unknown",
+  "total_funding": "unknown"
+ },
+ {
+  "id": "intel_mentee_robotics_202602",
+  "target": "Mentee Robotics",
+  "buyerId": "intel",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Ahren Innovation Capital",
+    "type": "VC",
+    "note": null
+   },
+   {
+    "name": "Cisco Investments",
+    "type": "corporate",
+    "note": null
+   },
+   {
+    "name": "Samsung NEXT",
+    "type": "corporate",
+    "note": null
+   },
+   {
+    "name": "Mobileye",
+    "type": "strategic",
+    "note": "listed by one tracker"
+   }
+  ],
+  "total_funding": "$17M-$50M (sources conflict)",
+  "valuation": "$900M deal ($612M cash + up to 26.2M Mobileye shares)",
+  "buyer_was_investor": null,
+  "founders": [
+   {
+    "name": "Amnon Shashua",
+    "role": "Co-founder/chairman; Mobileye CEO",
+    "background": "Hebrew University professor; co-founder Mobileye and OrCam",
+    "linkedin": null,
+    "source": "https://en.globes.co.il/en/article-1001531330"
+   },
+   {
+    "name": "Lior Wolf",
+    "role": "Co-founder",
+    "background": "Tel Aviv University professor, computer vision/ML",
+    "linkedin": null,
+    "source": "https://www.vcbacked.co/company/mentee-robotics"
+   }
+  ],
+  "popularity": "Humanoid robot demos (e.g. packing crates); series production targeted 2028. No revenue found.",
+  "popularity_sources": [
+   "https://techcrunch.com/2026/01/06/mobileye-acquires-humanoid-robot-startup-mentee-robotics-for-900m"
+  ],
+  "other_factors": "Related-party deal: Shashua (Mobileye CEO) co-founded Mentee and receives ~$341M; he recused; approved by Mobileye and Intel boards; physical AI 'Mobileye 3.0'.",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "high",
+  "notes": "LEDGER ERRORS: buyer is Mobileye (Intel ~85% owner), not Intel directly; announced Jan 6, 2026 at CES (expected Q1 close) not Feb; reported value $900M not $637M (the $637M figure not found). Closing not verified."
+ },
+ {
+  "id": "intel_inaccel_202403",
+  "target": "InAccel",
+  "buyerId": "intel",
+  "verified": true,
+  "investors": [],
+  "total_funding": "unknown (no disclosed funding found)",
+  "valuation": null,
+  "buyer_was_investor": "unknown",
+  "founders": [
+   {
+    "name": "Chris Kachris",
+    "role": "Co-founder",
+    "background": "Researcher (listed by Dealroom as one of three researcher-founders); further background not verified",
+    "linkedin": null,
+    "source": "https://greekcitytimes.com/2024/03/28/inaccel-acquired-by-intel/amp/ (company); founders per Dealroom via search snippet https://app.dealroom.co/companies/inaccel"
+   },
+   {
+    "name": "Elias Koromilas",
+    "role": "Co-founder",
+    "background": "not verified",
+    "linkedin": null,
+    "source": "https://app.dealroom.co/companies/inaccel"
+   },
+   {
+    "name": "John Stamelos",
+    "role": "Co-founder",
+    "background": "not verified",
+    "linkedin": null,
+    "source": "https://app.dealroom.co/companies/inaccel"
+   }
+  ],
+  "popularity": "Greek startup (founded 2018) offering FPGA accelerators-as-a-service and a framework integrating with Spark/Jupyter; no quantitative traction (stars, ARR, customers) found.",
+  "popularity_sources": [
+   "https://greekcitytimes.com/2024/03/28/inaccel-acquired-by-intel/amp/"
+  ],
+  "other_factors": "Intel said deal lets its FPGA business extend management and orchestration capabilities for HPC; software/orchestration tech tuck-in. Which founders joined Intel not confirmed. Date reported variously as Feb/Mar 2024; price undisclosed.",
+  "primary_motive": "technology_ip",
+  "confidence": "medium",
+  "notes": "Deal reported by Greek press and acquisition lists; I did not see an Intel primary announcement. Founder names come from a Dealroom snippet only."
+ },
+ {
+  "id": "intel_silicon_mobility_202401",
+  "target": "Silicon Mobility",
+  "buyerId": "intel",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Capital-E",
+    "type": "VC",
+    "note": "Exited via the deal"
+   },
+   {
+    "name": "Cipio Partners",
+    "type": "VC",
+    "note": "Exited via the deal"
+   }
+  ],
+  "total_funding": "unknown",
+  "valuation": "undisclosed",
+  "buyer_was_investor": false,
+  "founders": [],
+  "popularity": "French fabless company (Sophia Antipolis) with OLEA SoC family for EV powertrain/energy management and software modules; customer or revenue figures not found.",
+  "popularity_sources": [
+   "https://tech.eu/2024/01/11/intel-acquires-french-ev-soc-and-software-maker-silicon-mobility"
+  ],
+  "other_factors": "Announced at CES 2024; Intel tied it to 'AI everywhere' and a 'whole vehicle' approach to automotive, energy efficiency/EV range. Subject to approvals; closing date not confirmed in sources I read. Terms undisclosed.",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "medium",
+  "notes": "Founders/team names not found in sources. Buyer-as-investor not indicated."
+ },
+ {
+  "id": "intel_codeplay_software_202206",
+  "target": "Codeplay Software",
+  "buyerId": "intel",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Foresight Group",
+    "type": "PE/VCT manager",
+    "note": "Seller; Scottish Financial News reports \u00a348M purchase from Foresight (unconfirmed)"
+   },
+   {
+    "name": "Foresight Technology VCT",
+    "type": "VCT",
+    "note": "Per PitchBook"
+   }
+  ],
+  "total_funding": "~$2.96M per PitchBook (low confidence)",
+  "valuation": "Price undisclosed officially; reported ~\u00a348M",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Andrew Richards",
+    "role": "Founder and CEO (founded 2002)",
+    "background": "Edinburgh-based GPU/heterogeneous compute software specialist; further detail not verified",
+    "linkedin": null,
+    "source": "https://insider.co.uk/news/intel-set-acquire-codeplay-software-27128122"
+   }
+  ],
+  "popularity": "Long-standing (20 years) SYCL/oneAPI contributor; implemented SYCL used by oneAPI ecosystem; Intel was an existing partner. No numeric metrics collected.",
+  "popularity_sources": [
+   "https://thenewstack.io/intel-grabs-codeplay-as-it-repositions-for-a-diverse-chip-future/",
+   "https://www.eenewseurope.com/en/the-drivers-behind-intels-scottish-software-deal"
+  ],
+  "other_factors": "Advance SYCL/oneAPI and open standards for heterogeneous computing; Codeplay to run as Intel subsidiary within Software and Advanced Technology Group; existing partnership.",
+  "primary_motive": "technology_ip",
+  "confidence": "medium",
+  "notes": "Price figures inconsistent across sources."
+ },
+ {
+  "id": "intel_siru_innovations_202205",
+  "target": "Siru Innovations",
+  "buyerId": "intel",
+  "verified": true,
+  "investors": [],
+  "total_funding": "unknown (appears bootstrapped/IP-licensing revenue; not confirmed)",
+  "valuation": "undisclosed",
+  "buyer_was_investor": "unknown",
+  "founders": [],
+  "popularity": "Finnish GPU IP/software firm (Ulvila), ~30 employees, <$10M sales from IP and NRE; AMD and Samsung reportedly used its designs; team roots in Bitboys.",
+  "popularity_sources": [
+   "https://gfxspeak.com/featured/intel-talent-mobile/",
+   "https://www.theregister.com/2022/05/03/intel_siru_innovations/"
+  ],
+  "other_factors": "Intel said Siru adds specialized GPU talent for graphics IP leadership; team joined Accelerated Computing Systems and Graphics Group; also seen as denying rivals (AMD/Samsung) a supplier.",
+  "primary_motive": "talent",
+  "confidence": "medium",
+  "notes": "No named individuals found in sources read."
+ },
+ {
+  "id": "broadcom_vmware_202311",
+  "target": "VMware",
+  "buyerId": "broadcom",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Dell Technologies / Michael Dell",
+    "type": "major shareholder",
+    "note": "Majority holder after Dell spin-off; reported to receive ~$20B"
+   }
+  ],
+  "total_funding": "public company",
+  "valuation": "~$69B incl. debt",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Hock Tan",
+    "role": "Broadcom CEO (buyer exec)",
+    "background": "Led deal; framed as joining engineering teams",
+    "linkedin": null,
+    "source": "https://www.omm.com/news/press-releases/o-melveny-advises-broadcom-on-us-69-billion-acquisition-of-vmware/"
+   },
+   {
+    "name": "Raghu Raghuram",
+    "role": "VMware CEO at time of deal",
+    "background": "Long-time VMware executive",
+    "linkedin": null,
+    "source": "https://convergedigest.com/broadcom-completes-acquisition-of-vmware-combining-networking-semiconductors-with-virtualization-software-and-services/"
+   }
+  ],
+  "popularity": "Dominant enterprise virtualization vendor, public (NYSE: VMW).",
+  "popularity_sources": [
+   "https://www.sec.gov/Archives/edgar/data/1730168/000114036123054354/ef20015100_ex99-1.htm"
+  ],
+  "other_factors": "Broadcom diversification into infrastructure software; announced May 26 2022, closed Nov 22 2023 after lengthy regulatory review; post-close price increases and restructuring.",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "high",
+  "notes": "Verified close date via Broadcom release."
+ },
+ {
+  "id": "broadcom_symantec_enterprise_security_201911",
+  "target": "Symantec Enterprise Security",
+  "buyerId": "broadcom",
+  "verified": true,
+  "investors": [],
+  "total_funding": "public company unit",
+  "valuation": "$10.7B cash",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Hock Tan",
+    "role": "Broadcom CEO",
+    "background": "Buyer exec",
+    "linkedin": null,
+    "source": "https://www.lightreading.com/security/broadcom-to-acquire-symantec-enterprise-security-for-10-7b"
+   }
+  ],
+  "popularity": "Large enterprise security business (Symantec brand, Norton consumer retained by Symantec/NortonLifeLock).",
+  "popularity_sources": [
+   "https://channelfutures.com/security/broadcom-buying-symantec-s-enterprise-business-for-10-7-billion"
+  ],
+  "other_factors": "Announced Aug 2019 as all-cash; continued Broadcom's push into mature infrastructure software after CA. Close in Nov 2019 is from my background knowledge, not confirmed by retrieved sources.",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "high",
+  "notes": "Closing date unverified in search results."
+ },
+ {
+  "id": "broadcom_ca_technologies_201811",
+  "target": "CA Technologies",
+  "buyerId": "broadcom",
+  "verified": true,
+  "investors": [],
+  "total_funding": "public company",
+  "valuation": "$18.9B cash",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Hock Tan",
+    "role": "Broadcom CEO",
+    "background": "Buyer exec",
+    "linkedin": null,
+    "source": "https://channelfutures.com/security/broadcom-buying-symantec-s-enterprise-business-for-10-7-billion"
+   }
+  ],
+  "popularity": "Established enterprise/mainframe software vendor (public, NASDAQ: CA).",
+  "popularity_sources": [
+   "https://analysysmason.com/research/content/articles/broadcom-symantec-acquisition-ren04"
+  ],
+  "other_factors": "Step by Broadcom to diversify beyond semiconductors into infrastructure software; announced July 2018, closed Nov 2018 (closing per my knowledge).",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "high",
+  "notes": "Value confirmed in search; exact close date not retrieved."
+ },
+ {
+  "id": "broadcom_brocade_201711",
+  "target": "Brocade",
+  "buyerId": "broadcom",
+  "verified": true,
+  "investors": [],
+  "total_funding": "public company",
+  "valuation": "~$5.5B equity value (about $5.9B including debt per my knowledge; search showed $5.5B)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Lloyd Carney",
+    "role": "Brocade CEO at time of deal",
+    "background": "From my knowledge only; not verified in this session",
+    "linkedin": null,
+    "source": "unverified"
+   }
+  ],
+  "popularity": "Leading Fibre Channel SAN and networking vendor, public.",
+  "popularity_sources": [
+   "https://analysysmason.com/research/content/articles/broadcom-symantec-acquisition-ren04"
+  ],
+  "other_factors": "Strengthen Broadcom's storage connectivity (Fibre Channel) franchise; announced Nov 2016, closed Nov 2017 after regulatory review; Broadcom divested Ruckus, Lenovo/others to avoid overlap.",
+  "primary_motive": "vertical_integration",
+  "confidence": "medium",
+  "notes": "Search sources gave 2016 as announcement; ledger date reflects close. Lloyd Carney detail unverified."
+ },
+ {
+  "id": "broadcom_broadcom_corporation_201602",
+  "target": "Broadcom Corporation",
+  "buyerId": "broadcom",
+  "verified": true,
+  "investors": [],
+  "total_funding": "public company",
+  "valuation": "~$37B ($17B cash + $20B stock)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Henry Samueli",
+    "role": "Broadcom Corp co-founder; became CTO of combined company",
+    "background": "Per StorageReview announcement",
+    "linkedin": null,
+    "source": "https://www.storagereview.com/fr/news/avago-enters-definitive-agreement-to-acquire-broadcom-for-37-billion"
+   },
+   {
+    "name": "Hock Tan",
+    "role": "Avago CEO; CEO of combined company",
+    "background": "Buyer exec",
+    "linkedin": null,
+    "source": "https://www.storagereview.com/fr/news/avago-enters-definitive-agreement-to-acquire-broadcom-for-37-billion"
+   }
+  ],
+  "popularity": "Major public communications semiconductor company.",
+  "popularity_sources": [
+   "https://www.sec.gov/Archives/edgar/data/0001649338/000164933816000151/avgo-10302016x10k.htm"
+  ],
+  "other_factors": "Avago (reverse-naming) acquisition of Broadcom Corp closed Feb 1 2016; combined company took Broadcom name. Not an acquisition by the current Broadcom Inc in the ordinary sense (ledger note correct).",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "high",
+  "notes": "Verified via SEC 10-K."
+ },
+ {
+  "id": "xai_x__twitter_202503",
+  "target": "X (Twitter)",
+  "buyerId": "xai",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Elon Musk",
+    "type": "controlling owner",
+    "note": "Owned both X and xAI; related-party all-stock deal"
+   }
+  ],
+  "total_funding": "unknown/not collected (2022 take-private ~$44B)",
+  "valuation": "$33B net of debt ($45B gross incl. $12B debt); xAI valued $80B",
+  "buyer_was_investor": true,
+  "founders": [
+   {
+    "name": "Elon Musk",
+    "role": "Owner/CEO of both",
+    "background": "Acquired Twitter in 2022 for ~$44B",
+    "linkedin": null,
+    "source": "https://www.nbcchicago.com/news/business/money-report/elon-musk-says-xai-has-acquired-x-in-deal-that-values-social-media-site-at-33-billion/3708833/?amp=1"
+   }
+  ],
+  "popularity": "Major social network; real-time data stream used to train Grok (per press framing).",
+  "popularity_sources": [
+   "https://news.bloomberglaw.com/artificial-intelligence/musk-says-that-his-xai-startup-has-acquired-x-for-33-billion"
+  ],
+  "other_factors": "Related-party, all-stock; Musk said it blends xAI capabilities with X's reach and data; X debt consolidation. Investor treatment unclear at announcement.",
+  "primary_motive": "vertical_integration",
+  "confidence": "high",
+  "notes": "Date March 28 2025 (ledger says 2025-03, correct)."
+ },
+ {
+  "id": "xai_hotshot_202503",
+  "target": "Hotshot",
+  "buyerId": "xai",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Lachy Groom",
+    "type": "angel",
+    "note": "Reported backer"
+   },
+   {
+    "name": "Alexis Ohanian",
+    "type": "angel/VC (Seven Seven Six)",
+    "note": "Reported backer"
+   },
+   {
+    "name": "SV Angel",
+    "type": "VC",
+    "note": "Reported backer"
+   }
+  ],
+  "total_funding": "undisclosed",
+  "valuation": "undisclosed",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Aakash Sastry",
+    "role": "Co-founder and CEO",
+    "background": "Announced the deal on X; photo/video AI startup founder; more not verified",
+    "linkedin": null,
+    "source": "https://techcrunch.com/2025/03/17/elon-musks-ai-company-xai-acquires-a-generative-ai-video-startup"
+   },
+   {
+    "name": "John Mullan",
+    "role": "Co-founder",
+    "background": "not verified",
+    "linkedin": null,
+    "source": "https://www.maginative.com/article/xai-buys-hotshot-a-startup-working-on-ai-generated-video/"
+   }
+  ],
+  "popularity": "Released three video models (Hotshot-XL open weights, Act One, Hotshot); no user numbers found. Service stopped new creation Mar 14, 2025.",
+  "popularity_sources": [
+   "https://techcrunch.com/2025/03/17/elon-musks-ai-company-xai-acquires-a-generative-ai-video-startup"
+  ],
+  "other_factors": "xAI building in-house video generation to compete with Sora/Veo; Sastry said they would scale models on Colossus.",
+  "primary_motive": "talent",
+  "confidence": "medium",
+  "notes": "Whether both founders joined xAI not explicitly confirmed."
+ },
+ {
+  "id": "spacex_xai_202602",
+  "target": "xAI",
+  "buyerId": "spacex",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Elon Musk",
+    "type": "founder/controlling holder",
+    "note": "Controls both SpaceX and xAI"
+   }
+  ],
+  "total_funding": "not collected",
+  "valuation": "xAI ~$250B in deal (per source); last pre-deal $230B (Nov 2025, WSJ); SpaceX ~$1T",
+  "buyer_was_investor": "unknown (SpaceX had reportedly invested in xAI; not verified here)",
+  "founders": [
+   {
+    "name": "Elon Musk",
+    "role": "Founder of xAI and SpaceX CEO",
+    "background": "Founder",
+    "linkedin": null,
+    "source": "https://www.scmp.com/news/world/united-states-canada/article/3342161/musk-merges-xai-spacex-bid-build-space-data-centres"
+   }
+  ],
+  "popularity": "xAI Q rev ~$107M and net loss $1.46B in last quarter per one analysis; Grok chatbot.",
+  "popularity_sources": [
+   "https://www.adaderana.lk/news.php?nid=117951"
+  ],
+  "other_factors": "Related-party; framed as vertically integrated engine and space-based data centers; ahead of SpaceX IPO. Largest M&A deal reported.",
+  "primary_motive": "vertical_integration",
+  "confidence": "high",
+  "notes": "Valuations from unnamed sources, not filings."
+ },
+ {
+  "id": "spacex_cursor__anysphere_202608",
+  "target": "Cursor (Anysphere)",
+  "buyerId": "spacex",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Thrive Capital",
+    "type": "VC",
+    "note": "Led 2025 rounds"
+   },
+   {
+    "name": "Andreessen Horowitz",
+    "type": "VC",
+    "note": "Series A/B and later"
+   },
+   {
+    "name": "Accel",
+    "type": "VC",
+    "note": ""
+   },
+   {
+    "name": "DST Global",
+    "type": "VC",
+    "note": ""
+   },
+   {
+    "name": "Coatue",
+    "type": "VC",
+    "note": "Series D"
+   },
+   {
+    "name": "NVIDIA",
+    "type": "strategic",
+    "note": "Series D"
+   },
+   {
+    "name": "Google",
+    "type": "strategic",
+    "note": "Series D"
+   },
+   {
+    "name": "OpenAI Startup Fund",
+    "type": "corporate VC",
+    "note": "$8M seed per one source"
+   }
+  ],
+  "total_funding": ">$3.3B across rounds (sum of reported rounds, approximate)",
+  "valuation": "$29.3B (Nov 2025); acquired at $60B all-stock",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Michael Truell",
+    "role": "Co-founder and CEO",
+    "background": "MIT graduate",
+    "linkedin": null,
+    "source": "https://www.verdict.co.uk/anysphere-funding-20bn-valuation/"
+   },
+   {
+    "name": "Sualeh Asif",
+    "role": "Co-founder",
+    "background": "MIT graduate",
+    "linkedin": null,
+    "source": "https://forklog.com/en/developer-of-programmer-killer-cursor-secures-900-million-at-9-billion-valuation/"
+   },
+   {
+    "name": "Arvid Lunnemark",
+    "role": "Co-founder",
+    "background": "MIT graduate",
+    "linkedin": null,
+    "source": "https://forklog.com/en/developer-of-programmer-killer-cursor-secures-900-million-at-9-billion-valuation/"
+   },
+   {
+    "name": "Aman Sanger",
+    "role": "Co-founder",
+    "background": "MIT graduate",
+    "linkedin": null,
+    "source": "https://forklog.com/en/developer-of-programmer-killer-cursor-secures-900-million-at-9-billion-valuation/"
+   }
+  ],
+  "popularity": "Reported ~$2.6B annualized B2B revenue (Reuters-based) or >$4B ARR (Forbes-based) around June 2026.",
+  "popularity_sources": [
+   "https://letsdatascience.com/news/spacex-acquires-cursor-owner-anysphere-for-60-billion-b9e1f403",
+   "https://www.techzine.eu/news/devops/142197/spacex-acquires-cursor-for-60-billion/"
+  ],
+  "other_factors": "Option struck April 2026 ($60B buy or $10B partnership); deal announced June 16 2026 days after SpaceX IPO; $10B breakup fee; gives xAI foothold in developer tools and developer data for Grok.",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "medium",
+  "notes": "Ledger date 2026-08-14 vs one source saying close Aug 15; announcement was June 16. Closing unverified against SEC filing. Whether founders joined SpaceX is assumed from a full acquisition, not confirmed."
+ },
+ {
+  "id": "deepmind_mujoco_202110",
+  "target": "MuJoCo",
+  "buyerId": "deepmind",
+  "verified": true,
+  "investors": [],
+  "total_funding": "none (university-origin commercial software sold by Roboti LLC)",
+  "valuation": "undisclosed",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Emo Todorov",
+    "role": "Creator of MuJoCo (University of Washington)",
+    "background": "Developed MuJoCo at UW Movement Control Laboratory; sold via Roboti since 2015; whether he joined DeepMind not confirmed",
+    "linkedin": null,
+    "source": "https://en.wikipedia.org/wiki/MuJoCo"
+   }
+  ],
+  "popularity": "Widely used in RL/robotics research; DeepMind made it free then open-sourced under Apache 2.0 (May 2022).",
+  "popularity_sources": [
+   "https://www.opensourceforu.com/2021/10/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/",
+   "https://en.wikipedia.org/wiki/MuJoCo"
+  ],
+  "other_factors": "Funded free access for research community; DeepMind already heavy user.",
+  "primary_motive": "technology_ip",
+  "confidence": "high",
+  "notes": "IP/software acquisition, no VC-backed company."
+ },
+ {
+  "id": "deepmind_hark_health_solutions_201604",
+  "target": "Hark Health Solutions",
+  "buyerId": "deepmind",
+  "verified": true,
+  "investors": [],
+  "total_funding": "unknown",
+  "valuation": "GBP 1.4M cash consideration (filing excerpt)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Dominic King",
+    "role": "Co-creator of Hark tech; joined DeepMind Health",
+    "background": "Clinician/researcher at Imperial College London",
+    "linkedin": null,
+    "source": "https://www.fiercebiotech.com/medical-devices/google-s-artificial-intelligence-unit-enters-healthcare-via-medical-apps"
+   },
+   {
+    "name": "Ara Darzi",
+    "role": "Co-developer (Professor, Imperial College)",
+    "background": "Surgeon-scientist, Imperial; role at DeepMind not confirmed",
+    "linkedin": null,
+    "source": "https://www.fiercebiotech.com/medical-devices/google-s-artificial-intelligence-unit-enters-healthcare-via-medical-apps"
+   }
+  ],
+  "popularity": "Clinical task management app co-developed with Imperial/NIHR; used in NHS hospital pilots; no figures.",
+  "popularity_sources": [
+   "https://digitalhealth.net/?p=40146"
+  ],
+  "other_factors": "Acquisition to integrate Hark into DeepMind Health's Streams app; part of DeepMind health unit launch. Impairment of GBP 639,505 recorded by Dec 2016.",
+  "primary_motive": "product_or_market_expansion",
+  "confidence": "medium",
+  "notes": "Investors not found; ledger date 2016-04 not independently checked."
+ },
+ {
+  "id": "deepmind_dark_blue_labs_201410",
+  "target": "Dark Blue Labs",
+  "buyerId": "deepmind",
+  "verified": true,
+  "investors": [],
+  "total_funding": "unknown (Oxford spin-out, founded 2014)",
+  "valuation": "Both 2014 deals estimated ~$50M combined (FT via Robohub)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Nando de Freitas",
+    "role": "Co-founder (Prof., Oxford)",
+    "background": "Machine learning professor; kept Oxford appointment",
+    "linkedin": null,
+    "source": "https://techcrunch.com/2014/10/23/googles-deepmind-acqui-hires-two-ai-teams-in-the-uk-partners-with-oxford"
+   },
+   {
+    "name": "Phil Blunsom",
+    "role": "Co-founder (Prof., Oxford)",
+    "background": "NLP professor, Oxford",
+    "linkedin": null,
+    "source": "https://techcrunch.com/2014/10/23/googles-deepmind-acqui-hires-two-ai-teams-in-the-uk-partners-with-oxford"
+   },
+   {
+    "name": "Edward Grefenstette",
+    "role": "Co-founder",
+    "background": "Oxford researcher",
+    "linkedin": null,
+    "source": "https://techcrunch.com/2014/10/23/googles-deepmind-acqui-hires-two-ai-teams-in-the-uk-partners-with-oxford"
+   },
+   {
+    "name": "Karl Moritz Hermann",
+    "role": "Co-founder",
+    "background": "Oxford researcher",
+    "linkedin": null,
+    "source": "https://techcrunch.com/2014/10/23/googles-deepmind-acqui-hires-two-ai-teams-in-the-uk-partners-with-oxford"
+   }
+  ],
+  "popularity": "Early-stage research startup; no traction metrics.",
+  "popularity_sources": [
+   "https://robohub.org/google-adds-to-deepmind-acquiring-2-uk-startups-and-partnering-with-oxford-u/"
+  ],
+  "other_factors": "Acqui-hire of NLP/deep learning researchers; accompanied by Oxford research partnership.",
+  "primary_motive": "talent",
+  "confidence": "high",
+  "notes": "Ledger omits de Freitas."
+ },
+ {
+  "id": "deepmind_vision_factory_201410",
+  "target": "Vision Factory",
+  "buyerId": "deepmind",
+  "verified": true,
+  "investors": [],
+  "total_funding": "unknown",
+  "valuation": "Combined ~$50M with Dark Blue Labs (FT estimate)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Karen Simonyan",
+    "role": "Co-founder",
+    "background": "Oxford researcher in deep vision",
+    "linkedin": null,
+    "source": "https://techcrunch.com/2014/10/23/googles-deepmind-acqui-hires-two-ai-teams-in-the-uk-partners-with-oxford"
+   },
+   {
+    "name": "Max Jaderberg",
+    "role": "Co-founder",
+    "background": "Oxford researcher",
+    "linkedin": null,
+    "source": "https://techcrunch.com/2014/10/23/googles-deepmind-acqui-hires-two-ai-teams-in-the-uk-partners-with-oxford"
+   },
+   {
+    "name": "Andrew Zisserman",
+    "role": "Co-founder (Prof., Oxford)",
+    "background": "Computer vision professor; kept joint Oxford appointment",
+    "linkedin": null,
+    "source": "https://techcrunch.com/2014/10/23/googles-deepmind-acqui-hires-two-ai-teams-in-the-uk-partners-with-oxford"
+   }
+  ],
+  "popularity": "Academic-origin team; no commercial metrics.",
+  "popularity_sources": [
+   "https://robohub.org/google-adds-to-deepmind-acquiring-2-uk-startups-and-partnering-with-oxford-u/"
+  ],
+  "other_factors": "Acqui-hire of computer vision researchers; Oxford partnership. Seven researchers total across both deals per ledger.",
+  "primary_motive": "talent",
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "id": "deepmind_mechanize_202609",
+  "target": "Mechanize",
+  "buyerId": "deepmind",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Jeff Dean",
+    "type": "angel",
+    "note": "Reported backer"
+   },
+   {
+    "name": "Patrick Collison",
+    "type": "angel",
+    "note": "Reported backer"
+   }
+  ],
+  "total_funding": "One report: $9.1M raised at $500M valuation (conflicting, unverified)",
+  "valuation": "$500M reported vs $1.5-2B discussed in deal talks (conflicting)",
+  "buyer_was_investor": "unknown (Jeff Dean is a Google employee but personal angel)",
+  "founders": [
+   {
+    "name": "Tamay Besiroglu",
+    "role": "Co-founder/former CEO; now DeepMind research scientist",
+    "background": "Previously at Epoch AI (co-founder per aiweekly)",
+    "linkedin": null,
+    "source": "https://aiweekly.co/alerts/google-closes-15b-mechanize-talent-deal-epoch-ai-cofounder-joins-deepmind"
+   },
+   {
+    "name": "Matthew Barnett",
+    "role": "Co-founder",
+    "background": "not verified; whether he joined DeepMind unknown",
+    "linkedin": null,
+    "source": "https://ascendants.in/business-stories/google-mechanize-deal-deepmind-tamay-besiroglu-1-5-billion-ai-coding-startup/"
+   },
+   {
+    "name": "Ege Erdil",
+    "role": "Co-founder",
+    "background": "not verified; whether he joined DeepMind unknown",
+    "linkedin": null,
+    "source": "https://ascendants.in/business-stories/google-mechanize-deal-deepmind-tamay-besiroglu-1-5-billion-ai-coding-startup/"
+   },
+   {
+    "name": "Guive Assadi",
+    "role": "Former chief of staff, now Mechanize CEO (stayed)",
+    "background": "not verified",
+    "linkedin": null,
+    "source": "https://www.digitalcitizen.life/google-brings-mechanize-team-into-deepmind-to-strengthen-ai-coding-tools/"
+   }
+  ],
+  "popularity": "Founded ~April 2025; builds RL environments and evals for frontier coding agents sold to AI labs; no public traction numbers.",
+  "popularity_sources": [
+   "https://www.rl-list.com/vendors/mechanize"
+  ],
+  "other_factors": "Non-exclusive tech license + hiring (Windsurf-style), avoids acquisition review; >12 staff moved, mostly to midtraining; Mechanize continues operating. No official Google announcement seen.",
+  "primary_motive": "talent",
+  "confidence": "medium",
+  "notes": "Press-reported (Business Insider via secondary); final value undisclosed."
+ },
+ {
+  "id": "deepmind_contextual_ai_202605",
+  "target": "Contextual AI",
+  "buyerId": "deepmind",
+  "verified": true,
+  "investors": [
+   {
+    "name": "Greycroft",
+    "type": "VC",
+    "note": "Led $80M Series A (Aug 2024)"
+   },
+   {
+    "name": "Bain Capital Ventures",
+    "type": "VC",
+    "note": "Led/seed $20M (2023) and Series A participant"
+   },
+   {
+    "name": "Lightspeed",
+    "type": "VC",
+    "note": "Series A"
+   },
+   {
+    "name": "Bezos Expeditions",
+    "type": "investor",
+    "note": "Series A"
+   },
+   {
+    "name": "NVentures (NVIDIA)",
+    "type": "corporate VC",
+    "note": "Series A"
+   },
+   {
+    "name": "HSBC Ventures",
+    "type": "corporate VC",
+    "note": "Series A"
+   },
+   {
+    "name": "Snowflake Ventures",
+    "type": "corporate VC",
+    "note": "Series A"
+   }
+  ],
+  "total_funding": "~$100M",
+  "valuation": "~$609M (PitchBook estimate, low confidence)",
+  "buyer_was_investor": false,
+  "founders": [
+   {
+    "name": "Douwe Kiela",
+    "role": "Co-founder and CEO; joining DeepMind",
+    "background": "Previously led Meta (FAIR) team that developed retrieval augmented generation",
+    "linkedin": null,
+    "source": "https://finance.yahoo.com/sectors/technology/articles/google-deepmind-hires-staff-contextual-194051475.html"
+   },
+   {
+    "name": "Amanpreet Singh",
+    "role": "Co-founder",
+    "background": "Former Hugging Face and Meta researcher; whether he joined DeepMind not confirmed",
+    "linkedin": null,
+    "source": "https://www.verdict.co.uk/contextual-ai-raises-80m/"
+   }
+  ],
+  "popularity": "Enterprise RAG/agent platform; no usage metrics found.",
+  "popularity_sources": [
+   "https://www.verdict.co.uk/contextual-ai-raises-80m/"
+  ],
+  "other_factors": "Licensing-plus-hiring structure, avoids antitrust review; >20 researchers; price $80-90M (Reuters source) or ~$100M (Bloomberg); follows Windsurf and Character.AI precedents.",
+  "primary_motive": "talent",
+  "confidence": "medium",
+  "notes": "Based on anonymous-source reporting; Google did not comment. One outlet claims Contextual continues independently (unconfirmed)."
+ }
+]

@@ -1,0 +1,143 @@
+# VCs & investors
+
+## Most frequent investors in targets
+
+- Andreessen Horowitz: 7
+- General Catalyst: 5
+- Nvidia: 5
+- SV Angel: 4
+- Lightspeed: 3
+- Greycroft: 3
+- Kleiner Perkins: 3
+- Radical Ventures: 3
+- Insight Partners: 3
+- Fidelity: 3
+- Y Combinator: 2
+- Lightspeed Venture Partners: 2
+- CRV: 2
+- Amplify Partners: 2
+- Abstract Ventures: 2
+- Thrive Capital: 2
+- Sequoia: 2
+- Google: 2
+- South Park Commons: 2
+- Quiet Capital: 2
+- Bezos Expeditions: 2
+- Eric Schmidt: 2
+- Bain Capital Ventures: 2
+- AMD: 2
+- Sequoia Capital: 2
+
+## Buyer was already an investor (9 deals)
+
+- Alphabet / Google → Intersect (Intersect Power)
+- Amazon → Rivr
+- Nvidia → Reflection AI
+- Nvidia → Hugging Face
+- Nvidia → Poolside
+- Nvidia → Enfabrica
+- Nvidia → CentML
+- AMD → World Labs
+- xAI / SpaceXAI → X (Twitter)
+
+## Per deal
+
+- **Fintool** (Microsoft): Y Combinator. Funding: unknown; valuation: unknown
+- **Osmos** (Microsoft): Lightspeed Venture Partners, CRV, Pear VC, SV Angel. Funding: $13M reported (2021 round; later rounds not verified); valuation: unknown
+- **Pi Labs** (Microsoft): unknown. Funding: unknown; valuation: unknown
+- **Fungible** (Microsoft): SoftBank Vision Fund, Norwest Venture Partners, Battery Ventures, Mayfield Fund, Redline Capital, Walden Riverwood Ventures. Funding: over $300M; valuation: Sale price reportedly ~$190M (unconfirmed, Blocks and Files)
+- **Lumenisity** (Microsoft): Parkwalk Advisors, BGF (Business Growth Fund), University of Southampton. Funding: ~$9.6M over 4 rounds (CB Insights); valuation: unknown (undisclosed sum)
+- **Samplab** (Apple): Wingman Campus Fund. Funding: unknown (CB Insights shows ~$20K, likely incomplete); valuation: unknown
+- **Sonera** (Apple): Amplify Partners, Abstract Ventures, Spark Capital, Material Impact, Boom Capital. Funding: ~$20M (incl. government awards); valuation: unknown
+- **PlasmaSolve** (Apple): unknown. Funding: unknown (grant funding mentioned; no VC found); valuation: unknown
+- **MotionVFX** (Apple): unknown. Funding: unknown (appears bootstrapped; none found); valuation: unknown
+- **SigScalr (ledger name 'SigScaler'; correct spelling SigScalr)** (Apple): Scribble Ventures, WestWave Capital, Forward Slash Capital, Manik Gupta, Ganesh Pai, Srinath Sridhar. Funding: $1.76M pre-seed (Feb 2024); a $2M figure on one aggregator is unverified; valuation: unknown
+- **Huxe** (Apple): Conviction, Genius Ventures, Jeff Dean, Dylan Field, Drew Houston, Mark Pincus, Shishir Mehrotra. Funding: ~$4.6M-$5M seed (Sept 2025; sources differ); valuation: unknown
+- **Wiz** (Alphabet / Google): Andreessen Horowitz, Lightspeed, Thrive Capital, Sequoia, Index Ventures, Cyberstarts, Greenoaks, Greylock, Wellington, Salesforce Ventures, Howard Schultz. Funding: ~$1.9B; valuation: $12B (May 2024); acquired for $32B all cash
+- **Intersect (Intersect Power)** (Alphabet / Google): TPG Rise Climate, Google, Climate Adaptive Infrastructure, Greenbelt Capital Partners. Funding: $2.1B equity cited by spokesperson (undated, may be outdated); valuation: $4.75B cash plus debt assumption; $12B total enterprise value incl. IPX carve-out
+- **ProducerAI (formerly Riffusion)** (Alphabet / Google): Greycroft, South Park Commons, Sky9 Capital. Funding: $4M seed (no later rounds found); valuation: unknown
+- **Common Sense Machines** (Alphabet / Google): Andreessen Horowitz, Toyota Ventures, Glasswing Ventures, Intel Capital, Blindspot Ventures, Omidyar Technology Ventures. Funding: $2.5M (VCBacked) vs $10M (press); conflicting; valuation: $15M last valuation (press, unverified)
+- **Atlantic Quantum** (Alphabet / Google): The Engine (MIT), Thomas Tull, Glasswing Ventures, Future Labs Capital, E14. Funding: $9M seed (2022); later rounds not verified; valuation: unknown
+- **Windsurf (Codeium)** (Alphabet / Google): General Catalyst, Kleiner Perkins, Greenoaks. Funding: $243M; valuation: $1.25B (Aug 2024); Google license $2.4B; OpenAI's ~$3B bid failed
+- **Hume AI** (Alphabet / Google): EQT Ventures, Union Square Ventures, Nat Friedman and Daniel Gross, Comcast Ventures, LG Technology Ventures, Northwell Holdings, Metaplanet. Funding: ~$62M-$67.7M (sources differ); valuation: unknown
+- **DuckLabs (DuckDB Labs)** (Amazon): No outside VC reported. Funding: none known (self-funded via support contracts); valuation: unknown
+- **Globalstar** (Amazon): Apple, Thermo Capital (controlling holder, per merger filing wording). Funding: n/a (public company); valuation: ~$10.7B-$11.7B depending on source ($90 cash or 0.3210 AMZN shares per share)
+- **Fauna Robotics** (Amazon): Kleiner Perkins, Quiet Capital, Lux Capital, Bluebirds Capital, Terrain. Funding: ~$30M seed (Form D from Feb 2025 showed ~$16.6M sold; sources differ); valuation: unknown
+- **Rivr** (Amazon): Bezos Expeditions, HongShan (HSG), Amazon Industrial Innovation Fund, Armada Investment Group, Linear Capital. Funding: $22M seed (Aug 2024); other rounds unverified; valuation: $110M (Aug 2024 round per press; Fundable lists $1B - conflicting, likely erroneous)
+- **Bee** (Amazon): Exor, Greycroft, New Wave VC, Banana Capital, Point72 Ventures, Esther Crawford. Funding: ~$7M seed (PitchBook ~$8.5M); valuation: unknown
+- **Reflection AI** (Nvidia): Nvidia, Lightspeed, Sequoia, DST, B Capital, CRV, Eric Schmidt, Citi, 1789 Capital. Funding: >$2.1B ($130M earlier + $2B round); later round(s) not detailed; valuation: $8B (2025 round); $25B (March 2026 per FT)
+- **Hugging Face** (Nvidia): Salesforce Ventures, Alphabet/Google, GV, Amazon, AMD, Intel, Qualcomm Ventures, IBM, Sound Ventures, Nvidia. Funding: ~$395M+ (not fully verified; $235M in 2023 round); valuation: $4.5B (2023); deal ~$12.9B (~$11.9B to shareholders + up to $1B retention equity)
+- **Poolside** (Nvidia): Bain Capital Ventures, Nvidia, eBay, Premji Invest, Magnetar. Funding: >$1B (exact unverified); valuation: $3B (2024); $12B pre-money (2026 investment)
+- **Essential AI** (Nvidia): AMD, Lightspeed Venture Partners. Funding: unknown (Series B $175M claimed in one profile); valuation: $1B (unverified)
+- **Kumo AI** (Nvidia): Sequoia Capital, SV Angel. Funding: $37M (PitchBook); valuation: unknown; deal reportedly >$400M (The Information)
+- **Illumex** (Nvidia): Cardumen Capital. Funding: unknown; valuation: deal ~$60M (Calcalist, FrenchWeb) or $75M (Globes)
+- **Groq** (Nvidia): Disruptive. Funding: unknown (Sept 2025 $750M round); valuation: $6.9B pre-money (Sept 2025)
+- **SchedMD** (Nvidia): unknown. Funding: unknown (appears bootstrapped; unverified); valuation: undisclosed
+- **Enfabrica** (Nvidia): Nvidia, Arm, Cisco, Samsung. Funding: unknown (>$240M implied: $125M Series B + ~$115M); valuation: unknown
+- **Solver (formerly Laredo Labs)** (Nvidia): Radical Ventures. Funding: ~$8M; valuation: unknown
+- **CentML** (Nvidia): Radical Ventures, Gradient Ventures, Nvidia. Funding: ~$30.9M; valuation: undisclosed
+- **Lepton AI** (Nvidia): unknown. Funding: unknown; valuation: deal reportedly several hundred million USD (The Information)
+- **Gretel** (Nvidia): Anthos Capital, Greylock, Moonshots Capital. Funding: >$67M; valuation: $320M last valuation; deal nine figures, above that (Wired)
+- **OctoAI (OctoML)** (Nvidia): Tiger Global, Addition, Madrona Venture Group, Amplify Partners. Funding: ~$132M (reported); valuation: ~$900M (2021); deal ~$165M proposed, possibly >$250M with debt
+- **Deci AI** (Nvidia): Insight Partners, Square Peg, Emerge, Jibe Ventures, Fort Ross Ventures, ICON. Funding: $55.1M; valuation: ~$200M (2022); deal ~$300M (Calcalist estimate)
+- **Run:ai** (Nvidia): Tiger Global, Insight Partners, TLV Partners, S Capital VC. Funding: $118M; valuation: ~$700M deal (estimates $680-800M)
+- **Sundial** (Meta): GPV (DJ Patil). Funding: ~$23M; valuation: unknown
+- **Stilla.ai** (Meta): General Catalyst. Funding: ~$5M pre-seed; valuation: unknown
+- **Assured Robot Intelligence** (Meta): AIX Ventures. Funding: undisclosed seed; valuation: unknown
+- **Moltbook** (Meta): unknown. Funding: unknown (no outside funding found); valuation: unknown
+- **Manus** (Meta): Benchmark, Tencent, ZhenFund, HSG (formerly Sequoia China). Funding: not confirmed; $75M Series B-type round Apr 2025 plus earlier rounds; valuation: ~$500M (Apr 2025); ~$2B+ acquisition price reported
+- **Manz assets** (Tesla): unknown. Funding: n/a (listed company; insolvent); valuation: price undisclosed
+- **Wiferion** (Tesla): Nordic Alpha Partners, Phoenix Contact (venture fund). Funding: >EUR 15M; valuation: ~$76M business combination consideration reported by Teslamag (unconfirmed)
+- **SiILion** (Tesla): unknown. Funding: unknown; DoD and DOE grants; valuation: unknown
+- **Springpower International** (Tesla): unknown. Funding: $3.4M SDTC grant (2018); otherwise unknown; valuation: unknown
+- **ATW Automation** (Tesla): unknown. Funding: n/a (subsidiary of Canadian ATS Automation); valuation: unknown
+- **InterPositive** (Netflix): unknown. Funding: unknown; no venture funding found (Affleck-founded, likely self-funded); valuation: price reportedly up to ~$600M incl. earnouts; one unverified report says $587M cash
+- **Ready Player Me** (Netflix): Andreessen Horowitz, Konvoy Ventures, Endeavor, Plural, Hartbeat Ventures, David Baszucki, Justin Kan, Riccardo Zacconi, Sebastian Knutsson. Funding: ~$72M; valuation: unknown
+- **Spry Fox** (Netflix): unknown. Funding: unknown (largely independent studio); valuation: undisclosed
+- **Animal Logic** (Netflix): unknown. Funding: n/a (private studio, Australia; previously owned by Fuel Entertainment-era investors, unverified); valuation: undisclosed all-cash
+- **Boss Fight Entertainment** (Netflix): unknown. Funding: unknown; valuation: undisclosed
+- **Orchestra Bio** (OpenAI): 8VC, Andreessen Horowitz, Atria, Haystack Fund. Funding: ~$20M; valuation: unknown
+- **Glass Imaging** (OpenAI): Insight Partners, GV, Future Ventures, Abstract Ventures, LDV Capital, GroundUP Ventures. Funding: ~$31.5M (CB Insights); valuation: ~$100M (2025 round, reported); acquisition reportedly >$300M (WSJ)
+- **NextSlide** (OpenAI): unknown. Funding: unknown; valuation: unknown
+- **Ona / Gitpod** (OpenAI): Tom Preston-Werner, General Catalyst, Speedinvest, Crane Venture Partners, Vertex Ventures US, MongoDB Ventures, Tobi Lutke, Olivier Pomel. Funding: ~$28M-$41M (sources inconsistent); valuation: undisclosed; unverified third-party estimate $450-500M
+- **Tomoro** (OpenAI): unknown. Funding: unknown (no VC funding found; consultancy); valuation: undisclosed
+- **Notch** (OpenAI): South Park Commons, Wing Venture Capital, Moonfire Ventures, Samsung Electronics, Angels: Balaji Srinivasan, Casey Neistat, Immad Akhund, Siqi Chen. Funding: ~$8M seed (Oct 2025; single aggregator); valuation: unknown
+- **Hiro Finance** (OpenAI): Ribbit Capital, General Catalyst, Restive. Funding: undisclosed; valuation: unknown
+- **Opaque Systems** (Anthropic): Ion Stoica, Series A investors (2022, $22M). Funding: unknown (Series A $22M 2022 + $24M Series B 2026 reported); valuation: ~$300M at Series B (reported by AI Weekly)
+- **Stainless** (Anthropic): Sequoia Capital, Andreessen Horowitz. Funding: unknown; valuation: ~$150M prior (Dec 2025) per The Information; price reported >=$300M
+- **Runhouse** (Anthropic): Work-Bench, Hetz Ventures. Funding: ~$5M seed (Calcalist); valuation: unknown
+- **Coefficient Bio** (Anthropic): unknown. Funding: no publicly disclosed funding; valuation: ~$400M all-stock deal value (press-reported; The Information)
+- **Vercept** (Anthropic): Fifty Years (Seth Bannon), Eric Schmidt, Jeff Dean, Kyle Vogt, Arash Ferdowsi, Oren Etzioni. Funding: ~$50M (CEO Ehsani via LinkedIn); valuation: unknown (undisclosed price)
+- **Bun** (Anthropic): Y Combinator, Other VCs. Funding: ~$26M (founder statement per ledger; not independently re-verified); valuation: unknown
+- **World Labs** (AMD): Andreessen Horowitz, Radical Ventures, AMD, NVIDIA, Fidelity, Autodesk, Emerson Collective, Sea. Funding: ~$1.2B (trackers); valuation: Deal ~$8.2B all-stock; prior valuations conflicting ($5-6.7B)
+- **Taalas** (AMD): Quiet Capital, Pierre Lamond, Fidelity. Funding: ~$219M; valuation: undisclosed (an estimate of ~$750M is unconfirmed)
+- **MEXT** (AMD): Clear Ventures, DN Capital, Uncorrelated Ventures, FJ Labs, Page One Ventures. Funding: ~$8-10.6M (sources vary); valuation: unknown
+- **MK1** (AMD): Susa Ventures, Ascent Equity Partners, Interface Capital, Rsquared. Funding: unknown; valuation: unknown
+- **Brium** (AMD): unknown. Funding: unknown; valuation: unknown
+- **Akeana** (Qualcomm): Kleiner Perkins, Mayfield, Fidelity, Clearstone Venture Partners. Funding: >$100M; valuation: unknown
+- **PickNik Robotics** (Qualcomm): Stellar Ventures, Cypress Growth Capital. Funding: $2M pre-seed + ~$5M non-dilutive SBIR (as of 2023); valuation: unknown
+- **Modular** (Qualcomm): General Catalyst, GV, Greylock, SV Angel, US Innovative Technology Fund (Thomas Tull), DFJ Growth. Funding: ~$380M; valuation: $1.6B (Sep 2025); deal ~$3.9B in stock (reported)
+- **Augentix** (Qualcomm): unknown. Funding: unknown; valuation: unknown
+- **Alphawave IP** (Qualcomm): Public (LSE-listed). Funding: public company; valuation: $2.3B per 10-Q (headline $2.4B)
+- **Ventana Micro Systems** (Qualcomm): Sehat Sutardja & Weili Dai, Wise Road Capital, Qualcomm. Funding: ~$98-99M; valuation: unknown
+- **Arduino** (Qualcomm): unknown. Funding: unknown; valuation: unknown
+- **Mentee Robotics** (Intel (including Mobileye)): Ahren Innovation Capital, Cisco Investments, Samsung NEXT, Mobileye. Funding: $17M-$50M (sources conflict); valuation: $900M deal ($612M cash + up to 26.2M Mobileye shares)
+- **InAccel** (Intel (including Mobileye)): unknown. Funding: unknown (no disclosed funding found); valuation: unknown
+- **Silicon Mobility** (Intel (including Mobileye)): Capital-E, Cipio Partners. Funding: unknown; valuation: undisclosed
+- **Codeplay Software** (Intel (including Mobileye)): Foresight Group, Foresight Technology VCT. Funding: ~$2.96M per PitchBook (low confidence); valuation: Price undisclosed officially; reported ~£48M
+- **Siru Innovations** (Intel (including Mobileye)): unknown. Funding: unknown (appears bootstrapped/IP-licensing revenue; not confirmed); valuation: undisclosed
+- **VMware** (Broadcom (including predecessor Avago)): Dell Technologies / Michael Dell. Funding: public company; valuation: ~$69B incl. debt
+- **Symantec Enterprise Security** (Broadcom (including predecessor Avago)): unknown. Funding: public company unit; valuation: $10.7B cash
+- **CA Technologies** (Broadcom (including predecessor Avago)): unknown. Funding: public company; valuation: $18.9B cash
+- **Brocade** (Broadcom (including predecessor Avago)): unknown. Funding: public company; valuation: ~$5.5B equity value (about $5.9B including debt per my knowledge; search showed $5.5B)
+- **Broadcom Corporation** (Broadcom (including predecessor Avago)): unknown. Funding: public company; valuation: ~$37B ($17B cash + $20B stock)
+- **X (Twitter)** (xAI / SpaceXAI): Elon Musk. Funding: unknown/not collected (2022 take-private ~$44B); valuation: $33B net of debt ($45B gross incl. $12B debt); xAI valued $80B
+- **Hotshot** (xAI / SpaceXAI): Lachy Groom, Alexis Ohanian, SV Angel. Funding: undisclosed; valuation: undisclosed
+- **xAI** (SpaceX): Elon Musk. Funding: not collected; valuation: xAI ~$250B in deal (per source); last pre-deal $230B (Nov 2025, WSJ); SpaceX ~$1T
+- **Cursor (Anysphere)** (SpaceX): Thrive Capital, Andreessen Horowitz, Accel, DST Global, Coatue, NVIDIA, Google, OpenAI Startup Fund. Funding: >$3.3B across rounds (sum of reported rounds, approximate); valuation: $29.3B (Nov 2025); acquired at $60B all-stock
+- **MuJoCo** (Google DeepMind): unknown. Funding: none (university-origin commercial software sold by Roboti LLC); valuation: undisclosed
+- **Hark Health Solutions** (Google DeepMind): unknown. Funding: unknown; valuation: GBP 1.4M cash consideration (filing excerpt)
+- **Dark Blue Labs** (Google DeepMind): unknown. Funding: unknown (Oxford spin-out, founded 2014); valuation: Both 2014 deals estimated ~$50M combined (FT via Robohub)
+- **Vision Factory** (Google DeepMind): unknown. Funding: unknown; valuation: Combined ~$50M with Dark Blue Labs (FT estimate)
+- **Mechanize** (Google DeepMind): Jeff Dean, Patrick Collison. Funding: One report: $9.1M raised at $500M valuation (conflicting, unverified); valuation: $500M reported vs $1.5-2B discussed in deal talks (conflicting)
+- **Contextual AI** (Google DeepMind): Greycroft, Bain Capital Ventures, Lightspeed, Bezos Expeditions, NVentures (NVIDIA), HSBC Ventures, Snowflake Ventures. Funding: ~$100M; valuation: ~$609M (PitchBook estimate, low confidence)

@@ -1,0 +1,240 @@
+[
+ {
+  "id": "openai_hiro_finance_202604",
+  "buyerId": "openai",
+  "target": "Hiro Finance",
+  "date": "2026-04",
+  "technology": "Financial AI",
+  "dealType": "talent_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "anthropic_opaque_systems_202610",
+  "buyerId": "anthropic",
+  "target": "Opaque Systems",
+  "date": "2026-10",
+  "technology": "Confidential computing and privacy for AI",
+  "dealType": "technology_license_and_hiring",
+  "status": "reported_completed",
+  "notes": "Licence-and-hire arrangement, not whole-company purchase.",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "anthropic_stainless_202605",
+  "buyerId": "anthropic",
+  "target": "Stainless",
+  "date": "2026-05",
+  "technology": "SDK, API and MCP developer tooling",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "anthropic_runhouse_202604",
+  "buyerId": "anthropic",
+  "target": "Runhouse",
+  "date": "2026-04",
+  "technology": "AI compute orchestration",
+  "dealType": "acqui_hire_or_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "anthropic_coefficient_bio_202604",
+  "buyerId": "anthropic",
+  "target": "Coefficient Bio",
+  "date": "2026-04",
+  "technology": "AI biotechnology",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "reportedValue": {
+   "amount": 400000000,
+   "currency": "USD",
+   "approximate": true,
+   "basis": "reported stock transaction"
+  },
+  "notes": "Prior discussion indicated approximately 10 team members.",
+  "approxTeamSizeAtDeal": 10,
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "anthropic_vercept_202602",
+  "buyerId": "anthropic",
+  "target": "Vercept",
+  "date": "2026-02",
+  "technology": "Computer-use agents and embodied AI",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "notes": "Startup was founded in 2024; some founders and researchers joined Anthropic.",
+  "foundedYearReported": 2024,
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "anthropic_bun_202512",
+  "buyerId": "anthropic",
+  "target": "Bun",
+  "date": "2025-12",
+  "technology": "High-performance JavaScript runtime and tooling",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "notes": "Founder stated ~$26M raised and $0 revenue at acquisition; Bun technology was already used by Claude Code.",
+  "fundingRaisedReported": {
+   "amount": 26000000,
+   "currency": "USD",
+   "approximate": true
+  },
+  "revenueAtAcquisitionReported": {
+   "amount": 0,
+   "currency": "USD"
+  },
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "amd_world_labs_202609",
+  "buyerId": "amd",
+  "target": "World Labs",
+  "date": "2026-09",
+  "technology": "Spatial and world-model AI",
+  "dealType": "acquisition_agreement",
+  "status": "announced_pending",
+  "reportedValue": {
+   "amount": 8200000000,
+   "currency": "USD",
+   "approximate": true,
+   "basis": "reported deal value"
+  },
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "amd_taalas_202608",
+  "buyerId": "amd",
+  "target": "Taalas",
+  "date": "2026-08",
+  "technology": "Specialised AI inference hardware",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "amd_mext_202606",
+  "buyerId": "amd",
+  "target": "MEXT",
+  "date": "2026-06",
+  "technology": "Memory optimisation",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "amd_mk1_202511",
+  "buyerId": "amd",
+  "target": "MK1",
+  "date": "2025-11",
+  "technology": "AI inference optimisation",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "amd_brium_202506",
+  "buyerId": "amd",
+  "target": "Brium",
+  "date": "2025-06",
+  "technology": "AI software and framework compatibility",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "qualcomm_akeana_202610",
+  "buyerId": "qualcomm",
+  "target": "Akeana",
+  "date": "2026-10",
+  "technology": "RISC-V CPU intellectual property",
+  "dealType": "reported_acquisition",
+  "status": "reported_completed",
+  "notes": "Deal reportedly described October 21, 2026, team joining Qualcomm.",
+  "reportedDate": "2026-10-21",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "qualcomm_picknik_robotics_202609",
+  "buyerId": "qualcomm",
+  "target": "PickNik Robotics",
+  "date": "2026-09",
+  "technology": "Robotics and MoveIt",
+  "dealType": "acquisition_agreement",
+  "status": "announced_pending",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "qualcomm_modular_202607",
+  "buyerId": "qualcomm",
+  "target": "Modular",
+  "date": "2026-07",
+  "technology": "AI compilers, runtimes and inference",
+  "dealType": "full_acquisition",
+  "status": "closed",
+  "closeDate": "2026-07",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "qualcomm_augentix_202601",
+  "buyerId": "qualcomm",
+  "target": "Augentix",
+  "date": "2026-01",
+  "technology": "Vision-processing chips",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "notes": "Known to have been acquired by January 2026; exact acquisition date unspecified.",
+  "dateBasis": "reported_by"
+ },
+ {
+  "id": "qualcomm_alphawave_ip_202512",
+  "buyerId": "qualcomm",
+  "target": "Alphawave IP",
+  "date": "2025-12",
+  "technology": "High-speed interconnect and custom silicon",
+  "dealType": "full_acquisition",
+  "status": "closed",
+  "closeDate": "2025-12",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "qualcomm_ventana_micro_systems_202512",
+  "buyerId": "qualcomm",
+  "target": "Ventana Micro Systems",
+  "date": "2025-12",
+  "technology": "RISC-V CPU design",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "qualcomm_arduino_202510",
+  "buyerId": "qualcomm",
+  "target": "Arduino",
+  "date": "2025-10",
+  "technology": "Developer microcontroller ecosystem",
+  "dealType": "full_acquisition",
+  "status": "reported_completed",
+  "dateBasis": "as_described_in_prior_chat"
+ },
+ {
+  "id": "intel_mentee_robotics_202602",
+  "buyerId": "intel",
+  "target": "Mentee Robotics",
+  "date": "2026-02",
+  "technology": "Humanoid robotics",
+  "dealType": "subsidiary_acquisition",
+  "status": "reported_completed",
+  "reportedValue": {
+   "amount": 637000000,
+   "currency": "USD",
+   "basis": "reported Mobileye purchase value"
+  },
+  "buyerUnit": "Mobileye (Intel subsidiary)",
+  "dateBasis": "as_described_in_prior_chat"
+ }
+]
